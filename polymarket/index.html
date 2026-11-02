@@ -1,0 +1,540 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Polymarket Wallet Check</title>
+<meta name="description" content="Checks whether top Polymarket traders show a real edge or just got lucky, using Polymarket's public data.">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7;
+  --surface: #fcfcfb;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11,11,11,0.10);
+  --series: #2a78d6;
+  --accent: #2a78d6;
+  --good: #0ca30c;
+  --good-text: #006300;
+  --warning: #fab219;
+  --serious: #ec835a;
+  --critical: #d03b3b;
+  --neutral-chip: #f0efec;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d;
+    --surface: #1a1a19;
+    --ink: #f0efec;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --border: rgba(255,255,255,0.10);
+    --series: #3987e5;
+    --accent: #3987e5;
+    --good-text: #0ca30c;
+    --neutral-chip: #383835;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d;
+  --surface: #1a1a19;
+  --ink: #f0efec;
+  --ink-2: #c3c2b7;
+  --muted: #898781;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --border: rgba(255,255,255,0.10);
+  --series: #3987e5;
+  --accent: #3987e5;
+  --good-text: #0ca30c;
+  --neutral-chip: #383835;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+main { max-width: 860px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 1.6rem; line-height: 1.2; margin: 0 0 6px; }
+.lede { color: var(--ink-2); margin: 0 0 20px; }
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; }
+.controls label { display: flex; flex-direction: column; gap: 4px; font-size: 0.85rem; color: var(--ink-2); }
+select, input[type=text], button {
+  font: inherit;
+  font-size: 1rem;
+  color: var(--ink);
+  background: var(--page);
+  border: 1px solid var(--axis);
+  border-radius: 8px;
+  padding: 8px 10px;
+  min-height: 42px;
+}
+input[type=text] { width: 100%; }
+button { cursor: pointer; }
+button.primary { background: var(--accent); border-color: var(--accent); color: #fff; font-weight: 600; }
+button:disabled { opacity: 0.5; cursor: default; }
+.lookup { display: flex; gap: 8px; margin-top: 12px; }
+.lookup input { flex: 1; min-width: 0; }
+details summary { cursor: pointer; font-weight: 600; }
+details p, details li { color: var(--ink-2); font-size: 0.95rem; }
+#status { color: var(--ink-2); font-size: 0.95rem; min-height: 1.5em; margin: 0 0 12px; }
+#status.error { color: var(--critical); }
+.sortbar { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 12px; flex-wrap: wrap; }
+.sortbar label { font-size: 0.85rem; color: var(--ink-2); display: flex; gap: 8px; align-items: center; }
+.card { padding: 0; overflow: hidden; }
+.card > button.head {
+  all: unset;
+  display: block;
+  width: 100%;
+  padding: 16px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.card > button.head:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; border-radius: 12px; }
+.row1 { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.name { font-weight: 600; overflow-wrap: anywhere; }
+.rank { color: var(--muted); font-variant-numeric: tabular-nums; margin-right: 6px; }
+.lbpnl { font-weight: 600; white-space: nowrap; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 12px; }
+.chip {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 0.85rem; font-weight: 600;
+  padding: 3px 10px; border-radius: 999px;
+  background: var(--neutral-chip); color: var(--ink);
+}
+.dot { width: 10px; height: 10px; border-radius: 50%; flex: none; }
+.stats { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+.stat .v { font-size: 1.1rem; font-weight: 600; }
+.stat .k { font-size: 0.8rem; color: var(--ink-2); line-height: 1.3; }
+@media (max-width: 560px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+.detail { border-top: 1px solid var(--border); padding: 16px; }
+.detail h3 { font-size: 1rem; margin: 16px 0 8px; }
+.detail h3:first-child { margin-top: 0; }
+.chart-wrap { position: relative; }
+.chart-wrap svg { display: block; width: 100%; height: auto; overflow: visible; }
+.tip {
+  position: absolute; pointer-events: none;
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 6px 10px; font-size: 0.85rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15); white-space: nowrap; display: none;
+}
+.tip .t { color: var(--ink-2); }
+table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+th, td { text-align: left; padding: 6px 4px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+th { color: var(--ink-2); font-weight: 600; font-size: 0.8rem; }
+td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.pos { color: var(--good-text); }
+.neg { color: var(--critical); }
+.small { font-size: 0.85rem; color: var(--ink-2); }
+a { color: var(--accent); }
+code { overflow-wrap: anywhere; }
+footer { color: var(--muted); font-size: 0.85rem; margin-top: 32px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Polymarket Wallet Check</h1>
+  <p class="lede">Do the top Polymarket traders actually have an edge, or did they get lucky? This page pulls their real betting history from Polymarket's public data and checks. It only reads public data. It never asks for or touches a wallet.</p>
+
+  <section class="panel">
+    <div class="controls">
+      <label>Leaderboard
+        <select id="period">
+          <option value="day">Today</option>
+          <option value="week">This week</option>
+          <option value="month" selected>This month</option>
+          <option value="all">All time</option>
+        </select>
+      </label>
+      <label>How many traders
+        <select id="count">
+          <option value="10">Top 10</option>
+          <option value="25" selected>Top 25</option>
+          <option value="50">Top 50</option>
+        </select>
+      </label>
+      <button id="go" class="primary">Analyze</button>
+    </div>
+    <form class="lookup" id="lookup">
+      <input type="text" id="addr" placeholder="Or paste any wallet address (0x...)" autocomplete="off" spellcheck="false" aria-label="Wallet address">
+      <button type="submit">Check</button>
+    </form>
+  </section>
+
+  <details class="panel">
+    <summary>How to read the results</summary>
+    <p><strong>The core idea.</strong> On Polymarket, the price is the crowd's guess at the odds. Buying "Yes" at 60¢ means the market thinks it happens about 60% of the time. If a trader has no edge, buying at fair prices, their profit over many bets should hover around zero, with ups and downs from luck. The question is whether their profit is bigger than luck can reasonably explain, given how much they bet each time.</p>
+    <ul>
+      <li><strong>Clean bets</strong>: bets held until the market was decided, where the numbers add up (profit = shares × (payout − price paid)). Only these are tested. Bets sold early, or built through the complex trades market makers use, are left out because Polymarket's "price paid" for them isn't reliable. The card shows how much profit came from each group.</li>
+      <li><strong>Win rate vs expected</strong>: how often their clean bets won, next to how often the prices they paid said they should win.</li>
+      <li><strong>Edge score</strong>: their profit on clean bets compared with how much it would swing from pure luck at those bet sizes. Between −2 and 2: fits luck. 2 to 3: some evidence of an edge. 3 or more: strong evidence it isn't luck. Big bets swing a lot, so a large profit made from a few large bets can still score low.</li>
+      <li><strong>Return on money bet</strong>: profit on clean bets divided by the money put into them.</li>
+      <li><strong>"X% of winnings from 3 bets"</strong>: shown when most of their winnings came from just their 3 biggest wins. That's how lucky streaks usually look.</li>
+    </ul>
+    <p><strong>Limits, honestly.</strong> A leaderboard is a list of winners, so some people on it are there by luck alone. With 50 traders, one or two will score above 2 just by chance, which is why only 3+ counts as strong. A trader whose profit comes mostly from trading in and out, or from market making, can have a real edge that this test can't see. The history used is each wallet's most recent finished bets (up to about 3,000), not only the leaderboard period, so it may not include the bets behind their leaderboard profit. Past results never guarantee future ones.</p>
+  </details>
+
+  <p id="status" role="status"></p>
+
+  <div class="sortbar" id="sortbar" hidden>
+    <span class="small" id="summary"></span>
+    <label>Sort by
+      <select id="sort">
+        <option value="rank">Leaderboard rank</option>
+        <option value="z">Edge score</option>
+        <option value="bets">Number of bets</option>
+      </select>
+    </label>
+  </div>
+
+  <div id="results"></div>
+
+  <footer>
+    Data: Polymarket public Data API (v2). Figures are in USD (USDC). This is an analysis tool, not financial advice. Prediction-market trading is restricted in some places; check the rules where you live.
+  </footer>
+</main>
+
+<script>
+(() => {
+  const API = "https://data-api.polymarket.com/v2";
+  const MIN_BETS = 30;
+  const PAGE = 500;
+  const MAX_PAGES = { CLOSED: 4, REDEEMABLE: 2, REDEEMABLE_LOST: 2 };
+
+  const $ = (id) => document.getElementById(id);
+  const results = $("results");
+  const statusEl = $("status");
+  let rows = [];
+  let runId = 0;
+
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
+  function money(v, signed = false) {
+    if (v == null || !isFinite(v)) return "n/a";
+    const a = Math.abs(v);
+    let s;
+    if (a >= 1e6) s = "$" + (a / 1e6).toFixed(a >= 1e7 ? 1 : 2) + "M";
+    else if (a >= 1e3) s = "$" + (a / 1e3).toFixed(a >= 1e4 ? 0 : 1) + "K";
+    else s = "$" + a.toFixed(a >= 100 ? 0 : 2);
+    if (v < 0) return "−" + s;
+    return signed ? "+" + s : s;
+  }
+  const pct = (v) => (v == null || !isFinite(v) ? "n/a" : Math.round(v * 100) + "%");
+
+  function setStatus(msg, isError = false) {
+    statusEl.textContent = msg;
+    statusEl.className = isError ? "error" : "";
+  }
+
+  async function api(path, attempt = 0) {
+    const res = await fetch(API + path);
+    if (res.status === 429 || res.status === 503) {
+      if (attempt >= 4) throw new Error("Polymarket is busy right now (rate limited). Try again in a minute.");
+      const ra = Number(res.headers.get("Retry-After"));
+      await sleep((isFinite(ra) && ra > 0 ? ra : 2 ** attempt) * 1000);
+      return api(path, attempt + 1);
+    }
+    if (!res.ok) {
+      let msg = "Polymarket returned an error (" + res.status + ")";
+      try { const j = await res.json(); if (j.error) msg += ": " + j.error; } catch (_) {}
+      throw new Error(msg);
+    }
+    return res.json();
+  }
+
+  async function positions(wallet, status) {
+    const out = [];
+    let cursor = null;
+    for (let i = 0; i < MAX_PAGES[status]; i++) {
+      const q = "/positions?user=" + wallet + "&status=" + status +
+        (cursor ? "&cursor=" + encodeURIComponent(cursor) : "&limit=" + PAGE + "&sort_by=TIMESTAMP&sort_direction=DESC");
+      const r = await api(q);
+      out.push(...(r.data || []));
+      cursor = r.pagination && r.pagination.next_cursor;
+      if (!cursor) break;
+    }
+    return out;
+  }
+
+  // A "clean" bet is one held until the market resolved, where the reported
+  // profit matches shares x (payout - average price). Positions sold early or
+  // built through splits/conversions fail this check; for those, the reported
+  // average price is not a reliable "price paid", so they are left out of the test.
+  function isClean(p) {
+    const f = p.current_price;
+    if (f !== 0 && f !== 1) return false;
+    const expected = p.total_size * (f - p.avg_price);
+    const tol = 0.02 * p.total_size * Math.max(p.avg_price, 1 - p.avg_price) + 1;
+    return Math.abs(p.total_pnl - expected) <= tol;
+  }
+
+  function analyze(list) {
+    const seen = new Map();
+    for (const p of list) seen.set(p.token_id, p);
+    const all = [...seen.values()].filter((p) => p.avg_price > 0 && p.avg_price < 1 && p.total_size > 0);
+    const clean = all.filter(isClean);
+    let wins = 0, expectedWins = 0, staked = 0, profit = 0, moneyVar = 0, otherProfit = 0;
+    for (const p of all) if (!isClean(p)) otherProfit += p.total_pnl;
+    for (const p of clean) {
+      const price = p.avg_price;
+      if (p.current_price === 1) wins++;
+      expectedWins += price;
+      staked += p.total_size * price;
+      profit += p.total_pnl;
+      // With no edge, a bet bought at price p wins with probability p, so its
+      // expected profit is 0 and its variance is shares^2 * p * (1 - p).
+      moneyVar += p.total_size * p.total_size * price * (1 - price);
+    }
+    const n = clean.length;
+    const gains = clean.map((p) => p.total_pnl).filter((x) => x > 0).sort((a, b) => b - a);
+    const grossWin = gains.reduce((a, b) => a + b, 0);
+    const sorted = [...clean].sort((a, b) => b.total_pnl - a.total_pnl);
+    return {
+      n,
+      total: all.length,
+      winRate: n ? wins / n : null,
+      expectedRate: n ? expectedWins / n : null,
+      z: moneyVar > 0 ? profit / Math.sqrt(moneyVar) : null,
+      top3Share: grossWin > 0 ? gains.slice(0, 3).reduce((a, b) => a + b, 0) / grossWin : null,
+      roi: staked > 0 ? profit / staked : null,
+      profit,
+      otherProfit,
+      bestBets: sorted.slice(0, 5).filter((p) => p.total_pnl > 0),
+      worstBets: sorted.slice(-5).reverse().filter((p) => p.total_pnl < 0),
+    };
+  }
+
+  function verdict(a) {
+    if (a.n < MIN_BETS) return { label: "Not enough clean bets to judge", color: "var(--muted)", icon: "?" };
+    if (a.z >= 3) return { label: "Strong sign of an edge", color: "var(--good)", icon: "✓" };
+    if (a.z >= 2) return { label: "Some sign of an edge", color: "var(--warning)", icon: "~" };
+    if (a.z <= -2) return { label: "Losing more than luck explains", color: "var(--critical)", icon: "✕" };
+    return { label: "Results fit luck", color: "var(--serious)", icon: "!" };
+  }
+
+  async function analyzeWallet(row) {
+    const all = [];
+    for (const s of ["CLOSED", "REDEEMABLE", "REDEEMABLE_LOST"]) {
+      all.push(...(await positions(row.wallet, s)));
+    }
+    row.a = analyze(all);
+  }
+
+  async function pool(items, limit, fn) {
+    let i = 0;
+    const workers = Array.from({ length: Math.min(limit, items.length) }, async () => {
+      while (i < items.length) { const it = items[i++]; await fn(it); }
+    });
+    await Promise.all(workers);
+  }
+
+  async function run(fetchRows) {
+    const id = ++runId;
+    $("go").disabled = true;
+    results.innerHTML = "";
+    $("sortbar").hidden = true;
+    rows = [];
+    try {
+      setStatus("Loading traders…");
+      rows = await fetchRows();
+      if (id !== runId) return;
+      if (!rows.length) { setStatus("No traders found."); return; }
+      let done = 0;
+      setStatus("Checking betting history: 0 of " + rows.length + " traders…");
+      await pool(rows, 4, async (row) => {
+        try { await analyzeWallet(row); }
+        catch (e) { row.err = e.message; }
+        done++;
+        if (id === runId) setStatus("Checking betting history: " + done + " of " + rows.length + " traders…");
+      });
+      if (id !== runId) return;
+      const failed = rows.filter((r) => r.err).length;
+      setStatus(failed ? failed + " trader(s) couldn't be loaded; see their cards." : "");
+      render();
+    } catch (e) {
+      if (id === runId) setStatus(e.message || "Something went wrong loading data.", true);
+    } finally {
+      if (id === runId) $("go").disabled = false;
+    }
+  }
+
+  async function fromLeaderboard() {
+    const period = $("period").value, count = $("count").value;
+    const r = await api("/leaderboard?time_period=" + period + "&sort_by=PNL&limit=" + count);
+    return (r.data || []).map((u) => ({
+      wallet: u.user_id,
+      name: u.user_name || shortAddr(u.user_id),
+      rank: u.rank,
+      lbPnl: u.pnl,
+      periodLabel: $("period").selectedOptions[0].textContent.toLowerCase(),
+    }));
+  }
+
+  const shortAddr = (w) => w.slice(0, 6) + "…" + w.slice(-4);
+
+  function render() {
+    const by = $("sort").value;
+    const list = [...rows];
+    const key = (r) => (by === "z" ? (r.a && r.a.n >= MIN_BETS ? r.a.z : -Infinity) : by === "bets" ? (r.a ? r.a.n : -1) : -(r.rank ?? 1e9));
+    list.sort((x, y) => key(y) - key(x));
+    const judged = rows.filter((r) => r.a && r.a.n >= MIN_BETS);
+    const strong = judged.filter((r) => r.a.z >= 3).length;
+    $("summary").textContent = rows.length > 1
+      ? strong + " of " + judged.length + " traders with enough bets show a strong sign of an edge."
+      : "";
+    $("sortbar").hidden = rows.length < 2;
+    results.innerHTML = list.map(cardHTML).join("");
+  }
+
+  function cardHTML(r, i) {
+    const idx = rows.indexOf(r);
+    const head = '<div class="row1"><span class="name">' + (r.rank != null ? '<span class="rank">#' + esc(r.rank) + '</span>' : "") + esc(r.name) + '</span>' +
+      (r.lbPnl != null ? '<span class="lbpnl ' + (r.lbPnl >= 0 ? "pos" : "neg") + '" title="Profit ' + esc(r.periodLabel) + '">' + money(r.lbPnl, true) + '</span>' : "") + '</div>';
+    if (r.err) {
+      return '<section class="panel card"><div class="head" style="padding:16px">' + head + '<p class="small neg">Couldn\'t load this trader: ' + esc(r.err) + '</p></div></section>';
+    }
+    const a = r.a, v = verdict(a);
+    const chips = '<div class="chips"><span class="chip"><span class="dot" style="background:' + v.color + '"></span>' + esc(v.icon) + " " + esc(v.label) + '</span>' +
+      (a.top3Share != null && a.top3Share >= 0.6 && a.n >= 5 ? '<span class="chip"><span class="dot" style="background:var(--warning)"></span>! ' + pct(a.top3Share) + ' of winnings from 3 bets</span>' : "") + '</div>';
+    const stat = (v2, k) => '<div class="stat"><div class="v">' + v2 + '</div><div class="k">' + k + '</div></div>';
+    const stats = '<div class="stats">' +
+      stat(a.n.toLocaleString() + ' <span class="small">of ' + a.total.toLocaleString() + '</span>', "Clean bets checked") +
+      stat(pct(a.winRate) + ' <span class="small">vs ' + pct(a.expectedRate) + '</span>', "Win rate vs expected from prices") +
+      stat(a.z == null ? "n/a" : (a.z >= 0 ? "+" : "−") + Math.abs(a.z).toFixed(1), "Edge score (3+ is strong)") +
+      stat(a.roi == null ? "n/a" : '<span class="' + (a.roi >= 0 ? "pos" : "neg") + '">' + (a.roi >= 0 ? "+" : "−") + Math.abs(a.roi * 100).toFixed(1) + "%</span>", "Return on money bet") +
+      '</div>' +
+      '<p class="small" style="margin:10px 0 0">Profit from clean bets checked: <strong class="' + (a.profit >= 0 ? "pos" : "neg") + '">' + money(a.profit, true) + '</strong>. From other bets (sold early or complex trades, not tested): ' + money(a.otherProfit, true) + '.</p>';
+    return '<section class="panel card" data-i="' + idx + '"><button class="head" aria-expanded="false">' + head + chips + stats +
+      '<div class="small" style="margin-top:10px">Tap for profit over time and biggest bets</div></button><div class="detail" hidden></div></section>';
+  }
+
+  results.addEventListener("click", (e) => {
+    const btn = e.target.closest("button.head");
+    if (!btn) return;
+    const card = btn.closest(".card");
+    const det = card.querySelector(".detail");
+    const open = det.hidden;
+    det.hidden = !open;
+    btn.setAttribute("aria-expanded", String(open));
+    if (open && !det.dataset.loaded) {
+      det.dataset.loaded = "1";
+      loadDetail(rows[Number(card.dataset.i)], det);
+    }
+  });
+
+  function betTable(list, title) {
+    if (!list.length) return "";
+    return '<h3>' + title + '</h3><table><thead><tr><th>Market</th><th>Picked</th><th class="num">Paid</th><th class="num">Result</th></tr></thead><tbody>' +
+      list.map((p) => '<tr><td>' + esc(p.title) + '</td><td>' + esc(p.outcome) + '</td><td class="num">' + Math.round(p.avg_price * 100) + '¢</td><td class="num ' + (p.total_pnl >= 0 ? "pos" : "neg") + '">' + money(p.total_pnl, true) + '</td></tr>').join("") +
+      '</tbody></table>';
+  }
+
+  async function loadDetail(r, det) {
+    const a = r.a;
+    det.innerHTML = '<h3>Profit over time (all bets, after fees)</h3><div class="chart-wrap"><p class="small">Loading…</p></div>' +
+      betTable(a.bestBets, "Biggest wins (clean bets)") + betTable(a.worstBets, "Biggest losses (clean bets)") +
+      '<p class="small" style="margin-top:12px">Wallet <code>' + esc(r.wallet) + '</code> · <a href="https://polymarket.com/profile/' + encodeURIComponent(r.wallet) + '" target="_blank" rel="noopener">View on Polymarket</a></p>';
+    const wrap = det.querySelector(".chart-wrap");
+    try {
+      const res = await api("/user-pnl?user=" + r.wallet + "&interval=max&fidelity=1d");
+      const pts = ((res.data && res.data.points) || [])
+        .filter((p) => p.economic_pnl != null)
+        .map((p) => ({ t: p.timestamp * 1000, v: p.economic_pnl }));
+      if (pts.length < 2) { wrap.innerHTML = '<p class="small">Not enough history to chart.</p>'; return; }
+      drawChart(wrap, pts);
+    } catch (e) {
+      wrap.innerHTML = '<p class="small neg">Couldn\'t load the chart: ' + esc(e.message) + '</p>';
+    }
+  }
+
+  function niceTicks(min, max, count) {
+    const span = max - min || Math.abs(max) || 1;
+    const step0 = span / count, mag = Math.pow(10, Math.floor(Math.log10(step0)));
+    const step = [1, 2, 2.5, 5, 10].map((m) => m * mag).find((s) => span / s <= count) || 10 * mag;
+    const out = [];
+    for (let v = Math.floor(min / step) * step; v <= max + step * 0.001; v += step) out.push(v);
+    return out;
+  }
+
+  function drawChart(wrap, pts) {
+    // Size the drawing to the real container width so text stays at true 11-12px on phones.
+    const W = Math.max(280, Math.round(wrap.clientWidth || 640)), H = 200, L = 56, R = 12, T = 10, B = 26;
+    const t0 = pts[0].t, t1 = pts[pts.length - 1].t;
+    let vmin = Math.min(0, ...pts.map((p) => p.v)), vmax = Math.max(0, ...pts.map((p) => p.v));
+    const ticks = niceTicks(vmin, vmax, 4);
+    vmin = Math.min(vmin, ticks[0]); vmax = Math.max(vmax, ticks[ticks.length - 1]);
+    const x = (t) => L + ((t - t0) / (t1 - t0 || 1)) * (W - L - R);
+    const y = (v) => T + (1 - (v - vmin) / (vmax - vmin || 1)) * (H - T - B);
+    const fmtDate = (t) => new Date(t).toLocaleDateString(undefined, { month: "short", day: "numeric", year: t1 - t0 > 300 * 864e5 ? "2-digit" : undefined });
+    let svg = '<svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Profit over time, from ' + money(pts[0].v, true) + ' to ' + money(pts[pts.length - 1].v, true) + '">';
+    for (const tv of ticks) {
+      svg += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + y(tv) + '" y2="' + y(tv) + '" stroke="' + (tv === 0 ? "var(--axis)" : "var(--grid)") + '" stroke-width="1"/>';
+      svg += '<text x="' + (L - 8) + '" y="' + (y(tv) + 4) + '" text-anchor="end" font-size="11" fill="var(--muted)" style="font-variant-numeric:tabular-nums">' + money(tv) + '</text>';
+    }
+    svg += '<text x="' + L + '" y="' + (H - 6) + '" font-size="11" fill="var(--muted)">' + fmtDate(t0) + '</text>';
+    svg += '<text x="' + (W - R) + '" y="' + (H - 6) + '" font-size="11" fill="var(--muted)" text-anchor="end">' + fmtDate(t1) + '</text>';
+    svg += '<path d="' + pts.map((p, i) => (i ? "L" : "M") + x(p.t).toFixed(1) + "," + y(p.v).toFixed(1)).join("") + '" fill="none" stroke="var(--series)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>';
+    svg += '<line class="xh" y1="' + T + '" y2="' + (H - B) + '" stroke="var(--axis)" stroke-width="1" visibility="hidden"/>';
+    svg += '<circle class="hd" r="5" fill="var(--series)" stroke="var(--surface)" stroke-width="2" visibility="hidden"/>';
+    svg += '<rect x="' + L + '" y="0" width="' + (W - L - R) + '" height="' + H + '" fill="transparent" style="touch-action:pan-y"/>';
+    svg += '</svg><div class="tip"></div>';
+    wrap.innerHTML = svg;
+    const el = wrap.querySelector("svg"), xh = el.querySelector(".xh"), hd = el.querySelector(".hd"), tip = wrap.querySelector(".tip");
+    const move = (clientX) => {
+      const box = el.getBoundingClientRect();
+      const sx = ((clientX - box.left) / box.width) * W;
+      let best = pts[0], bd = Infinity;
+      for (const p of pts) { const d = Math.abs(x(p.t) - sx); if (d < bd) { bd = d; best = p; } }
+      const px = x(best.t), py = y(best.v);
+      xh.setAttribute("x1", px); xh.setAttribute("x2", px); xh.setAttribute("visibility", "visible");
+      hd.setAttribute("cx", px); hd.setAttribute("cy", py); hd.setAttribute("visibility", "visible");
+      tip.innerHTML = '<div class="t">' + new Date(best.t).toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" }) + '</div><strong>' + money(best.v, true) + '</strong>';
+      tip.style.display = "block";
+      const scale = box.width / W;
+      let left = px * scale + 12;
+      if (left + tip.offsetWidth > box.width) left = px * scale - tip.offsetWidth - 12;
+      tip.style.left = Math.max(0, left) + "px";
+      tip.style.top = Math.max(0, py * scale - tip.offsetHeight - 8) + "px";
+    };
+    const hide = () => { xh.setAttribute("visibility", "hidden"); hd.setAttribute("visibility", "hidden"); tip.style.display = "none"; };
+    el.addEventListener("pointermove", (e) => move(e.clientX));
+    el.addEventListener("pointerdown", (e) => move(e.clientX));
+    el.addEventListener("pointerleave", hide);
+  }
+
+  $("go").addEventListener("click", () => run(fromLeaderboard));
+  $("sort").addEventListener("change", render);
+  $("lookup").addEventListener("submit", (e) => {
+    e.preventDefault();
+    const w = $("addr").value.trim().toLowerCase();
+    if (!/^0x[0-9a-f]{40}$/.test(w)) { setStatus("That doesn't look like a wallet address. It should start with 0x followed by 40 letters and numbers.", true); return; }
+    run(async () => {
+      let name = shortAddr(w);
+      try { const s = await api("/leaderboard?user=" + w + "&time_period=all"); if (s.data && s.data.user_name) name = s.data.user_name; } catch (_) {}
+      return [{ wallet: w, name, rank: null, lbPnl: null }];
+    });
+  });
+
+  run(fromLeaderboard);
+})();
+</script>
+</body>
+</html>
