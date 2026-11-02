@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Polymarket Bot</title>
+<meta name="description" content="A Polymarket trading bot running a 2-week test with $1,000 of fake money.">
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,0.10); --series: #2a78d6; --accent: #2a78d6;
+  --good: #0ca30c; --good-text: #006300; --warning: #fab219; --critical: #d03b3b; --chip: #f0efec;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --grid: #2c2c2a; --axis: #383835;
+    --border: rgba(255,255,255,0.10); --series: #3987e5; --accent: #3987e5; --good-text: #0ca30c; --chip: #383835;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --grid: #2c2c2a; --axis: #383835;
+  --border: rgba(255,255,255,0.10); --series: #3987e5; --accent: #3987e5; --good-text: #0ca30c; --chip: #383835;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 16px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 760px; margin: 0 auto; padding: 24px 16px 64px; }
+h1 { font-size: 1.6rem; line-height: 1.2; margin: 0 0 6px; }
+h2 { font-size: 1.1rem; margin: 24px 0 10px; }
+.lede { color: var(--ink-2); margin: 0 0 16px; }
+.panel { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 16px; margin-bottom: 10px; }
+.big { font-size: 2.2rem; font-weight: 700; line-height: 1.1; }
+.small { font-size: 0.85rem; color: var(--ink-2); }
+.pos { color: var(--good-text); }
+.neg { color: var(--critical); }
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 0.8rem; font-weight: 600; padding: 2px 10px; border-radius: 999px; background: var(--chip); }
+.dot { width: 9px; height: 9px; border-radius: 50%; flex: none; }
+.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 12px; }
+.stat .v { font-size: 1.1rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.stat .k { font-size: 0.8rem; color: var(--ink-2); }
+.row { display: flex; justify-content: space-between; gap: 12px; align-items: baseline; }
+.row .r { white-space: nowrap; font-variant-numeric: tabular-nums; font-weight: 600; }
+.chart-wrap { position: relative; margin-top: 12px; }
+.chart-wrap svg { display: block; width: 100%; height: auto; overflow: visible; }
+.tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; font-size: 0.85rem; box-shadow: 0 2px 8px rgba(0,0,0,0.15); white-space: nowrap; display: none; }
+details summary { cursor: pointer; font-weight: 600; }
+details p, details li { color: var(--ink-2); font-size: 0.95rem; }
+a { color: var(--accent); }
+.err { color: var(--critical); }
+footer { color: var(--muted); font-size: 0.85rem; margin-top: 32px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Polymarket Bot</h1>
+  <p class="lede"><span class="chip"><span class="dot" style="background:var(--warning)"></span>FAKE MONEY TEST</span> <span id="day"></span></p>
+
+  <section class="panel">
+    <div class="small">Account value (started with $1,000)</div>
+    <div class="big" id="value">…</div>
+    <div id="pnl" style="font-weight:600"></div>
+    <div class="stats">
+      <div class="stat"><div class="v" id="open">…</div><div class="k">Open bets</div></div>
+      <div class="stat"><div class="v" id="done">…</div><div class="k">Finished bets</div></div>
+      <div class="stat"><div class="v" id="winrate">…</div><div class="k">Won</div></div>
+    </div>
+    <div class="chart-wrap" id="chart"></div>
+    <p class="small" id="updated" style="margin:8px 0 0"></p>
+  </section>
+
+  <details class="panel">
+    <summary>What the bot does</summary>
+    <p>Every 2 hours it wakes up and:</p>
+    <ul>
+      <li><strong>Copies skilled traders.</strong> It follows the traders that passed the luck-vs-skill test and copies their new bets, unless the price has already moved.</li>
+      <li><strong>Looks for price gaps.</strong> Sometimes the prices across all answers to a question add up wrong, so buying every answer locks in a small profit.</li>
+      <li><strong>Reads the news.</strong> It checks the news on a few popular questions and bets when it thinks the price is clearly wrong.</li>
+      <li><strong>Sizes every bet with Kelly.</strong> Bigger edge, bigger bet. It uses a quarter of the full Kelly amount and never more than 5% of the account on one bet, to avoid blowing up.</li>
+    </ul>
+    <p>Prices, fees and results are real. The money is not. After 2 weeks, check whether it made or lost money before even thinking about real money.</p>
+  </details>
+
+  <h2>Latest activity</h2>
+  <div id="log"></div>
+  <h2>Open bets</h2>
+  <div id="positions"></div>
+  <h2>Finished bets</h2>
+  <div id="closed"></div>
+
+  <footer>Data: Polymarket public APIs. The bot never uses real money or a wallet. <a href="../">Wallet check</a> · <a href="../practice/">Practice account</a></footer>
+</main>
+<script>
+(() => {
+  const STATE_URL = "https://raw.githubusercontent.com/jennbabe29/jennbabe29.github.io/bot-state/state.json";
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+  const money = (v, signed) => {
+    if (v == null || !isFinite(v)) return "n/a";
+    const s = "$" + Math.abs(v).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+    return v < -0.004 ? "−" + s : signed && v > 0.004 ? "+" + s : s;
+  };
+  const cls = (v) => (v > 0.004 ? "pos" : v < -0.004 ? "neg" : "");
+  const when = (t) => new Date(t).toLocaleString(undefined, { month: "short", day: "numeric", hour: "numeric", minute: "2-digit" });
+  const SRC = { copy: "Copied a trader", arb: "Price gap", news: "News" };
+
+  function chart(snaps) {
+    const wrap = $("chart");
+    if (snaps.length < 2) { wrap.innerHTML = '<p class="small">The chart appears after a few runs.</p>'; return; }
+    const W = Math.max(280, Math.round(wrap.clientWidth || 600)), H = 160, L = 64, R = 10, T = 8, B = 22;
+    const pts = snaps.map((s) => ({ t: s.t, v: s.value }));
+    let lo = Math.min(1000, ...pts.map((p) => p.v)), hi = Math.max(1000, ...pts.map((p) => p.v));
+    const pad = Math.max(1, (hi - lo) * 0.1); lo -= pad; hi += pad;
+    const t0 = pts[0].t, t1 = pts[pts.length - 1].t;
+    const x = (t) => L + ((t - t0) / (t1 - t0 || 1)) * (W - L - R);
+    const y = (v) => T + (1 - (v - lo) / (hi - lo)) * (H - T - B);
+    const lab = (v) => "$" + Math.round(v).toLocaleString();
+    let s = '<svg viewBox="0 0 ' + W + " " + H + '" role="img" aria-label="Account value over time">';
+    s += '<line x1="' + L + '" x2="' + (W - R) + '" y1="' + y(1000) + '" y2="' + y(1000) + '" stroke="var(--axis)" stroke-dasharray="3 3"/>';
+    s += '<text x="' + (L - 6) + '" y="' + (y(1000) + 4) + '" text-anchor="end" font-size="11" fill="var(--muted)">$1,000</text>';
+    s += '<text x="' + (L - 6) + '" y="' + (T + 10) + '" text-anchor="end" font-size="11" fill="var(--muted)">' + lab(hi) + "</text>";
+    s += '<text x="' + (L - 6) + '" y="' + (H - B) + '" text-anchor="end" font-size="11" fill="var(--muted)">' + lab(lo) + "</text>";
+    s += '<text x="' + L + '" y="' + (H - 4) + '" font-size="11" fill="var(--muted)">' + new Date(t0).toLocaleDateString(undefined, { month: "short", day: "numeric" }) + "</text>";
+    s += '<text x="' + (W - R) + '" y="' + (H - 4) + '" font-size="11" fill="var(--muted)" text-anchor="end">' + new Date(t1).toLocaleDateString(undefined, { month: "short", day: "numeric" }) + "</text>";
+    s += '<path d="' + pts.map((p, i) => (i ? "L" : "M") + x(p.t).toFixed(1) + "," + y(p.v).toFixed(1)).join("") + '" fill="none" stroke="var(--series)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>';
+    s += '<circle class="hd" r="5" fill="var(--series)" stroke="var(--surface)" stroke-width="2" visibility="hidden"/>';
+    s += '<rect x="' + L + '" y="0" width="' + (W - L - R) + '" height="' + H + '" fill="transparent" style="touch-action:pan-y"/></svg><div class="tip"></div>';
+    wrap.innerHTML = s;
+    const svg = wrap.querySelector("svg"), hd = svg.querySelector(".hd"), tip = wrap.querySelector(".tip");
+    const move = (cx) => {
+      const box = svg.getBoundingClientRect(), sx = ((cx - box.left) / box.width) * W;
+      let best = pts[0]; for (const p of pts) if (Math.abs(x(p.t) - sx) < Math.abs(x(best.t) - sx)) best = p;
+      hd.setAttribute("cx", x(best.t)); hd.setAttribute("cy", y(best.v)); hd.setAttribute("visibility", "visible");
+      tip.innerHTML = '<div class="small">' + when(best.t) + "</div><strong>" + money(best.v) + "</strong>";
+      tip.style.display = "block";
+      const sc = box.width / W; let left = x(best.t) * sc + 10;
+      if (left + tip.offsetWidth > box.width) left = x(best.t) * sc - tip.offsetWidth - 10;
+      tip.style.left = Math.max(0, left) + "px"; tip.style.top = Math.max(0, y(best.v) * sc - tip.offsetHeight - 8) + "px";
+    };
+    svg.addEventListener("pointermove", (e) => move(e.clientX));
+    svg.addEventListener("pointerdown", (e) => move(e.clientX));
+    svg.addEventListener("pointerleave", () => { hd.setAttribute("visibility", "hidden"); tip.style.display = "none"; });
+  }
+
+  async function load() {
+    let S;
+    try {
+      const res = await fetch(STATE_URL + "?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error(res.status === 404 ? "The bot hasn't saved its first run yet." : "Couldn't load the bot's data (" + res.status + ").");
+      S = await res.json();
+    } catch (e) {
+      $("value").textContent = "—"; $("updated").innerHTML = '<span class="err">' + esc(e.message) + "</span>"; return;
+    }
+    const positions = Object.values(S.positions || {});
+    const value = S.cash + positions.reduce((a, p) => a + (p.value ?? p.cost_ex), 0);
+    const pnl = value - S.start_cash;
+    const day = Math.floor((Date.now() - S.created_at) / 864e5) + 1;
+    $("day").textContent = "Day " + Math.min(day, 14) + " of 14" + (day > 14 ? " (test finished, review the results)" : "");
+    $("value").textContent = money(value);
+    $("pnl").innerHTML = '<span class="' + cls(pnl) + '">' + money(pnl, true) + " (" + (pnl >= 0 ? "+" : "−") + Math.abs((pnl / S.start_cash) * 100).toFixed(1) + "%)</span>";
+    const closed = S.closed || [];
+    const settled = closed.filter((c) => c.result === "won" || c.result === "lost");
+    $("open").textContent = positions.length;
+    $("done").textContent = closed.length;
+    $("winrate").textContent = settled.length ? Math.round((settled.filter((c) => c.result === "won").length / settled.length) * 100) + "%" : "n/a";
+    $("updated").textContent = S.last_run ? "Last run " + when(S.last_run) + ". Runs every 2 hours. Values of open bets are estimates." : "";
+    chart(S.snapshots || []);
+
+    const log = (S.log || []).slice(0, 12);
+    $("log").innerHTML = log.length ? '<div class="panel">' + log.map((l) => '<div style="margin-bottom:8px"><div class="small">' + when(l.t) + "</div>" + esc(l.msg) + "</div>").join("") + "</div>" : '<p class="small">Nothing yet.</p>';
+
+    positions.sort((a, b) => b.opened_at - a.opened_at);
+    $("positions").innerHTML = positions.length ? positions.map((p) => {
+      const cost = p.cost_ex + p.fees, pl = (p.value ?? p.cost_ex) - cost;
+      return '<div class="panel"><div class="row"><span class="chip">' + esc(SRC[p.source] || p.source) + "</span>" + (p.status ? '<span class="small">' + esc(p.status) + "</span>" : "") + "</div>" +
+        '<div style="margin-top:6px"><strong>' + esc(p.outcome) + "</strong> · " + esc(p.question) + "</div>" +
+        '<div class="row" style="margin-top:4px"><span class="small">Bet ' + money(cost) + " · pays " + money(p.shares) + ' if it wins</span><span class="r ' + cls(pl) + '">' + money(pl, true) + "</span></div>" +
+        (p.reason ? '<div class="small" style="margin-top:4px">Why: ' + esc(p.reason) + "</div>" : "") + "</div>";
+    }).join("") : '<p class="small">None right now.</p>';
+
+    $("closed").innerHTML = closed.length ? closed.slice(0, 50).map((c) => {
+      const tag = c.result === "won" ? ["var(--good)", "Won"] : c.result === "lost" ? ["var(--critical)", "Lost"] : c.result === "split" ? ["var(--warning)", "50/50"] : ["var(--muted)", "Sold"];
+      return '<div class="panel"><div class="row"><span class="chip"><span class="dot" style="background:' + tag[0] + '"></span>' + tag[1] + " · " + esc(SRC[c.source] || c.source) + '</span><span class="small">' + when(c.t) + "</span></div>" +
+        '<div style="margin-top:6px"><strong>' + esc(c.outcome) + "</strong> · " + esc(c.question) + "</div>" +
+        '<div class="row" style="margin-top:4px"><span class="small">Bet ' + money(c.cost) + '</span><span class="r ' + cls(c.pnl) + '">' + money(c.pnl, true) + "</span></div></div>";
+    }).join("") : '<p class="small">None yet. Bets finish when their event is decided.</p>';
+  }
+  load();
+})();
+</script>
+</body>
+</html>
