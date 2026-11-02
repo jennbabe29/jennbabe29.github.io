@@ -1,11 +1,40 @@
 {
   "note": "Traders already reported by the daily Polymarket watch. Wallet -> date first reported and edge score then.",
   "seen": {
-    "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {"name": "primm", "first_reported": "2026-11-02", "edge_score": 8.1},
-    "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": {"name": "hi774c", "first_reported": "2026-11-02", "edge_score": 7.7},
-    "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": {"name": "Sisyphus-", "first_reported": "2026-11-02", "edge_score": 6.3},
-    "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {"name": "0xE16D3F2A...5e30", "first_reported": "2026-11-02", "edge_score": 3.9},
-    "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {"name": "BrotherObama", "first_reported": "2026-11-02", "edge_score": 3.8},
-    "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": {"name": "0xC9BFc798...81c0", "first_reported": "2026-11-02", "edge_score": 3.1}
+    "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
+      "name": "primm",
+      "first_reported": "2026-11-02",
+      "edge_score": 8.1
+    },
+    "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": {
+      "name": "hi774c",
+      "first_reported": "2026-11-02",
+      "edge_score": 7.7
+    },
+    "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": {
+      "name": "Sisyphus-",
+      "first_reported": "2026-11-02",
+      "edge_score": 6.3
+    },
+    "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {
+      "name": "0xE16D3F2A...5e30",
+      "first_reported": "2026-11-02",
+      "edge_score": 3.9
+    },
+    "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
+      "name": "BrotherObama",
+      "first_reported": "2026-11-02",
+      "edge_score": 3.8
+    },
+    "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": {
+      "name": "0xC9BFc798...81c0",
+      "first_reported": "2026-11-02",
+      "edge_score": 3.1
+    },
+    "0xecaa8806a9a05049d7d5260a33dc924220e377a9": {
+      "name": "Melody626",
+      "first_reported": "2026-11-02",
+      "edge_score": 4
+    }
   }
 }
