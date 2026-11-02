@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 953.3549149743001,
+ "cash": 954.5384004416636,
  "created_at": 1793597589071,
- "last_run": 1793614559716,
+ "last_run": 1793622098195,
  "positions": {
   "84797201748874551717725889779660363381612805859821887843167958694798386197907": {
    "token": "84797201748874551717725889779660363381612805859821887843167958694798386197907",
@@ -22,7 +22,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 6.279444388495318,
+   "value": 7.086801524159003,
    "status": null
   },
   "1337123143861361613883572670093078284361532761465949583341340428966274606564": {
@@ -42,67 +42,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.3631901237133186,
-   "status": null
-  },
-  "15599157922984891007791050375692742820961881014906431596039700057982931145550": {
-   "token": "15599157922984891007791050375692742820961881014906431596039700057982931145550",
-   "market_id": "5977787",
-   "slug": "cs2-mouz-tyloo-2026-11-02-game1",
-   "question": "Counter-Strike: MOUZ vs TYLOO - Map 1 Winner",
-   "outcome": "MOUZ",
-   "idx": 0,
-   "shares": 11.14789550390712,
-   "cost_ex": 8.36092162793034,
-   "fees": 0.10451152034912928,
-   "opened_at": 1793597612828,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.76)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 9.36423222328198,
-   "status": null
-  },
-  "37090289871806625554554302268363571646236386139241186809141182036284215023340": {
-   "token": "37090289871806625554554302268363571646236386139241186809141182036284215023340",
-   "market_id": "5977780",
-   "slug": "cs2-furia-faze-2026-11-02-total-games-2pt5",
-   "question": "Games Total: O/U 2.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 5.314072286453618,
-   "cost_ex": 2.975880480414026,
-   "fees": 0.06546937056910856,
-   "opened_at": 1793597613054,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.56)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.37198506005175297,
-   "status": null
-  },
-  "68563769316039541831773432571586407129519813196430448394035806990721764482875": {
-   "token": "68563769316039541831773432571586407129519813196430448394035806990721764482875",
-   "market_id": "5977781",
-   "slug": "cs2-furia-faze-2026-11-02-map-handicap-away-1pt5",
-   "question": "Map Handicap: FURIA (-1.5) vs FaZe (+1.5)",
-   "outcome": "FURIA",
-   "idx": 0,
-   "shares": 5.338743886553365,
-   "cost_ex": 2.295659871217947,
-   "fees": 0.0654263063297115,
-   "opened_at": 1793597613273,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.43)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.0026693719432766827,
+   "value": 2.7307974762909457,
    "status": null
   },
   "95923548653779483656509593636530925295685440832164109922044008050334839122718": {
@@ -122,52 +62,207 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 18.85264856603191,
+   "value": 0.015452990627895008,
    "status": null
   },
-  "94637065408796873076321047578432668090799728870754719016969475818999818989131": {
-   "token": "94637065408796873076321047578432668090799728870754719016969475818999818989131",
-   "market_id": "5977791",
-   "slug": "cs2-mouz-tyloo-2026-11-02-map-handicap-away-1pt5",
-   "question": "Map Handicap: MOUZ (-1.5) vs TYLOO (+1.5)",
-   "outcome": "TYLOO",
-   "idx": 1,
-   "shares": 6.656749952822458,
-   "cost_ex": 2.3298624834878603,
-   "fees": 0.07572053071335545,
-   "opened_at": 1793607365413,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.32)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 1.930457486318513,
-   "status": null
-  },
-  "104615112963761639343878511689204713205743464975509956920324654176654765724768": {
-   "token": "104615112963761639343878511689204713205743464975509956920324654176654765724768",
-   "market_id": "6553457",
-   "slug": "cs2-maybe-hon1-2026-11-02",
-   "question": "Counter-Strike: maybe vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series #13 Group A",
-   "outcome": "maybe",
+  "26213893361856933438807998014722825570854909929695931897284701280963647561017": {
+   "token": "26213893361856933438807998014722825570854909929695931897284701280963647561017",
+   "market_id": "6388992",
+   "slug": "dota2-legion1-huliga-2026-11-02-game2",
+   "question": "Dota 2: LEGION vs HULIGANI - Game 2 Winner",
+   "outcome": "LEGION",
    "idx": 0,
-   "shares": 5.014967036762325,
-   "cost_ex": 2.557633188748786,
-   "fees": 0.06266201312434526,
-   "opened_at": 1793614558640,
+   "shares": 9619.54381032242,
+   "cost_ex": 9.619543810322421,
+   "fees": 0.480496213325605,
+   "opened_at": 1793622096489,
    "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.51)",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.592899612)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.5074835183811626,
+   "value": 4.8097719051612104,
+   "status": null
+  },
+  "90531128503662011412121464777266843695834678686998547485666122381151672244354": {
+   "token": "90531128503662011412121464777266843695834678686998547485666122381151672244354",
+   "market_id": "6554631",
+   "slug": "cs2-meg1-fal-2026-11-02",
+   "question": "Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B",
+   "outcome": "Falcons Force",
+   "idx": 1,
+   "shares": 6.753184702684031,
+   "cost_ex": 2.2960827989125705,
+   "fees": 0.07577073236411483,
+   "opened_at": 1793622097294,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.6)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 3.1739968102614946,
    "status": null
   }
  },
- "closed": [],
+ "closed": [
+  {
+   "t": 1793622094843,
+   "question": "Counter-Strike: maybe vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series #13 Group A",
+   "outcome": "maybe",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.51)",
+   "shares": 5.01,
+   "avg": 0.51,
+   "final": 0.5,
+   "cost": 2.62,
+   "payout": 2.51,
+   "pnl": -0.11,
+   "result": "split",
+   "group": null
+  },
+  {
+   "t": 1793622094716,
+   "question": "Map Handicap: MOUZ (-1.5) vs TYLOO (+1.5)",
+   "outcome": "TYLOO",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.32)",
+   "shares": 6.66,
+   "avg": 0.35000000000000003,
+   "final": 0,
+   "cost": 2.41,
+   "payout": 0,
+   "pnl": -2.41,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793622094541,
+   "question": "Map Handicap: FURIA (-1.5) vs FaZe (+1.5)",
+   "outcome": "FURIA",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.43)",
+   "shares": 5.34,
+   "avg": 0.43,
+   "final": 0,
+   "cost": 2.36,
+   "payout": 0,
+   "pnl": -2.36,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793622094408,
+   "question": "Games Total: O/U 2.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.56)",
+   "shares": 5.31,
+   "avg": 0.56,
+   "final": 0,
+   "cost": 3.04,
+   "payout": 0,
+   "pnl": -3.04,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793622094279,
+   "question": "Counter-Strike: MOUZ vs TYLOO - Map 1 Winner",
+   "outcome": "MOUZ",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.76)",
+   "shares": 11.15,
+   "avg": 0.75,
+   "final": 1,
+   "cost": 8.47,
+   "payout": 11.15,
+   "pnl": 2.68,
+   "result": "won",
+   "group": null
+  }
+ ],
  "trades": [
+  {
+   "t": 1793622097294,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B",
+   "outcome": "Falcons Force",
+   "shares": 6.75,
+   "price": 0.33999999999999997,
+   "fee": 0.08,
+   "amount": -2.37,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.6)"
+  },
+  {
+   "t": 1793622096489,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: LEGION vs HULIGANI - Game 2 Winner",
+   "outcome": "LEGION",
+   "shares": 9619.54,
+   "price": 0.001,
+   "fee": 0.48,
+   "amount": -10.1,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.592899612)"
+  },
+  {
+   "t": 1793622094843,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: maybe vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series #13 Group A",
+   "outcome": "maybe",
+   "shares": 5.01,
+   "price": 0.5,
+   "fee": 0,
+   "amount": 2.51
+  },
+  {
+   "t": 1793622094716,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map Handicap: MOUZ (-1.5) vs TYLOO (+1.5)",
+   "outcome": "TYLOO",
+   "shares": 6.66,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793622094541,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map Handicap: FURIA (-1.5) vs FaZe (+1.5)",
+   "outcome": "FURIA",
+   "shares": 5.34,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793622094408,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Games Total: O/U 2.5",
+   "outcome": "Under",
+   "shares": 5.31,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793622094279,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: MOUZ vs TYLOO - Map 1 Winner",
+   "outcome": "MOUZ",
+   "shares": 11.15,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.15
+  },
   {
    "t": 1793614558640,
    "type": "BUY",
@@ -285,6 +380,11 @@
    "t": 1793614559716,
    "value": 995.03,
    "cash": 953.35
+  },
+  {
+   "t": 1793622098195,
+   "value": 972.36,
+   "cash": 954.54
   }
  ],
  "follows": {
@@ -346,12 +446,44 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793590140,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793586811,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793614551,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793618679,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793618886,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793586811,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793608866
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793619445
  },
  "log": [
+  {
+   "t": 1793622097294,
+   "msg": "Copied 0xC9BFc798...81c0: bought 6.8 Falcons Force on \"Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B\" for $2.37"
+  },
+  {
+   "t": 1793622097032,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Games Total: O/U 2.5\": price moved from 0.419 to 0.48"
+  },
+  {
+   "t": 1793622096489,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 9619.5 LEGION on \"Dota 2: LEGION vs HULIGANI - Game 2 Winner\" for $10.10"
+  },
+  {
+   "t": 1793622094843,
+   "msg": "Settled: maybe on \"Counter-Strike: maybe vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series #13 Group A\" -> 50/50 (-0.11)"
+  },
+  {
+   "t": 1793622094716,
+   "msg": "Settled: TYLOO on \"Map Handicap: MOUZ (-1.5) vs TYLOO (+1.5)\" -> lost (-2.41)"
+  },
+  {
+   "t": 1793622094541,
+   "msg": "Settled: FURIA on \"Map Handicap: FURIA (-1.5) vs FaZe (+1.5)\" -> lost (-2.36)"
+  },
+  {
+   "t": 1793622094408,
+   "msg": "Settled: Under on \"Games Total: O/U 2.5\" -> lost (-3.04)"
+  },
+  {
+   "t": 1793622094279,
+   "msg": "Settled: MOUZ on \"Counter-Strike: MOUZ vs TYLOO - Map 1 Winner\" -> won (+2.68)"
+  },
   {
    "t": 1793614558640,
    "msg": "Copied 0xC9BFc798...81c0: bought 5.0 maybe on \"Counter-Strike: maybe vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series #13 Group A\" for $2.62"
