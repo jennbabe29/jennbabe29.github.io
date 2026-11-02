@@ -1,50 +1,10 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 954.5384004416636,
+ "cash": 948.77786231516,
  "created_at": 1793597589071,
- "last_run": 1793622098195,
+ "last_run": 1793631087391,
  "positions": {
-  "84797201748874551717725889779660363381612805859821887843167958694798386197907": {
-   "token": "84797201748874551717725889779660363381612805859821887843167958694798386197907",
-   "market_id": "5977786",
-   "slug": "cs2-navi-fal2-2026-11-02-map-handicap-home-1pt5",
-   "question": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)",
-   "outcome": "Natus Vincere",
-   "idx": 1,
-   "shares": 8.970634840707598,
-   "cost_ex": 6.3691507369023945,
-   "fees": 0.09235268568508474,
-   "opened_at": 1793597612279,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.71)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 7.086801524159003,
-   "status": null
-  },
-  "1337123143861361613883572670093078284361532761465949583341340428966274606564": {
-   "token": "1337123143861361613883572670093078284361532761465949583341340428966274606564",
-   "market_id": "5977784",
-   "slug": "cs2-navi-fal2-2026-11-02",
-   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
-   "outcome": "Natus Vincere",
-   "idx": 0,
-   "shares": 5.251533608251819,
-   "cost_ex": 2.3106747876308003,
-   "fees": 0.06469889405366243,
-   "opened_at": 1793597612510,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.45)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 2.7307974762909457,
-   "status": null
-  },
   "95923548653779483656509593636530925295685440832164109922044008050334839122718": {
    "token": "95923548653779483656509593636530925295685440832164109922044008050334839122718",
    "market_id": "6388994",
@@ -102,11 +62,121 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 3.1739968102614946,
+   "value": 0.0033765923513420157,
+   "status": null
+  },
+  "29713845897143391739671650664627612646097668278503480331610800205237173411233": {
+   "token": "29713845897143391739671650664627612646097668278503480331610800205237173411233",
+   "market_id": "6389019",
+   "slug": "dota2-og-yes-2026-11-02-game1",
+   "question": "Dota 2: OG vs Yellow Submarine - Game 1 Winner",
+   "outcome": "OG",
+   "idx": 0,
+   "shares": 8749.398553779749,
+   "cost_ex": 8.749398553779749,
+   "fees": 0.4370324577612985,
+   "opened_at": 1793631082963,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6889455326)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 4.374699276889874,
+   "status": null
+  },
+  "52936877218483108697212405315754186260962229780820142424308728069422056536822": {
+   "token": "52936877218483108697212405315754186260962229780820142424308728069422056536822",
+   "market_id": "6573530",
+   "slug": "cs2-aur1-g2-2026-11-03",
+   "question": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+   "outcome": "G2",
+   "idx": 1,
+   "shares": 5.414952742498296,
+   "cost_ex": 2.2201306244243013,
+   "fees": 0.0654938534205169,
+   "opened_at": 1793631084789,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.4)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.1659810969993187,
+   "status": null
+  },
+  "29890570691153017283784685948394726129684743256093554091993331795822158055634": {
+   "token": "29890570691153017283784685948394726129684743256093554091993331795822158055634",
+   "market_id": "6573519",
+   "slug": "cs2-tl1-prv-2026-11-03",
+   "question": "Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B",
+   "outcome": "PARIVISION",
+   "idx": 1,
+   "shares": 5.1724056780217476,
+   "cost_ex": 2.896547179692179,
+   "fees": 0.06372403795322792,
+   "opened_at": 1793631084971,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.55)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.8448231229119614,
+   "status": null
+  },
+  "44214319651714826463640743918994914773838587920443084872313341648103305032098": {
+   "token": "44214319651714826463640743918994914773838587920443084872313341648103305032098",
+   "market_id": "6573532",
+   "slug": "cs2-aur1-g2-2026-11-03-map-handicap-away-1pt5",
+   "question": "Map Handicap: AUR (-1.5) vs G2 (+1.5)",
+   "outcome": "G2",
+   "idx": 1,
+   "shares": 7.921249428684101,
+   "cost_ex": 5.465662105792029,
+   "fees": 0.08471776263977647,
+   "opened_at": 1793631085256,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.66)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 5.228024622931506,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793631081358,
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.45)",
+   "shares": 5.25,
+   "avg": 0.44,
+   "final": 1,
+   "cost": 2.38,
+   "payout": 5.25,
+   "pnl": 2.88,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793631081302,
+   "question": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.71)",
+   "shares": 8.97,
+   "avg": 0.71,
+   "final": 1,
+   "cost": 6.46,
+   "payout": 8.97,
+   "pnl": 2.51,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1793622094843,
    "question": "Counter-Strike: maybe vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series #13 Group A",
@@ -184,6 +254,76 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793631085256,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Map Handicap: AUR (-1.5) vs G2 (+1.5)",
+   "outcome": "G2",
+   "shares": 7.92,
+   "price": 0.69,
+   "fee": 0.08,
+   "amount": -5.55,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.66)"
+  },
+  {
+   "t": 1793631084971,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B",
+   "outcome": "PARIVISION",
+   "shares": 5.17,
+   "price": 0.56,
+   "fee": 0.06,
+   "amount": -2.96,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.55)"
+  },
+  {
+   "t": 1793631084789,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B",
+   "outcome": "G2",
+   "shares": 5.41,
+   "price": 0.41,
+   "fee": 0.07,
+   "amount": -2.29,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.4)"
+  },
+  {
+   "t": 1793631082964,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: OG vs Yellow Submarine - Game 1 Winner",
+   "outcome": "OG",
+   "shares": 8749.4,
+   "price": 0.001,
+   "fee": 0.44,
+   "amount": -9.19,
+   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6889455326)"
+  },
+  {
+   "t": 1793631081358,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "Natus Vincere",
+   "shares": 5.25,
+   "price": 1,
+   "fee": 0,
+   "amount": 5.25
+  },
+  {
+   "t": 1793631081302,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)",
+   "outcome": "Natus Vincere",
+   "shares": 8.97,
+   "price": 1,
+   "fee": 0,
+   "amount": 8.97
+  },
   {
    "t": 1793622097294,
    "type": "BUY",
@@ -385,6 +525,11 @@
    "t": 1793622098195,
    "value": 972.36,
    "cash": 954.54
+  },
+  {
+   "t": 1793631087391,
+   "value": 968.22,
+   "cash": 948.78
   }
  ],
  "follows": {
@@ -446,12 +591,56 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793590140,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793618679,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793618886,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793629162,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793630892,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793586811,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793619445
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793630260
  },
  "log": [
+  {
+   "t": 1793631085805,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: Liquid vs PARIVISION - Map 2 Winner\": price moved from 0.4985185185 to 0.56"
+  },
+  {
+   "t": 1793631085532,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Map Handicap: PRV (-1.5) vs Liquid (+1.5)\": price moved from 0.28 to 0.33"
+  },
+  {
+   "t": 1793631085256,
+   "msg": "Copied 0xC9BFc798...81c0: bought 7.9 G2 on \"Map Handicap: AUR (-1.5) vs G2 (+1.5)\" for $5.55"
+  },
+  {
+   "t": 1793631084971,
+   "msg": "Copied 0xC9BFc798...81c0: bought 5.2 PARIVISION on \"Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B\" for $2.96"
+  },
+  {
+   "t": 1793631084789,
+   "msg": "Copied 0xC9BFc798...81c0: bought 5.4 G2 on \"Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B\" for $2.29"
+  },
+  {
+   "t": 1793631084210,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: OG vs Yellow Submarine (BO3) - EPL Masters Playoffs\": price moved from 0.5246430327 to 0.87"
+  },
+  {
+   "t": 1793631084036,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: OG vs Yellow Submarine - Game 2 Winner\": price moved from 0.37 to 0.88"
+  },
+  {
+   "t": 1793631083523,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: OG vs Yellow Submarine - Game 2 Winner\": price moved from 0.3912976208 to 0.88"
+  },
+  {
+   "t": 1793631082964,
+   "msg": "Copied Sisyphus-: bought 8749.4 OG on \"Dota 2: OG vs Yellow Submarine - Game 1 Winner\" for $9.19"
+  },
+  {
+   "t": 1793631081358,
+   "msg": "Settled: Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" -> won (+2.88)"
+  },
+  {
+   "t": 1793631081302,
+   "msg": "Settled: Natus Vincere on \"Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)\" -> won (+2.51)"
+  },
   {
    "t": 1793622097294,
    "msg": "Copied 0xC9BFc798...81c0: bought 6.8 Falcons Force on \"Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B\" for $2.37"
