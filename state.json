@@ -1,90 +1,10 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 948.77786231516,
+ "cash": 927.0773977939904,
  "created_at": 1793597589071,
- "last_run": 1793631087391,
+ "last_run": 1793639149432,
  "positions": {
-  "95923548653779483656509593636530925295685440832164109922044008050334839122718": {
-   "token": "95923548653779483656509593636530925295685440832164109922044008050334839122718",
-   "market_id": "6388994",
-   "slug": "dota2-legion1-huliga-2026-11-02",
-   "question": "Dota 2: LEGION vs HULIGANI (BO3) - EPL Masters Playoffs",
-   "outcome": "LEGION",
-   "idx": 0,
-   "shares": 30.905981255790017,
-   "cost_ex": 18.54358875347401,
-   "fees": 0.3708717750694802,
-   "opened_at": 1793607364850,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6101761629)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.015452990627895008,
-   "status": null
-  },
-  "26213893361856933438807998014722825570854909929695931897284701280963647561017": {
-   "token": "26213893361856933438807998014722825570854909929695931897284701280963647561017",
-   "market_id": "6388992",
-   "slug": "dota2-legion1-huliga-2026-11-02-game2",
-   "question": "Dota 2: LEGION vs HULIGANI - Game 2 Winner",
-   "outcome": "LEGION",
-   "idx": 0,
-   "shares": 9619.54381032242,
-   "cost_ex": 9.619543810322421,
-   "fees": 0.480496213325605,
-   "opened_at": 1793622096489,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.592899612)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 4.8097719051612104,
-   "status": null
-  },
-  "90531128503662011412121464777266843695834678686998547485666122381151672244354": {
-   "token": "90531128503662011412121464777266843695834678686998547485666122381151672244354",
-   "market_id": "6554631",
-   "slug": "cs2-meg1-fal-2026-11-02",
-   "question": "Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B",
-   "outcome": "Falcons Force",
-   "idx": 1,
-   "shares": 6.753184702684031,
-   "cost_ex": 2.2960827989125705,
-   "fees": 0.07577073236411483,
-   "opened_at": 1793622097294,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.6)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.0033765923513420157,
-   "status": null
-  },
-  "29713845897143391739671650664627612646097668278503480331610800205237173411233": {
-   "token": "29713845897143391739671650664627612646097668278503480331610800205237173411233",
-   "market_id": "6389019",
-   "slug": "dota2-og-yes-2026-11-02-game1",
-   "question": "Dota 2: OG vs Yellow Submarine - Game 1 Winner",
-   "outcome": "OG",
-   "idx": 0,
-   "shares": 8749.398553779749,
-   "cost_ex": 8.749398553779749,
-   "fees": 0.4370324577612985,
-   "opened_at": 1793631082963,
-   "source": "copy",
-   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6889455326)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 4.374699276889874,
-   "status": null
-  },
   "52936877218483108697212405315754186260962229780820142424308728069422056536822": {
    "token": "52936877218483108697212405315754186260962229780820142424308728069422056536822",
    "market_id": "6573530",
@@ -102,7 +22,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.1659810969993187,
+   "value": 2.328429679274268,
    "status": null
   },
   "29890570691153017283784685948394726129684743256093554091993331795822158055634": {
@@ -122,7 +42,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.8448231229119614,
+   "value": 2.9482712364723964,
    "status": null
   },
   "44214319651714826463640743918994914773838587920443084872313341648103305032098": {
@@ -142,11 +62,171 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 5.228024622931506,
+   "value": 5.3864496115051885,
+   "status": null
+  },
+  "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
+   "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
+   "market_id": "6552409",
+   "slug": "dota2-p-hn-2026-11-02",
+   "question": "Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C",
+   "outcome": "HellNight-",
+   "idx": 1,
+   "shares": 25.359562832471457,
+   "cost_ex": 10.27062294715094,
+   "fees": 0.3055510326777405,
+   "opened_at": 1793639145650,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6172182609)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 10.372061198480827,
+   "status": null
+  },
+  "56910310182636188384010493080160232496681055351783664823227200848432013299543": {
+   "token": "56910310182636188384010493080160232496681055351783664823227200848432013299543",
+   "market_id": "6573521",
+   "slug": "cs2-tl1-prv-2026-11-03-map-handicap-home-1pt5",
+   "question": "Map Handicap: PRV (-1.5) vs Liquid (+1.5)",
+   "outcome": "PARIVISION",
+   "idx": 0,
+   "shares": 6.902412744272029,
+   "cost_ex": 2.2777962056097696,
+   "fees": 0.07630617288792728,
+   "opened_at": 1793639146387,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.33)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.2087720781670495,
+   "status": null
+  },
+  "48809636246039123904527218456166505602988151072252301857296564008517689201860": {
+   "token": "48809636246039123904527218456166505602988151072252301857296564008517689201860",
+   "market_id": "6578135",
+   "slug": "cs2-faze-fal2-2026-11-03",
+   "question": "Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "FaZe",
+   "idx": 0,
+   "shares": 8.66721751745206,
+   "cost_ex": 2.4268209048865774,
+   "fees": 0.08736555257591677,
+   "opened_at": 1793639146930,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.28)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.3401487297120567,
+   "status": null
+  },
+  "52092103199120034857730377567429327762563330887391181560042318565444910959890": {
+   "token": "52092103199120034857730377567429327762563330887391181560042318565444910959890",
+   "market_id": "6576461",
+   "slug": "cs2-tyloo-9z-2026-11-02",
+   "question": "Counter-Strike: TYLOO vs 9z (BO3) - IEM Beijing Group B",
+   "outcome": "TYLOO",
+   "idx": 0,
+   "shares": 6.632896391540698,
+   "cost_ex": 2.2551847731238377,
+   "fees": 0.07442109751308663,
+   "opened_at": 1793639147199,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.33)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.1888558092084307,
+   "status": null
+  },
+  "25794119114662899990404208821811364013541155544224905591862207404805561433372": {
+   "token": "25794119114662899990404208821811364013541155544224905591862207404805561433372",
+   "market_id": "6576463",
+   "slug": "cs2-tyloo-9z-2026-11-02-map-handicap-home-1pt5",
+   "question": "Map Handicap: 9z (-1.5) vs TYLOO (+1.5)",
+   "outcome": "TYLOO",
+   "idx": 1,
+   "shares": 6.119169701387441,
+   "cost_ex": 3.8550769118740877,
+   "fees": 0.07131892286967062,
+   "opened_at": 1793639147466,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.62)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 3.793885214860213,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793639144177,
+   "question": "Dota 2: OG vs Yellow Submarine - Game 1 Winner",
+   "outcome": "OG",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6889455326)",
+   "shares": 8749.4,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 9.19,
+   "payout": 0,
+   "pnl": -9.19,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793639144036,
+   "question": "Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B",
+   "outcome": "Falcons Force",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.6)",
+   "shares": 6.75,
+   "avg": 0.33999999999999997,
+   "final": 0,
+   "cost": 2.37,
+   "payout": 0,
+   "pnl": -2.37,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793639143905,
+   "question": "Dota 2: LEGION vs HULIGANI - Game 2 Winner",
+   "outcome": "LEGION",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.592899612)",
+   "shares": 9619.54,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 10.1,
+   "payout": 0,
+   "pnl": -10.1,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793639143776,
+   "question": "Dota 2: LEGION vs HULIGANI (BO3) - EPL Masters Playoffs",
+   "outcome": "LEGION",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6101761629)",
+   "shares": 30.91,
+   "avg": 0.6,
+   "final": 0,
+   "cost": 18.91,
+   "payout": 0,
+   "pnl": -18.91,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793631081358,
    "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
@@ -254,6 +334,110 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793639147466,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Map Handicap: 9z (-1.5) vs TYLOO (+1.5)",
+   "outcome": "TYLOO",
+   "shares": 6.12,
+   "price": 0.63,
+   "fee": 0.07,
+   "amount": -3.93,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.62)"
+  },
+  {
+   "t": 1793639147199,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: TYLOO vs 9z (BO3) - IEM Beijing Group B",
+   "outcome": "TYLOO",
+   "shares": 6.63,
+   "price": 0.34,
+   "fee": 0.07,
+   "amount": -2.33,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.33)"
+  },
+  {
+   "t": 1793639146930,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "FaZe",
+   "shares": 8.67,
+   "price": 0.28,
+   "fee": 0.09,
+   "amount": -2.51,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.28)"
+  },
+  {
+   "t": 1793639146387,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Map Handicap: PRV (-1.5) vs Liquid (+1.5)",
+   "outcome": "PARIVISION",
+   "shares": 6.9,
+   "price": 0.33,
+   "fee": 0.08,
+   "amount": -2.35,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.33)"
+  },
+  {
+   "t": 1793639145650,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C",
+   "outcome": "HellNight-",
+   "shares": 25.36,
+   "price": 0.405,
+   "fee": 0.31,
+   "amount": -10.58,
+   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6172182609)"
+  },
+  {
+   "t": 1793639144177,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: OG vs Yellow Submarine - Game 1 Winner",
+   "outcome": "OG",
+   "shares": 8749.4,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793639144036,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B",
+   "outcome": "Falcons Force",
+   "shares": 6.75,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793639143905,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: LEGION vs HULIGANI - Game 2 Winner",
+   "outcome": "LEGION",
+   "shares": 9619.54,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793639143776,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: LEGION vs HULIGANI (BO3) - EPL Masters Playoffs",
+   "outcome": "LEGION",
+   "shares": 30.91,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793631085256,
    "type": "BUY",
@@ -530,6 +714,11 @@
    "t": 1793631087391,
    "value": 968.22,
    "cash": 948.78
+  },
+  {
+   "t": 1793639149432,
+   "value": 958.64,
+   "cash": 927.08
   }
  ],
  "follows": {
@@ -591,12 +780,52 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793590140,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793629162,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793631960,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793630892,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793586811,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793630260
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793638582
  },
  "log": [
+  {
+   "t": 1793639147466,
+   "msg": "Copied 0xC9BFc798...81c0: bought 6.1 TYLOO on \"Map Handicap: 9z (-1.5) vs TYLOO (+1.5)\" for $3.93"
+  },
+  {
+   "t": 1793639147199,
+   "msg": "Copied 0xC9BFc798...81c0: bought 6.6 TYLOO on \"Counter-Strike: TYLOO vs 9z (BO3) - IEM Beijing Group B\" for $2.33"
+  },
+  {
+   "t": 1793639146930,
+   "msg": "Copied 0xC9BFc798...81c0: bought 8.7 FaZe on \"Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A\" for $2.51"
+  },
+  {
+   "t": 1793639146647,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: Liquid vs PARIVISION - Map 1 Winner\": price moved from 0.57 to 0.61"
+  },
+  {
+   "t": 1793639146387,
+   "msg": "Copied 0xC9BFc798...81c0: bought 6.9 PARIVISION on \"Map Handicap: PRV (-1.5) vs Liquid (+1.5)\" for $2.35"
+  },
+  {
+   "t": 1793639145650,
+   "msg": "Copied Sisyphus-: bought 25.4 HellNight- on \"Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C\" for $10.58"
+  },
+  {
+   "t": 1793639144177,
+   "msg": "Settled: OG on \"Dota 2: OG vs Yellow Submarine - Game 1 Winner\" -> lost (-9.19)"
+  },
+  {
+   "t": 1793639144036,
+   "msg": "Settled: Falcons Force on \"Counter-Strike: megoshort vs Falcons Force (BO3) - CCT Europe Closed Qualifier: Series #13 Group B\" -> lost (-2.37)"
+  },
+  {
+   "t": 1793639143905,
+   "msg": "Settled: LEGION on \"Dota 2: LEGION vs HULIGANI - Game 2 Winner\" -> lost (-10.10)"
+  },
+  {
+   "t": 1793639143776,
+   "msg": "Settled: LEGION on \"Dota 2: LEGION vs HULIGANI (BO3) - EPL Masters Playoffs\" -> lost (-18.91)"
+  },
   {
    "t": 1793631085805,
    "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: Liquid vs PARIVISION - Map 2 Winner\": price moved from 0.4985185185 to 0.56"
