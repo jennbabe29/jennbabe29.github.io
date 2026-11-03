@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 200.95871030580497,
+ "cash": 155.90648489672424,
  "created_at": 1793597589071,
- "last_run": 1793700903891,
+ "last_run": 1793708183805,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -22,27 +22,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 12.679781416235729,
-   "status": null
-  },
-  "89206539323003161829593978754557955525832333945214465659981656908084851213483": {
-   "token": "89206539323003161829593978754557955525832333945214465659981656908084851213483",
-   "market_id": "6565240",
-   "slug": "cs2-mglz-hero-2026-11-02-map-handicap-away-1pt5",
-   "question": "Map Handicap: MGLZ (-1.5) vs Heroic (+1.5)",
-   "outcome": "Heroic",
-   "idx": 1,
-   "shares": 10.715617456083123,
-   "cost_ex": 8.036713092062342,
-   "fees": 0.10045891365077929,
-   "opened_at": 1793650507434,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.73)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 3.2146852368249372,
+   "value": 12.248668848083714,
    "status": null
   },
   "26147464470366544314444663522036981273366524222640446284412553645937155755596": {
@@ -62,7 +42,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.137129719861081,
+   "value": 1.6872076735745378,
    "status": null
   },
   "84982068826015881975756970667593781611395664754575008644893665378679995869256": {
@@ -82,7 +62,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.1997356717031153,
+   "value": 3.646930192560428,
    "status": null
   },
   "30131707698242212023364695915463786259951254830471869513268398924851472899432": {
@@ -102,7 +82,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 4.390042787284282,
+   "value": 6.85258241327656,
    "status": null
   },
   "98499574761886365453998968930580922157047205428386778755185928872667615598010": {
@@ -185,26 +165,6 @@
    "value": 25.083129247490053,
    "status": null
   },
-  "32447572809716165508192491576314788346966228269493707984662839265118071868441": {
-   "token": "32447572809716165508192491576314788346966228269493707984662839265118071868441",
-   "market_id": "6597371",
-   "slug": "cs2-mglz-hero-2026-11-02-map-handicap-home-1pt5",
-   "question": "Map Handicap: HERO (-1.5) vs TheMongolz (+1.5)",
-   "outcome": "Heroic",
-   "idx": 0,
-   "shares": 9.111835702102027,
-   "cost_ex": 2.4601956395675475,
-   "fees": 0.08979714084421549,
-   "opened_at": 1793672114109,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.27)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.004555917851051014,
-   "status": null
-  },
   "66439326791754631222128498834722529254569967665962764508265153666276400777966": {
    "token": "66439326791754631222128498834722529254569967665962764508265153666276400777966",
    "market_id": "943819",
@@ -242,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 22.82064881437216,
+   "value": 22.45841629350911,
    "status": null
   },
   "84368524152268016512433556151474175385160499638069024812438264090070245734708": {
@@ -282,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.32313231503059,
+   "value": 27.724943084369276,
    "status": null
   },
   "92576281548134350814800877416860562553699794074017301653635964206220838638047": {
@@ -302,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.31346666229827,
+   "value": 26.510129407524794,
    "status": null
   },
   "107844449523890311740907586041395758413047559802389895859202256336422357556837": {
@@ -362,7 +322,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.724948583816705,
+   "value": 31.828374650013505,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -642,7 +602,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 12.251056222524756,
+   "value": 11.919946594888952,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -662,11 +622,81 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 26.941675317298923,
+   "value": 26.66755943471013,
+   "status": null
+  },
+  "57564379740248373450201394669680290478720244507877273965058379216144466441509": {
+   "token": "57564379740248373450201394669680290478720244507877273965058379216144466441509",
+   "market_id": "6589640",
+   "slug": "dota2-legion1-og-2026-11-03-game2",
+   "question": "Dota 2: LEGION vs OG - Game 2 Winner",
+   "outcome": "OG",
+   "idx": 1,
+   "shares": 9154.968221294403,
+   "cost_ex": 9.154968221294403,
+   "fees": 0.4572906626536555,
+   "opened_at": 1793708180417,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.3421309865)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 45.77484110647202,
+   "status": null
+  },
+  "79920457669696629750737929498886797974237730606575932780167460773729808716886": {
+   "token": "79920457669696629750737929498886797974237730606575932780167460773729808716886",
+   "market_id": "6597386",
+   "slug": "cs2-baks-ksm-2026-11-03",
+   "question": "Counter-Strike: BakS eSports vs KUUSAMO.gg (BO3) - ESL Challenger League Europe Cup #10 Group B",
+   "outcome": "BakS eSports",
+   "idx": 0,
+   "shares": 38.77055068142003,
+   "cost_ex": 35.281201120092234,
+   "fees": 0.158765405040415,
+   "opened_at": 1793708181019,
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.5, they paid 0.88)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 34.893495613278034,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793708175945,
+   "question": "Map Handicap: HERO (-1.5) vs TheMongolz (+1.5)",
+   "outcome": "Heroic",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.27)",
+   "shares": 9.11,
+   "avg": 0.27,
+   "final": 0,
+   "cost": 2.55,
+   "payout": 0,
+   "pnl": -2.55,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793708175024,
+   "question": "Map Handicap: MGLZ (-1.5) vs Heroic (+1.5)",
+   "outcome": "Heroic",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.73)",
+   "shares": 10.72,
+   "avg": 0.75,
+   "final": 0,
+   "cost": 8.14,
+   "payout": 0,
+   "pnl": -8.14,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793700896544,
    "question": "Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)",
@@ -999,6 +1029,52 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793708181019,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: BakS eSports vs KUUSAMO.gg (BO3) - ESL Challenger League Europe Cup #10 Group B",
+   "outcome": "BakS eSports",
+   "shares": 38.77,
+   "price": 0.9100000000000001,
+   "fee": 0.16,
+   "amount": -35.44,
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.5, they paid 0.88)"
+  },
+  {
+   "t": 1793708180417,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: LEGION vs OG - Game 2 Winner",
+   "outcome": "OG",
+   "shares": 9154.97,
+   "price": 0.001,
+   "fee": 0.46,
+   "amount": -9.61,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.3421309865)"
+  },
+  {
+   "t": 1793708175945,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map Handicap: HERO (-1.5) vs TheMongolz (+1.5)",
+   "outcome": "Heroic",
+   "shares": 9.11,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793708175024,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map Handicap: MGLZ (-1.5) vs Heroic (+1.5)",
+   "outcome": "Heroic",
+   "shares": 10.72,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793700896544,
    "type": "SETTLE",
@@ -1982,6 +2058,11 @@
    "t": 1793700903891,
    "value": 918.85,
    "cash": 200.96
+  },
+  {
+   "t": 1793708183805,
+   "value": 952.01,
+   "cash": 155.91
   }
  ],
  "follows": {
@@ -2052,13 +2133,33 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793679208,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793655967,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793700888,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793701273,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793706001,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793674974,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793686029,
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793704987,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793693119
  },
  "log": [
+  {
+   "t": 1793708181019,
+   "msg": "Copied 0xC9BFc798...81c0: bought 38.8 BakS eSports on \"Counter-Strike: BakS eSports vs KUUSAMO.gg (BO3) - ESL Challenger League Europe Cup #10 Group B\" for $35.44"
+  },
+  {
+   "t": 1793708180417,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 9155.0 OG on \"Dota 2: LEGION vs OG - Game 2 Winner\" for $9.61"
+  },
+  {
+   "t": 1793708179854,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: LEGION vs OG (BO3) - EPL Masters Playoffs\": price moved from 0.32 to 0.39"
+  },
+  {
+   "t": 1793708175945,
+   "msg": "Settled: Heroic on \"Map Handicap: HERO (-1.5) vs TheMongolz (+1.5)\" -> lost (-2.55)"
+  },
+  {
+   "t": 1793708175024,
+   "msg": "Settled: Heroic on \"Map Handicap: MGLZ (-1.5) vs Heroic (+1.5)\" -> lost (-8.14)"
+  },
   {
    "t": 1793700901379,
    "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: LEGION vs OG (BO3) - EPL Masters Playoffs\": price moved from 0.288084898 to 0.32"
