@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 147.56855132082487,
+ "cash": 0,
  "created_at": 1793597589071,
- "last_run": 1793729746219,
+ "last_run": 1793737124668,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 19.99161641027757,
+   "value": 19.313934498064768,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 36.18292275952905,
+   "value": 35.700483789402,
    "status": null
   },
   "1917867817482819673072508794067723794609285632054054261487652073909099386849": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 24.69723495137482,
+   "value": 24.31134065525959,
    "status": null
   },
   "66439326791754631222128498834722529254569967665962764508265153666276400777966": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 14.083611293676139,
+   "value": 14.403693368532416,
    "status": null
   },
   "107409796822153809778143872196236532785178617102787858261374110829112218839748": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 23.54511385609826,
+   "value": 21.733951251783008,
    "status": null
   },
   "84368524152268016512433556151474175385160499638069024812438264090070245734708": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.13670731141433,
+   "value": 27.734754349822698,
    "status": null
   },
   "33485925353171072312284533208639606685310281710515007938376691890027292332545": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.116803917071746,
+   "value": 27.71513528968501,
    "status": null
   },
   "107844449523890311740907586041395758413047559802389895859202256336422357556837": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 15.194667014345875,
+   "value": 15.82777813994362,
    "status": null
   },
   "84319454573662085210770106575059573110977726805918419997163222348941856635019": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 45.69993973166307,
+   "value": 46.25725606985409,
    "status": null
   },
   "9888897571794010752121877049436014412394792546592129944638664529404498838517": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.138652848603915,
+   "value": 27.345504980997518,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -342,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 23.412609214684554,
+   "value": 22.71372535752979,
    "status": null
   },
   "49642601988386819856879657548183637759522037244334228869421548564041922857767": {
@@ -362,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 20.05660272724659,
+   "value": 19.727805961226156,
    "status": null
   },
   "15056064872112675856476546973246733011825608647719006314444015066456521530341": {
@@ -402,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.14704927021551,
+   "value": 29.557571090922774,
    "status": null
   },
   "104747520273266119848473437134847685636304847006738839689406910819240807521349": {
@@ -422,7 +422,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.136681442666614,
+   "value": 29.547057237633748,
    "status": null
   },
   "88628412725357801969852238315853152041907755032296775468463465337049299853893": {
@@ -442,7 +442,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 31.64198170564318,
+   "value": 30.86069820673841,
    "status": null
   },
   "109221185828609696152295126285793980024516683390733668492309397849318398468765": {
@@ -462,7 +462,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 31.630847410958644,
+   "value": 30.849838832910283,
    "status": null
   },
   "59980150909931986777748227027020522224275707387562276219060223816867188565245": {
@@ -482,7 +482,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.633749221165193,
+   "value": 30.73917195801557,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -502,7 +502,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.7386626819197,
+   "value": 47.196177878716064,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -542,7 +542,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 11.919946594888952,
+   "value": 10.264398456709932,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -562,7 +562,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 26.628400022911727,
+   "value": 18.169967074457414,
    "status": null
   },
   "12535393665323595983355411049163418716443509054831098404414682681344586927805": {
@@ -582,27 +582,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.496711867836883,
-   "status": null
-  },
-  "64193203767106972387057068167689257344325947793671172919246901045395027842245": {
-   "token": "64193203767106972387057068167689257344325947793671172919246901045395027842245",
-   "market_id": "6600147",
-   "slug": "dota2-nemiga-ch1-2026-11-03",
-   "question": "Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs",
-   "outcome": "Nemiga Gaming",
-   "idx": 0,
-   "shares": 27.07586014923886,
-   "cost_ex": 14.079447277604208,
-   "fees": 0.337906734662501,
-   "opened_at": 1793722556914,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6764822919)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.01353793007461943,
+   "value": 6.241779669592208,
    "status": null
   },
   "83106526449876874573813297184176954494008138834292248374570211745966785088569": {
@@ -622,31 +602,181 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 22.196364237048293,
+   "value": 20.462273281028896,
    "status": null
   },
-  "21721008504102694276177153338547054847047256379363309176582438703256085206165": {
-   "token": "21721008504102694276177153338547054847047256379363309176582438703256085206165",
-   "market_id": "6589659",
-   "slug": "dota2-huliga-yes-2026-11-03-game1",
-   "question": "Dota 2: HULIGANI vs Yellow Submarine - Game 1 Winner",
-   "outcome": "Yellow Submarine",
+  "95906307688335389182231714198855627958444157225318331688424157252782209937528": {
+   "token": "95906307688335389182231714198855627958444157225318331688424157252782209937528",
+   "market_id": "6580064",
+   "slug": "dota2-ic-angryb-2026-11-03",
+   "question": "Dota 2: Inner Circle vs angry birds (BO3) - Asgard Championship Group A",
+   "outcome": "angry birds",
    "idx": 1,
-   "shares": 24.689602336570942,
-   "cost_ex": 9.382048887896959,
-   "fees": 0.2908435155248057,
-   "opened_at": 1793729742483,
+   "shares": 5895.542303259529,
+   "cost_ex": 7.931320729335765,
+   "fees": 0.3953058701385872,
+   "opened_at": 1793737118561,
    "source": "copy",
-   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.6263280894)",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.5337170858)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 10.863425028091214,
+   "value": 2.9477711516297647,
+   "status": null
+  },
+  "45300252000779953908549326551430015768898718219786736271970047623377042759367": {
+   "token": "45300252000779953908549326551430015768898718219786736271970047623377042759367",
+   "market_id": "6589660",
+   "slug": "dota2-huliga-yes-2026-11-03-game2",
+   "question": "Dota 2: HULIGANI vs Yellow Submarine - Game 2 Winner",
+   "outcome": "HULIGANI",
+   "idx": 0,
+   "shares": 8788.424214907725,
+   "cost_ex": 8.788424214907726,
+   "fees": 0.43898178953464095,
+   "opened_at": 1793737118915,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4099999984)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 4.394212107453863,
+   "status": null
+  },
+  "105101479335882057780888879627103629767537416253130101200307917408703291324956": {
+   "token": "105101479335882057780888879627103629767537416253130101200307917408703291324956",
+   "market_id": "1283472",
+   "slug": "will-the-republican-party-win-the-in-05-house-seat",
+   "question": "Will the Republican Party win the IN-05 House seat?",
+   "outcome": "Yes",
+   "idx": 0,
+   "shares": 41.36733904552108,
+   "cost_ex": 30.611830893685596,
+   "fees": 0.31836304129433024,
+   "opened_at": 1793737119934,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.73)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 30.198157503230387,
+   "status": null
+  },
+  "18237907835648341768523141766856510303791900618821544518382992129619945402102": {
+   "token": "18237907835648341768523141766856510303791900618821544518382992129619945402102",
+   "market_id": "1283048",
+   "slug": "will-the-republican-party-win-the-fl-14-house-seat",
+   "question": "Will the Republican Party win the FL-14 House seat?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 42.701804120642464,
+   "cost_ex": 32.02635309048185,
+   "fees": 0.32026353090481846,
+   "opened_at": 1793737120215,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 31.599335049275425,
+   "status": null
+  },
+  "104819787650357695281169823647378465024078714619256040408074745774984489506029": {
+   "token": "104819787650357695281169823647378465024078714619256040408074745774984489506029",
+   "market_id": "1285080",
+   "slug": "will-the-democratic-party-win-the-va-05-house-seat",
+   "question": "Will the Democratic Party win the VA-05 House seat?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 30.371593665426502,
+   "cost_ex": 17.61552432594737,
+   "fees": 0.2959408086759159,
+   "opened_at": 1793737120521,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.57)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 17.31180838929311,
+   "status": null
+  },
+  "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
+   "token": "32208573006734179312307181192322189830209553609138348846127628742278942011240",
+   "market_id": "1284089",
+   "slug": "will-the-republican-party-win-the-nc-14-house-seat",
+   "question": "Will the Republican Party win the NC-14 House seat?",
+   "outcome": "Yes",
+   "idx": 0,
+   "shares": 49.555086502054436,
+   "cost_ex": 39.148518336623006,
+   "fees": 0.3288475540276332,
+   "opened_at": 1793737120822,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.78)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 38.65296747160246,
+   "status": null
+  },
+  "32990395069552839491629863127374320424549572177026718623273227951659002466770": {
+   "token": "32990395069552839491629863127374320424549572177026718623273227951659002466770",
+   "market_id": "1284130",
+   "slug": "will-the-democratic-party-win-the-nj-02-house-seat",
+   "question": "Will the Democratic Party win the NJ-02 House seat?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 16.69740513532351,
+   "cost_ex": 9.183572824427932,
+   "fees": 0.16530431083970276,
+   "opened_at": 1793737121426,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.5263513683)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 9.016598773074696,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793737116913,
+   "question": "Dota 2: HULIGANI vs Yellow Submarine - Game 1 Winner",
+   "outcome": "Yellow Submarine",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.6263280894)",
+   "shares": 24.69,
+   "avg": 0.38,
+   "final": 0,
+   "cost": 9.67,
+   "payout": 0,
+   "pnl": -9.67,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793737116696,
+   "question": "Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs",
+   "outcome": "Nemiga Gaming",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6764822919)",
+   "shares": 27.08,
+   "avg": 0.52,
+   "final": 0,
+   "cost": 14.42,
+   "payout": 0,
+   "pnl": -14.42,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793729740731,
    "question": "Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner",
@@ -1129,6 +1259,112 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793737121426,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democratic Party win the NJ-02 House seat?",
+   "outcome": "No",
+   "shares": 16.7,
+   "price": 0.55,
+   "fee": 0.17,
+   "amount": -9.35,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.5263513683)"
+  },
+  {
+   "t": 1793737120822,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Republican Party win the NC-14 House seat?",
+   "outcome": "Yes",
+   "shares": 49.56,
+   "price": 0.79,
+   "fee": 0.33,
+   "amount": -39.48,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.78)"
+  },
+  {
+   "t": 1793737120521,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democratic Party win the VA-05 House seat?",
+   "outcome": "No",
+   "shares": 30.37,
+   "price": 0.58,
+   "fee": 0.3,
+   "amount": -17.91,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.57)"
+  },
+  {
+   "t": 1793737120215,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Republican Party win the FL-14 House seat?",
+   "outcome": "No",
+   "shares": 42.7,
+   "price": 0.75,
+   "fee": 0.32,
+   "amount": -32.35,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)"
+  },
+  {
+   "t": 1793737119934,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Republican Party win the IN-05 House seat?",
+   "outcome": "Yes",
+   "shares": 41.37,
+   "price": 0.74,
+   "fee": 0.32,
+   "amount": -30.93,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.73)"
+  },
+  {
+   "t": 1793737118915,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: HULIGANI vs Yellow Submarine - Game 2 Winner",
+   "outcome": "HULIGANI",
+   "shares": 8788.42,
+   "price": 0.001,
+   "fee": 0.44,
+   "amount": -9.23,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4099999984)"
+  },
+  {
+   "t": 1793737118561,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Inner Circle vs angry birds (BO3) - Asgard Championship Group A",
+   "outcome": "angry birds",
+   "shares": 5895.54,
+   "price": 0.0013453080855599482,
+   "fee": 0.4,
+   "amount": -8.33,
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.5337170858)"
+  },
+  {
+   "t": 1793737116913,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: HULIGANI vs Yellow Submarine - Game 1 Winner",
+   "outcome": "Yellow Submarine",
+   "shares": 24.69,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793737116696,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs",
+   "outcome": "Nemiga Gaming",
+   "shares": 27.08,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793729742483,
    "type": "BUY",
@@ -2350,6 +2586,11 @@
    "t": 1793729746219,
    "value": 903.73,
    "cash": 147.57
+  },
+  {
+   "t": 1793737124668,
+   "value": 866.65,
+   "cash": 0
   }
  ],
  "follows": {
@@ -2420,13 +2661,53 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793679208,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793728711,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793729272,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793733457,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793733739,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793674974,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793729296,
-  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793716285
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793730154,
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793736201
  },
  "log": [
+  {
+   "t": 1793737121426,
+   "msg": "Copied Melody626: bought 16.7 No on \"Will the Democratic Party win the NJ-02 House seat?\" for $9.35"
+  },
+  {
+   "t": 1793737121127,
+   "msg": "Skipped copying Melody626 on \"Will the Republican Party win the NJ-02 House seat?\": price moved from 0.5150483113 to 0.55"
+  },
+  {
+   "t": 1793737120822,
+   "msg": "Copied Melody626: bought 49.6 Yes on \"Will the Republican Party win the NC-14 House seat?\" for $39.48"
+  },
+  {
+   "t": 1793737120521,
+   "msg": "Copied Melody626: bought 30.4 No on \"Will the Democratic Party win the VA-05 House seat?\" for $17.91"
+  },
+  {
+   "t": 1793737120215,
+   "msg": "Copied Melody626: bought 42.7 No on \"Will the Republican Party win the FL-14 House seat?\" for $32.35"
+  },
+  {
+   "t": 1793737119934,
+   "msg": "Copied Melody626: bought 41.4 Yes on \"Will the Republican Party win the IN-05 House seat?\" for $30.93"
+  },
+  {
+   "t": 1793737118915,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 8788.4 HULIGANI on \"Dota 2: HULIGANI vs Yellow Submarine - Game 2 Winner\" for $9.23"
+  },
+  {
+   "t": 1793737118561,
+   "msg": "Copied Sisyphus-: bought 5895.5 angry birds on \"Dota 2: Inner Circle vs angry birds (BO3) - Asgard Championship Group A\" for $8.33"
+  },
+  {
+   "t": 1793737116913,
+   "msg": "Settled: Yellow Submarine on \"Dota 2: HULIGANI vs Yellow Submarine - Game 1 Winner\" -> lost (-9.67)"
+  },
+  {
+   "t": 1793737116696,
+   "msg": "Settled: Nemiga Gaming on \"Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs\" -> lost (-14.42)"
+  },
   {
    "t": 1793729743257,
    "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: HULIGANI vs Yellow Submarine - Game 1 Winner\": price moved from 0.4356715469 to 0.64"
