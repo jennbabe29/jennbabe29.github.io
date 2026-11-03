@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 792.9379193794896,
+ "cash": 781.9188030028758,
  "created_at": 1793597589071,
- "last_run": 1793672117392,
+ "last_run": 1793679297917,
  "positions": {
   "52936877218483108697212405315754186260962229780820142424308728069422056536822": {
    "token": "52936877218483108697212405315754186260962229780820142424308728069422056536822",
@@ -22,7 +22,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 1.7327848775994545,
+   "value": 2.436728734124233,
    "status": null
   },
   "29890570691153017283784685948394726129684743256093554091993331795822158055634": {
@@ -42,7 +42,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 3.5689599178350053,
+   "value": 5.167233272343726,
    "status": null
   },
   "44214319651714826463640743918994914773838587920443084872313341648103305032098": {
@@ -62,7 +62,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 4.831962151497302,
+   "value": 7.913328179255417,
    "status": null
   },
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
@@ -102,7 +102,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.899013352594252,
+   "value": 6.895510331527757,
    "status": null
   },
   "48809636246039123904527218456166505602988151072252301857296564008517689201860": {
@@ -142,7 +142,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.2551847731238377,
+   "value": 2.3215137370392442,
    "status": null
   },
   "25794119114662899990404208821811364013541155544224905591862207404805561433372": {
@@ -162,27 +162,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 3.793885214860213,
-   "status": null
-  },
-  "99638692803363022344657614680025573792453108540923844183435198306462107002734": {
-   "token": "99638692803363022344657614680025573792453108540923844183435198306462107002734",
-   "market_id": "6573517",
-   "slug": "cs2-tl1-prv-2026-11-03-game1",
-   "question": "Counter-Strike: Liquid vs PARIVISION - Map 1 Winner",
-   "outcome": "PARIVISION",
-   "idx": 1,
-   "shares": 5.75200343092856,
-   "cost_ex": 3.5087220928664213,
-   "fees": 0.06842008081089522,
-   "opened_at": 1793644112591,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.6)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 4.371522607505705,
+   "value": 3.6103101238185906,
    "status": null
   },
   "33886534285946985596164842262923963158833264898157273595382270569220032636360": {
@@ -382,11 +362,66 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.3690772825465274,
+   "value": 2.4601956395675475,
+   "status": null
+  },
+  "34804543812732054910650169779150511455032253486444176859139445010076173186590": {
+   "token": "34804543812732054910650169779150511455032253486444176859139445010076173186590",
+   "market_id": "5658347",
+   "slug": "nfl-chi-sea-2026-11-03-spread-away-10pt5",
+   "question": "Spread: Bears (-10.5)",
+   "outcome": "Seahawks",
+   "idx": 1,
+   "shares": 26.826306375596364,
+   "cost_ex": 8.047891912678908,
+   "fees": 0.16900573016625706,
+   "opened_at": 1793679292918,
+   "source": "copy",
+   "reason": "Copied primm (edge score 8.1, they paid 0.4)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 11.803574805262398,
+   "status": null
+  },
+  "16149869702733524107495527079201719610108235950004274044097777270447762983912": {
+   "token": "16149869702733524107495527079201719610108235950004274044097777270447762983912",
+   "market_id": "5658348",
+   "slug": "nfl-chi-sea-2026-11-03-spread-away-13pt5",
+   "question": "Spread: Bears (-13.5)",
+   "outcome": "Seahawks",
+   "idx": 1,
+   "shares": 24.70388502788731,
+   "cost_ex": 8.388024794509573,
+   "fees": 0.16619737018745429,
+   "opened_at": 1793679293218,
+   "source": "copy",
+   "reason": "Copied primm (edge score 8.1, they paid 0.368)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 12.870724099529289,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793679289820,
+   "question": "Counter-Strike: Liquid vs PARIVISION - Map 1 Winner",
+   "outcome": "PARIVISION",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.6)",
+   "shares": 5.75,
+   "avg": 0.61,
+   "final": 1,
+   "cost": 3.58,
+   "payout": 5.75,
+   "pnl": 2.17,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1793639144177,
    "question": "Dota 2: OG vs Yellow Submarine - Game 1 Winner",
@@ -554,6 +589,41 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793679293218,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Bears (-13.5)",
+   "outcome": "Seahawks",
+   "shares": 24.7,
+   "price": 0.33954273933191637,
+   "fee": 0.17,
+   "amount": -8.55,
+   "reason": "Copied primm (edge score 8.1, they paid 0.368)"
+  },
+  {
+   "t": 1793679292918,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Bears (-10.5)",
+   "outcome": "Seahawks",
+   "shares": 26.83,
+   "price": 0.3,
+   "fee": 0.17,
+   "amount": -8.22,
+   "reason": "Copied primm (edge score 8.1, they paid 0.4)"
+  },
+  {
+   "t": 1793679289820,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: Liquid vs PARIVISION - Map 1 Winner",
+   "outcome": "PARIVISION",
+   "shares": 5.75,
+   "price": 1,
+   "fee": 0,
+   "amount": 5.75
+  },
   {
    "t": 1793672114109,
    "type": "BUY",
@@ -1096,6 +1166,11 @@
    "t": 1793672117392,
    "value": 957.6,
    "cash": 792.94
+  },
+  {
+   "t": 1793679297917,
+   "value": 976.24,
+   "cash": 781.92
   }
  ],
  "follows": {
@@ -1164,15 +1239,39 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793590140,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793679208,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793655967,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793653009,
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793586811,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793671641,
+  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793674974,
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793678883,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793662005
  },
  "log": [
+  {
+   "t": 1793679294355,
+   "msg": "Skipped copying BrotherObama on \"Heat vs. Lakers: O/U 237.5\": price moved from 0.52 to 0.987"
+  },
+  {
+   "t": 1793679293511,
+   "msg": "Skipped copying primm on \"Bears vs. Seahawks: O/U 58.5\": price moved from 0.709 to 0.77"
+  },
+  {
+   "t": 1793679293218,
+   "msg": "Copied primm: bought 24.7 Seahawks on \"Spread: Bears (-13.5)\" for $8.55"
+  },
+  {
+   "t": 1793679292918,
+   "msg": "Copied primm: bought 26.8 Seahawks on \"Spread: Bears (-10.5)\" for $8.22"
+  },
+  {
+   "t": 1793679292633,
+   "msg": "Skipped copying primm on \"Spread: Bears (-9.5)\": price moved from 0.45 to 0.88"
+  },
+  {
+   "t": 1793679289820,
+   "msg": "Settled: PARIVISION on \"Counter-Strike: Liquid vs PARIVISION - Map 1 Winner\" -> won (+2.17)"
+  },
   {
    "t": 1793672114109,
    "msg": "Copied 0xC9BFc798...81c0: bought 9.1 Heroic on \"Map Handicap: HERO (-1.5) vs TheMongolz (+1.5)\" for $2.55"
