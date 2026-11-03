@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 900.4004461135708,
+ "cash": 795.4879121599014,
  "created_at": 1793597589071,
- "last_run": 1793657695510,
+ "last_run": 1793664890263,
  "positions": {
   "52936877218483108697212405315754186260962229780820142424308728069422056536822": {
    "token": "52936877218483108697212405315754186260962229780820142424308728069422056536822",
@@ -42,7 +42,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.9482712364723964,
+   "value": 2.999995293252614,
    "status": null
   },
   "44214319651714826463640743918994914773838587920443084872313341648103305032098": {
@@ -62,7 +62,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 5.465662105792029,
+   "value": 5.54487460007887,
    "status": null
   },
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
@@ -162,7 +162,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 3.8550769118740877,
+   "value": 3.793885214860213,
    "status": null
   },
   "99638692803363022344657614680025573792453108540923844183435198306462107002734": {
@@ -262,7 +262,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.141847890868823,
+   "value": 2.2576234525374077,
    "status": null
   },
   "30131707698242212023364695915463786259951254830471869513268398924851472899432": {
@@ -283,6 +283,86 @@
     "exp": 1
    },
    "value": 4.4586372058356,
+   "status": null
+  },
+  "98499574761886365453998968930580922157047205428386778755185928872667615598010": {
+   "token": "98499574761886365453998968930580922157047205428386778755185928872667615598010",
+   "market_id": "1284010",
+   "slug": "will-the-democratic-party-win-the-nc-03-house-seat",
+   "question": "Will the Democratic Party win the NC-03 House seat?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 33.89557994748704,
+   "cost_ex": 20.337347968492224,
+   "fees": 0.32539756749587556,
+   "opened_at": 1793664886789,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.5991508522)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 19.998392169017357,
+   "status": null
+  },
+  "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
+   "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
+   "market_id": "1284009",
+   "slug": "will-the-republican-party-win-the-nc-03-house-seat",
+   "question": "Will the Republican Party win the NC-03 House seat?",
+   "outcome": "Yes",
+   "idx": 0,
+   "shares": 33.884095610639946,
+   "cost_ex": 20.330457366383968,
+   "fees": 0.32528731786214343,
+   "opened_at": 1793664886968,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.6)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 19.99161641027757,
+   "status": null
+  },
+  "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
+   "token": "5257506632249107929978538981545694090990532334265786851869077458084416330759",
+   "market_id": "1284042",
+   "slug": "will-the-democratic-party-win-the-nc-07-house-seat",
+   "question": "Will the Democratic Party win the NC-07 House seat?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 48.2438970127054,
+   "cost_ex": 36.665361729656105,
+   "fees": 0.35198747260469865,
+   "opened_at": 1793664887258,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.76)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 36.18292275952905,
+   "status": null
+  },
+  "1917867817482819673072508794067723794609285632054054261487652073909099386849": {
+   "token": "1917867817482819673072508794067723794609285632054054261487652073909099386849",
+   "market_id": "1284058",
+   "slug": "will-the-democratic-party-win-the-nc-09-house-seat",
+   "question": "Will the Democratic Party win the NC-09 House seat?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 38.58942961152316,
+   "cost_ex": 26.24081213583575,
+   "fees": 0.33588239533869757,
+   "opened_at": 1793664887556,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.67958)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 25.854917839720514,
    "status": null
   }
  },
@@ -454,6 +534,54 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793664887556,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democratic Party win the NC-09 House seat?",
+   "outcome": "No",
+   "shares": 38.59,
+   "price": 0.68,
+   "fee": 0.34,
+   "amount": -26.58,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.67958)"
+  },
+  {
+   "t": 1793664887258,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democratic Party win the NC-07 House seat?",
+   "outcome": "No",
+   "shares": 48.24,
+   "price": 0.76,
+   "fee": 0.35,
+   "amount": -37.02,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.76)"
+  },
+  {
+   "t": 1793664886968,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Republican Party win the NC-03 House seat?",
+   "outcome": "Yes",
+   "shares": 33.88,
+   "price": 0.6,
+   "fee": 0.33,
+   "amount": -20.66,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.6)"
+  },
+  {
+   "t": 1793664886789,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democratic Party win the NC-03 House seat?",
+   "outcome": "No",
+   "shares": 33.9,
+   "price": 0.6,
+   "fee": 0.33,
+   "amount": -20.66,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.5991508522)"
+  },
   {
    "t": 1793657692123,
    "type": "BUY",
@@ -926,6 +1054,11 @@
    "t": 1793657695510,
    "value": 960.21,
    "cash": 900.4
+  },
+  {
+   "t": 1793664890263,
+   "value": 957.51,
+   "cash": 795.49
   }
  ],
  "follows": {
@@ -982,6 +1115,15 @@
    "expected_win_rate": 0.5408774074074072,
    "edge_score": 3.0625308263501223,
    "updated_at": 1793597609990
+  },
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": {
+   "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
+   "name": "Melody626",
+   "clean_bets": 1218,
+   "win_rate": 0.6896551724137931,
+   "expected_win_rate": 0.6032602627257795,
+   "edge_score": 3.976346761876382,
+   "updated_at": 1793664885036
   }
  },
  "last_seen_trade": {
@@ -990,9 +1132,26 @@
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793655967,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793653009,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793586811,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793657238
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793664505,
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793662005
  },
  "log": [
+  {
+   "t": 1793664887556,
+   "msg": "Copied Melody626: bought 38.6 No on \"Will the Democratic Party win the NC-09 House seat?\" for $26.58"
+  },
+  {
+   "t": 1793664887258,
+   "msg": "Copied Melody626: bought 48.2 No on \"Will the Democratic Party win the NC-07 House seat?\" for $37.02"
+  },
+  {
+   "t": 1793664886968,
+   "msg": "Copied Melody626: bought 33.9 Yes on \"Will the Republican Party win the NC-03 House seat?\" for $20.66"
+  },
+  {
+   "t": 1793664886789,
+   "msg": "Copied Melody626: bought 33.9 No on \"Will the Democratic Party win the NC-03 House seat?\" for $20.66"
+  },
   {
    "t": 1793657692123,
    "msg": "Copied 0xC9BFc798...81c0: bought 6.9 B8 on \"Map Handicap: LGC (-1.5) vs B8 (+1.5)\" for $4.60"
