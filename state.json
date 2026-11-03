@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 157.63638021875337,
+ "cash": 83.00998210798205,
  "created_at": 1793597589071,
- "last_run": 1793715480939,
+ "last_run": 1793722559960,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -22,7 +22,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 12.629062290570786,
+   "value": 12.654421853403257,
    "status": null
   },
   "98499574761886365453998968930580922157047205428386778755185928872667615598010": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 24.631811418687413,
+   "value": 23.54511385609826,
    "status": null
   },
   "84368524152268016512433556151474175385160499638069024812438264090070245734708": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.734754349822698,
+   "value": 28.13670731141433,
    "status": null
   },
   "33485925353171072312284533208639606685310281710515007938376691890027292332545": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 26.911798034911534,
+   "value": 28.116803917071746,
    "status": null
   },
   "107844449523890311740907586041395758413047559802389895859202256336422357556837": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 14.878111451547001,
+   "value": 15.511222577144746,
    "status": null
   },
   "84319454573662085210770106575059573110977726805918419997163222348941856635019": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.25725606985409,
+   "value": 45.69993973166307,
    "status": null
   },
   "9888897571794010752121877049436014412394792546592129944638664529404498838517": {
@@ -282,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 23.8500593330369,
+   "value": 23.48869479768786,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -442,7 +442,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.29813120892887,
+   "value": 31.64198170564318,
    "status": null
   },
   "109221185828609696152295126285793980024516683390733668492309397849318398468765": {
@@ -462,7 +462,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.506813098765196,
+   "value": 32.411855989007,
    "status": null
   },
   "59980150909931986777748227027020522224275707387562276219060223816867188565245": {
@@ -482,7 +482,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.212664673795118,
+   "value": 27.79158012642504,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -522,7 +522,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 11.76458657957388,
+   "value": 12.110603831914286,
    "status": null
   },
   "108230243496498344855407302843123554399616537057761543327780472018667198839068": {
@@ -542,7 +542,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 12.251056222524756,
+   "value": 11.919946594888952,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -562,7 +562,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.176631788089324,
+   "value": 26.628400022911727,
    "status": null
   },
   "79920457669696629750737929498886797974237730606575932780167460773729808716886": {
@@ -582,27 +582,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 33.73037909283543,
-   "status": null
-  },
-  "60126921664319397654322154517873280012454853764180004600300212068802325408932": {
-   "token": "60126921664319397654322154517873280012454853764180004600300212068802325408932",
-   "market_id": "6580042",
-   "slug": "dota2-xe-pckcp-2026-11-03-game1",
-   "question": "Dota 2: Xipto Esports vs PuckChamp - Game 1 Winner",
-   "outcome": "Xipto Esports",
-   "idx": 0,
-   "shares": 6600.40709294256,
-   "cost_ex": 8.227983836483038,
-   "fees": 0.41025538309773457,
-   "opened_at": 1793715476781,
-   "source": "copy",
-   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.8261256737)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 3.30020354647128,
+   "value": 38.73178013073861,
    "status": null
   },
   "12535393665323595983355411049163418716443509054831098404414682681344586927805": {
@@ -622,11 +602,106 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.1295483578608705,
+   "value": 2.496711867836883,
+   "status": null
+  },
+  "30607179617501382500923924584971144938547890560969437136366825816356199256102": {
+   "token": "30607179617501382500923924584971144938547890560969437136366825816356199256102",
+   "market_id": "6580044",
+   "slug": "dota2-xe-pckcp-2026-11-03",
+   "question": "Dota 2: Xipto Esports vs PuckChamp (BO3) - Asgard Championship Group A",
+   "outcome": "Xipto Esports",
+   "idx": 0,
+   "shares": 35.46091093484454,
+   "cost_ex": 26.750292310481854,
+   "fees": 0.3285035077257823,
+   "opened_at": 1793722555777,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.750899216)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 25.886464982436515,
+   "status": null
+  },
+  "22199911659341930176670225081352715928312713803748168438486851923083540172564": {
+   "token": "22199911659341930176670225081352715928312713803748168438486851923083540172564",
+   "market_id": "6600146",
+   "slug": "dota2-nemiga-ch1-2026-11-03-game2",
+   "question": "Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner",
+   "outcome": "Nemiga Gaming",
+   "idx": 0,
+   "shares": 34.64678498825916,
+   "cost_ex": 9.917567646595154,
+   "fees": 0.353893651454128,
+   "opened_at": 1793722556690,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4299999991)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 5.543485598121465,
+   "status": null
+  },
+  "64193203767106972387057068167689257344325947793671172919246901045395027842245": {
+   "token": "64193203767106972387057068167689257344325947793671172919246901045395027842245",
+   "market_id": "6600147",
+   "slug": "dota2-nemiga-ch1-2026-11-03",
+   "question": "Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs",
+   "outcome": "Nemiga Gaming",
+   "idx": 0,
+   "shares": 27.07586014923886,
+   "cost_ex": 14.079447277604208,
+   "fees": 0.337906734662501,
+   "opened_at": 1793722556914,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6764822919)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 14.891723082081374,
+   "status": null
+  },
+  "83106526449876874573813297184176954494008138834292248374570211745966785088569": {
+   "token": "83106526449876874573813297184176954494008138834292248374570211745966785088569",
+   "market_id": "629324",
+   "slug": "will-the-democrats-win-the-florida-governor-race-in-2026",
+   "question": "Will the Democrats win the Florida governor race in 2026?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 34.681819120387956,
+   "cost_ex": 22.543182428252173,
+   "fees": 0.31560455399553033,
+   "opened_at": 1793722557901,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.68)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 22.196364237048293,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793722553750,
+   "question": "Dota 2: Xipto Esports vs PuckChamp - Game 1 Winner",
+   "outcome": "Xipto Esports",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.8261256737)",
+   "shares": 6600.41,
+   "avg": 0.0012465873272090675,
+   "final": 0,
+   "cost": 8.64,
+   "payout": 0,
+   "pnl": -8.64,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793715475217,
    "question": "Dota 2: LEGION vs OG - Game 2 Winner",
@@ -1049,6 +1124,65 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793722557901,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democrats win the Florida governor race in 2026?",
+   "outcome": "No",
+   "shares": 34.68,
+   "price": 0.65,
+   "fee": 0.32,
+   "amount": -22.86,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.68)"
+  },
+  {
+   "t": 1793722556914,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs",
+   "outcome": "Nemiga Gaming",
+   "shares": 27.08,
+   "price": 0.52,
+   "fee": 0.34,
+   "amount": -14.42,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6764822919)"
+  },
+  {
+   "t": 1793722556690,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner",
+   "outcome": "Nemiga Gaming",
+   "shares": 34.65,
+   "price": 0.2862478481035382,
+   "fee": 0.35,
+   "amount": -10.27,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4299999991)"
+  },
+  {
+   "t": 1793722555777,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs PuckChamp (BO3) - Asgard Championship Group A",
+   "outcome": "Xipto Esports",
+   "shares": 35.46,
+   "price": 0.7543599869623351,
+   "fee": 0.33,
+   "amount": -27.08,
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.750899216)"
+  },
+  {
+   "t": 1793722553750,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs PuckChamp - Game 1 Winner",
+   "outcome": "Xipto Esports",
+   "shares": 6600.41,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793715478528,
    "type": "BUY",
@@ -2156,6 +2290,11 @@
    "t": 1793715480939,
    "value": 907.55,
    "cash": 157.64
+  },
+  {
+   "t": 1793722559960,
+   "value": 909.06,
+   "cash": 83.01
   }
  ],
  "follows": {
@@ -2226,13 +2365,45 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793679208,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793712331,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793713761,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793721828,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793721705,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793674974,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793714917,
-  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793693119
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793721177,
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793716285
  },
  "log": [
+  {
+   "t": 1793722557901,
+   "msg": "Copied Melody626: bought 34.7 No on \"Will the Democrats win the Florida governor race in 2026?\" for $22.86"
+  },
+  {
+   "t": 1793722556914,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 27.1 Nemiga Gaming on \"Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs\" for $14.42"
+  },
+  {
+   "t": 1793722556690,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 34.6 Nemiga Gaming on \"Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner\" for $10.27"
+  },
+  {
+   "t": 1793722556474,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner\": price moved from 0.6099695013 to 0.77"
+  },
+  {
+   "t": 1793722556281,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs\": price moved from 0.4259318397 to 0.5"
+  },
+  {
+   "t": 1793722555777,
+   "msg": "Copied Sisyphus-: bought 35.5 Xipto Esports on \"Dota 2: Xipto Esports vs PuckChamp (BO3) - Asgard Championship Group A\" for $27.08"
+  },
+  {
+   "t": 1793722555464,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner\": price moved from 0.6151975319 to 0.75"
+  },
+  {
+   "t": 1793722553750,
+   "msg": "Settled: Xipto Esports on \"Dota 2: Xipto Esports vs PuckChamp - Game 1 Winner\" -> lost (-8.64)"
+  },
   {
    "t": 1793715478528,
    "msg": "Copied 0xC9BFc798...81c0: bought 7.3 QUINTESSÊNCIA on \"Counter-Strike: QUINTESSÊNCIA vs RED Canids Academy (BO3) - CCT South America Group Stage\" for $2.28"
