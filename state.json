@@ -3,7 +3,7 @@
  "start_cash": 1000,
  "cash": 200.95871030580497,
  "created_at": 1793597589071,
- "last_run": 1793693679340,
+ "last_run": 1793700903891,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -25,46 +25,6 @@
    "value": 12.679781416235729,
    "status": null
   },
-  "48809636246039123904527218456166505602988151072252301857296564008517689201860": {
-   "token": "48809636246039123904527218456166505602988151072252301857296564008517689201860",
-   "market_id": "6578135",
-   "slug": "cs2-faze-fal2-2026-11-03",
-   "question": "Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A",
-   "outcome": "FaZe",
-   "idx": 0,
-   "shares": 8.66721751745206,
-   "cost_ex": 2.4268209048865774,
-   "fees": 0.08736555257591677,
-   "opened_at": 1793639146930,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.28)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 1.5600991531413708,
-   "status": null
-  },
-  "33886534285946985596164842262923963158833264898157273595382270569220032636360": {
-   "token": "33886534285946985596164842262923963158833264898157273595382270569220032636360",
-   "market_id": "6565242",
-   "slug": "cs2-mglz-hero-2026-11-02-game1-round-handicap-mglz-3pt5",
-   "question": "Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)",
-   "outcome": "Heroic",
-   "idx": 1,
-   "shares": 8.205837722164514,
-   "cost_ex": 5.7440864055151595,
-   "fees": 0.08616129608272742,
-   "opened_at": 1793650507136,
-   "source": "copy",
-   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.67)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 4.102918861082257,
-   "status": null
-  },
   "89206539323003161829593978754557955525832333945214465659981656908084851213483": {
    "token": "89206539323003161829593978754557955525832333945214465659981656908084851213483",
    "market_id": "6565240",
@@ -82,7 +42,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 7.608088393819017,
+   "value": 3.2146852368249372,
    "status": null
   },
   "26147464470366544314444663522036981273366524222640446284412553645937155755596": {
@@ -102,7 +62,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.080889464075263,
+   "value": 2.137129719861081,
    "status": null
   },
   "84982068826015881975756970667593781611395664754575008644893665378679995869256": {
@@ -142,7 +102,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 4.4586372058356,
+   "value": 4.390042787284282,
    "status": null
   },
   "98499574761886365453998968930580922157047205428386778755185928872667615598010": {
@@ -242,7 +202,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 1.9134854974414257,
+   "value": 0.004555917851051014,
    "status": null
   },
   "66439326791754631222128498834722529254569967665962764508265153666276400777966": {
@@ -362,7 +322,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 14.878111451547001,
+   "value": 14.561555888748131,
    "status": null
   },
   "84319454573662085210770106575059573110977726805918419997163222348941856635019": {
@@ -382,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 45.69993973166307,
+   "value": 46.25725606985409,
    "status": null
   },
   "9888897571794010752121877049436014412394792546592129944638664529404498838517": {
@@ -442,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 23.48058548706928,
+   "value": 23.119345710345137,
    "status": null
   },
   "14535768089815400273847771354088826502078939671987391994275253603566532191654": {
@@ -502,7 +462,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 17.755025365103542,
+   "value": 18.08382213112398,
    "status": null
   },
   "15056064872112675856476546973246733011825608647719006314444015066456521530341": {
@@ -562,7 +522,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.136681442666614,
+   "value": 28.726305647699476,
    "status": null
   },
   "88628412725357801969852238315853152041907755032296775468463465337049299853893": {
@@ -702,11 +662,41 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 26.82419708190373,
+   "value": 26.941675317298923,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793700896544,
+   "question": "Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)",
+   "outcome": "Heroic",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.67)",
+   "shares": 8.21,
+   "avg": 0.7,
+   "final": 0,
+   "cost": 5.83,
+   "payout": 0,
+   "pnl": -5.83,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793700896394,
+   "question": "Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "FaZe",
+   "source": "copy",
+   "reason": "Copied 0xC9BFc798...81c0 (edge score 3.1, they paid 0.28)",
+   "shares": 8.67,
+   "avg": 0.28,
+   "final": 0,
+   "cost": 2.51,
+   "payout": 0,
+   "pnl": -2.51,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793693672107,
    "question": "Map Handicap: 9z (-1.5) vs TYLOO (+1.5)",
@@ -1009,6 +999,28 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793700896544,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)",
+   "outcome": "Heroic",
+   "shares": 8.21,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793700896394,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "FaZe",
+   "shares": 8.67,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793693676618,
    "type": "BUY",
@@ -1965,6 +1977,11 @@
    "t": 1793693679340,
    "value": 930.91,
    "cash": 200.96
+  },
+  {
+   "t": 1793700903891,
+   "value": 918.85,
+   "cash": 200.96
   }
  ],
  "follows": {
@@ -2036,12 +2053,28 @@
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793679208,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793655967,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793653009,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793700888,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793674974,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793686029,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793693119
  },
  "log": [
+  {
+   "t": 1793700901379,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: LEGION vs OG (BO3) - EPL Masters Playoffs\": price moved from 0.288084898 to 0.32"
+  },
+  {
+   "t": 1793700901198,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: LEGION vs OG - Game 1 Winner\": price moved from 0.3299999997 to 0.42"
+  },
+  {
+   "t": 1793700896544,
+   "msg": "Settled: Heroic on \"Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)\" -> lost (-5.83)"
+  },
+  {
+   "t": 1793700896395,
+   "msg": "Settled: FaZe on \"Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A\" -> lost (-2.51)"
+  },
   {
    "t": 1793693676618,
    "msg": "Copied Melody626: bought 39.2 No on \"Will Republicans hold ≤46 Senate seats and ≤192 House seats after the 2026 midterms?\" for $27.70"
