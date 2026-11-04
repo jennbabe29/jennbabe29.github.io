@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 244.4173297944018,
+ "cash": 313.8185008091748,
  "created_at": 1793597589071,
- "last_run": 1793794684651,
+ "last_run": 1793801839634,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 8.606560285102546,
+   "value": 5.489223488923671,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -82,27 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.07717885922304639,
-   "status": null
-  },
-  "66439326791754631222128498834722529254569967665962764508265153666276400777966": {
-   "token": "66439326791754631222128498834722529254569967665962764508265153666276400777966",
-   "market_id": "943819",
-   "slug": "will-the-republican-party-hold-47-or-fewer-senate-seats-after-the-2026-midterm-elections",
-   "question": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
-   "outcome": "No",
-   "idx": 1,
-   "shares": 32.008207485627594,
-   "cost_ex": 14.403693368532418,
-   "fees": 0.31688125410771323,
-   "opened_at": 1793686523248,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.44)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 0.0160041037428138,
+   "value": 0.11576828883456958,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -122,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.32963085815918,
+   "value": 34.94395056825255,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -142,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.692199793534925,
+   "value": 35.00413436456943,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -162,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.77765290055837,
+   "value": 33.65125772200182,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -202,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.2051878974835679,
+   "value": 0.24622547698028147,
    "status": null
   },
   "88628412725357801969852238315853152041907755032296775468463465337049299853893": {
@@ -262,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 11.283683906635565,
+   "value": 8.89675077253958,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -282,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.7366821031898,
+   "value": 33.90969072936,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -302,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.3915941179839964,
+   "value": 0.07831882359679927,
    "status": null
   },
   "104819787650357695281169823647378465024078714619256040408074745774984489506029": {
@@ -322,7 +302,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.853013982155176,
+   "value": 26.818117206571603,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -382,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 5.803584460439545,
+   "value": 1.2695341007211518,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -402,7 +382,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 9.75457995083172,
+   "value": 8.519822995030237,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -422,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 21.46478694292612,
+   "value": 28.8031756413624,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -442,111 +422,181 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.417802475216114,
+   "value": 38.49191966093837,
    "status": null
   },
-  "45234969305242319753405741467373848697584181012411484965322075346026090458784": {
-   "token": "45234969305242319753405741467373848697584181012411484965322075346026090458784",
-   "market_id": "6659697",
-   "slug": "dota2-yes-navi-2026-11-04-game1",
-   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner",
-   "outcome": "Natus Vincere",
-   "idx": 1,
-   "shares": 27.536953136381015,
-   "cost_ex": 19.55123672683052,
-   "fees": 0.2834929325390426,
-   "opened_at": 1793787309266,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6923240645)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 27.509416183244635,
-   "status": null
-  },
-  "76901349708512247888137636565458132930027482648133526398154524598029408297278": {
-   "token": "76901349708512247888137636565458132930027482648133526398154524598029408297278",
-   "market_id": "6662240",
-   "slug": "dota2-yes-navi-2026-11-04-game-handicap-home-1pt5",
-   "question": "Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)",
-   "outcome": "Natus Vincere",
+  "53300577107755718518635557748459468348053427921822919218478715340501461956937": {
+   "token": "53300577107755718518635557748459468348053427921822919218478715340501461956937",
+   "market_id": "6552389",
+   "slug": "dota2-xe-synaps-2026-11-02-game2",
+   "question": "Dota 2: Xipto Esports vs Team Synapse - Game 2 Winner",
+   "outcome": "Xipto Esports",
    "idx": 0,
-   "shares": 20.318365527857786,
-   "cost_ex": 10.109182763928892,
-   "fees": 0.25395456909822234,
-   "opened_at": 1793787309564,
+   "shares": 3502.5517065414933,
+   "cost_ex": 6.757165358873442,
+   "fees": 0.3361720835321791,
+   "opened_at": 1793801834450,
    "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4927249166)",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5014467419)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 13.003753937828984,
+   "value": 1.7512758532707466,
    "status": null
   },
-  "76357043879896007792914271988927310757719534532064352978569188264959842446117": {
-   "token": "76357043879896007792914271988927310757719534532064352978569188264959842446117",
-   "market_id": "6659698",
-   "slug": "dota2-yes-navi-2026-11-04-game2",
-   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner",
-   "outcome": "Natus Vincere",
-   "idx": 1,
-   "shares": 25.804416783431417,
-   "cost_ex": 18.01309174840199,
-   "fees": 0.27192137622602996,
-   "opened_at": 1793787309845,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6844292342)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 17.54700341273336,
-   "status": null
-  },
-  "54610637297502172299394703370510152774174048051578063010383293420047707299840": {
-   "token": "54610637297502172299394703370510152774174048051578063010383293420047707299840",
-   "market_id": "6668287",
-   "slug": "cs2-navi-fal2-2026-11-04-game2",
-   "question": "Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner",
-   "outcome": "Team Falcons",
-   "idx": 1,
-   "shares": 11091.943788306542,
-   "cost_ex": 11.091943788306542,
-   "fees": 0.5540425922259119,
-   "opened_at": 1793794681432,
-   "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.5204573739)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 5.545971894153271,
-   "status": null
-  },
-  "114523437045981871446182272670728271590657057031120275913656454232380926419178": {
-   "token": "114523437045981871446182272670728271590657057031120275913656454232380926419178",
-   "market_id": "6668288",
-   "slug": "cs2-navi-fal2-2026-11-04",
-   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
-   "outcome": "Natus Vincere",
+  "31037098493561064757894021041142550788904942641166773673174408935701357156766": {
+   "token": "31037098493561064757894021041142550788904942641166773673174408935701357156766",
+   "market_id": "6659716",
+   "slug": "dota2-og-gl-2026-11-04-game1",
+   "question": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+   "outcome": "OG",
    "idx": 0,
-   "shares": 37.49322674124085,
-   "cost_ex": 18.746613370620427,
-   "fees": 0.4686653342655107,
-   "opened_at": 1793794681836,
+   "shares": 19.77843491592581,
+   "cost_ex": 8.109158315529582,
+   "fees": 0.2392201703081227,
+   "opened_at": 1793801834736,
    "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.4994013925)",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5022562218)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 18.37168110320802,
+   "value": 10.680354854599939,
+   "status": null
+  },
+  "19704291342622694464789706532365439927695506101580228791199745717870918584924": {
+   "token": "19704291342622694464789706532365439927695506101580228791199745717870918584924",
+   "market_id": "6659716",
+   "slug": "dota2-og-gl-2026-11-04-game1",
+   "question": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+   "outcome": "GamerLegion",
+   "idx": 1,
+   "shares": 22.597432169868792,
+   "cost_ex": 12.88053633682521,
+   "fees": 0.2769315312417421,
+   "opened_at": 1793801835407,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.5431005895)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 9.942870154742268,
+   "status": null
+  },
+  "94660521064351758463672301436846335450268390706448414106475621697886733345954": {
+   "token": "94660521064351758463672301436846335450268390706448414106475621697886733345954",
+   "market_id": "6659717",
+   "slug": "dota2-og-gl-2026-11-04-game2",
+   "question": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+   "outcome": "GamerLegion",
+   "idx": 1,
+   "shares": 22.58908446956706,
+   "cost_ex": 12.875778147653222,
+   "fees": 0.27682923017454436,
+   "opened_at": 1793801835704,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.5495314257)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 12.198105613566213,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793801832853,
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.4994013925)",
+   "shares": 37.49,
+   "avg": 0.5,
+   "final": 1,
+   "cost": 19.22,
+   "payout": 37.49,
+   "pnl": 18.28,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793801832804,
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner",
+   "outcome": "Team Falcons",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.5204573739)",
+   "shares": 11091.94,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 11.65,
+   "payout": 0,
+   "pnl": -11.65,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793801832756,
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6844292342)",
+   "shares": 25.8,
+   "avg": 0.6980623472167716,
+   "final": 1,
+   "cost": 18.29,
+   "payout": 25.8,
+   "pnl": 7.52,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793801832614,
+   "question": "Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4927249166)",
+   "shares": 20.32,
+   "avg": 0.49753917213806165,
+   "final": 1,
+   "cost": 10.36,
+   "payout": 20.32,
+   "pnl": 9.96,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793801832473,
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6923240645)",
+   "shares": 27.54,
+   "avg": 0.71,
+   "final": 1,
+   "cost": 19.83,
+   "payout": 27.54,
+   "pnl": 7.7,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793801830919,
+   "question": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
+   "outcome": "No",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.44)",
+   "shares": 32.01,
+   "avg": 0.45,
+   "final": 0,
+   "cost": 14.72,
+   "payout": 0,
+   "pnl": -14.72,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793794676807,
    "question": "Will the Republicans win the Nebraska Senate race in 2026?",
@@ -1371,6 +1421,120 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793801835704,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: OG vs GamerLegion - Game 2 Winner",
+   "outcome": "GamerLegion",
+   "shares": 22.59,
+   "price": 0.57,
+   "fee": 0.28,
+   "amount": -13.15,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.5495314257)"
+  },
+  {
+   "t": 1793801835407,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+   "outcome": "GamerLegion",
+   "shares": 22.6,
+   "price": 0.57,
+   "fee": 0.28,
+   "amount": -13.16,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.5431005895)"
+  },
+  {
+   "t": 1793801834736,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: OG vs GamerLegion - Game 1 Winner",
+   "outcome": "OG",
+   "shares": 19.78,
+   "price": 0.41,
+   "fee": 0.24,
+   "amount": -8.35,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5022562218)"
+  },
+  {
+   "t": 1793801834450,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs Team Synapse - Game 2 Winner",
+   "outcome": "Xipto Esports",
+   "shares": 3502.55,
+   "price": 0.0019292121644495677,
+   "fee": 0.34,
+   "amount": -7.09,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5014467419)"
+  },
+  {
+   "t": 1793801832853,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "Natus Vincere",
+   "shares": 37.49,
+   "price": 1,
+   "fee": 0,
+   "amount": 37.49
+  },
+  {
+   "t": 1793801832804,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner",
+   "outcome": "Team Falcons",
+   "shares": 11091.94,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793801832756,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner",
+   "outcome": "Natus Vincere",
+   "shares": 25.8,
+   "price": 1,
+   "fee": 0,
+   "amount": 25.8
+  },
+  {
+   "t": 1793801832614,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)",
+   "outcome": "Natus Vincere",
+   "shares": 20.32,
+   "price": 1,
+   "fee": 0,
+   "amount": 20.32
+  },
+  {
+   "t": 1793801832473,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner",
+   "outcome": "Natus Vincere",
+   "shares": 27.54,
+   "price": 1,
+   "fee": 0,
+   "amount": 27.54
+  },
+  {
+   "t": 1793801830919,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?",
+   "outcome": "No",
+   "shares": 32.01,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793794681836,
    "type": "BUY",
@@ -3109,6 +3273,11 @@
    "t": 1793794684651,
    "value": 718.89,
    "cash": 244.42
+  },
+  {
+   "t": 1793801839634,
+   "value": 742.71,
+   "cash": 313.82
   }
  ],
  "follows": {
@@ -3188,14 +3357,62 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793767887,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793792055,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793794564,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793800356,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793801527,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793758710,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793792227,
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793799430,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793780068,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793794572
  },
  "log": [
+  {
+   "t": 1793801836313,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: Drama eSports vs Saint Sinners (BO3) - ESL Challenger League Europe Cup #10 Group B\": price moved from 0.48 to 0.58"
+  },
+  {
+   "t": 1793801835704,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 22.6 GamerLegion on \"Dota 2: OG vs GamerLegion - Game 2 Winner\" for $13.15"
+  },
+  {
+   "t": 1793801835408,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 22.6 GamerLegion on \"Dota 2: OG vs GamerLegion - Game 1 Winner\" for $13.16"
+  },
+  {
+   "t": 1793801835230,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: OG vs GamerLegion (BO3) - EPL Masters Playoffs\": price moved from 0.5199999999 to 0.59"
+  },
+  {
+   "t": 1793801834736,
+   "msg": "Copied Sisyphus-: bought 19.8 OG on \"Dota 2: OG vs GamerLegion - Game 1 Winner\" for $8.35"
+  },
+  {
+   "t": 1793801834450,
+   "msg": "Copied Sisyphus-: bought 3502.6 Xipto Esports on \"Dota 2: Xipto Esports vs Team Synapse - Game 2 Winner\" for $7.09"
+  },
+  {
+   "t": 1793801832853,
+   "msg": "Settled: Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" -> won (+18.28)"
+  },
+  {
+   "t": 1793801832804,
+   "msg": "Settled: Team Falcons on \"Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner\" -> lost (-11.65)"
+  },
+  {
+   "t": 1793801832756,
+   "msg": "Settled: Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner\" -> won (+7.52)"
+  },
+  {
+   "t": 1793801832614,
+   "msg": "Settled: Natus Vincere on \"Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)\" -> won (+9.96)"
+  },
+  {
+   "t": 1793801832473,
+   "msg": "Settled: Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner\" -> won (+7.70)"
+  },
+  {
+   "t": 1793801830919,
+   "msg": "Settled: No on \"Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?\" -> lost (-14.72)"
+  },
   {
    "t": 1793794681836,
    "msg": "Copied fantasy7788: bought 37.5 Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" for $19.22"
