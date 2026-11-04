@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 306.9405176866177,
+ "cash": 292.02475439188635,
  "created_at": 1793597589071,
- "last_run": 1793816104799,
+ "last_run": 1793823289755,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 12.909840427653819,
+   "value": 7.115660078234389,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.871677661182744,
+   "value": 35.81122545309026,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.28165481112115,
+   "value": 35.184754252931505,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.11371323626135,
+   "value": 32.358322586265515,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.24622547698028147,
+   "value": 0.3283006359737086,
    "status": null
   },
   "88628412725357801969852238315853152041907755032296775468463465337049299853893": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 5.09935715011415,
+   "value": 3.5803997011439774,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.08269935553021,
+   "value": 34.35951315740253,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -282,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.3915941179839964,
+   "value": 0.07831882359679927,
    "status": null
   },
   "104819787650357695281169823647378465024078714619256040408074745774984489506029": {
@@ -302,7 +302,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 30.098249322437663,
+   "value": 29.06561513781316,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -342,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.08348702567661763,
+   "value": 0.11688183594726467,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -362,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.373169537514715,
+   "value": 0.7772657759517255,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -382,7 +382,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.05030908342727,
+   "value": 4.486283606078724,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -402,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.43625620644059,
+   "value": 29.10894183713058,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -422,7 +422,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 38.19484861614612,
+   "value": 38.36460349888455,
    "status": null
   },
   "112611421222170029337087902540406858387735699602043321383695283440191841703908": {
@@ -442,47 +442,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 4.050979513774971,
-   "status": null
-  },
-  "943433260392384482653592743564221394154544645581424738419497869785905815213": {
-   "token": "943433260392384482653592743564221394154544645581424738419497869785905815213",
-   "market_id": "6659737",
-   "slug": "dota2-ch1-huliga-2026-11-04",
-   "question": "Dota 2: CyberHero vs HULIGANI (BO3) - EPL Masters Playoffs",
-   "outcome": "CyberHero",
-   "idx": 0,
-   "shares": 31.072571928750776,
-   "cost_ex": 7.768142982187694,
-   "fees": 0.2913053618320386,
-   "opened_at": 1793816100195,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.37)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 7.146691543612679,
-   "status": null
-  },
-  "15192732238459241941509023802746907556726304860782093810402294157902014489395": {
-   "token": "15192732238459241941509023802746907556726304860782093810402294157902014489395",
-   "market_id": "6659735",
-   "slug": "dota2-ch1-huliga-2026-11-04-game1",
-   "question": "Dota 2: CyberHero vs HULIGANI - Game 1 Winner",
-   "outcome": "CyberHero",
-   "idx": 0,
-   "shares": 7335.865983413206,
-   "cost_ex": 7.335865983413206,
-   "fees": 0.36642650587148967,
-   "opened_at": 1793816100507,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.3833040425)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 3.667932991706603,
+   "value": 4.629690872885681,
    "status": null
   },
   "15087073709995775270106603134908895648234842438051400546189704315456068634312": {
@@ -504,9 +464,79 @@
    },
    "value": 17.298309100481376,
    "status": null
+  },
+  "61717235969196305389833513042003135929886004593556937018622050464731901020573": {
+   "token": "61717235969196305389833513042003135929886004593556937018622050464731901020573",
+   "market_id": "6690511",
+   "slug": "dota2-gl-huliga-2026-11-04-game1",
+   "question": "Dota 2: GamerLegion vs HULIGANI - Game 1 Winner",
+   "outcome": "HULIGANI",
+   "idx": 1,
+   "shares": 7105.69404847121,
+   "cost_ex": 7.105694048471211,
+   "fees": 0.354929417721137,
+   "opened_at": 1793823286136,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.3756310353)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 3.5528470242356054,
+   "status": null
+  },
+  "48523929090302578109457707740829718916121990323064948054493728810391217805828": {
+   "token": "48523929090302578109457707740829718916121990323064948054493728810391217805828",
+   "market_id": "6690513",
+   "slug": "dota2-gl-huliga-2026-11-04",
+   "question": "Dota 2: GamerLegion vs HULIGANI (BO3) - EPL Masters Playoffs",
+   "outcome": "HULIGANI",
+   "idx": 1,
+   "shares": 53.185110454314355,
+   "cost_ex": 7.14591546360401,
+   "fees": 0.3092243649349724,
+   "opened_at": 1793823286410,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.31)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 6.382213254517723,
+   "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793823284233,
+   "question": "Dota 2: CyberHero vs HULIGANI - Game 1 Winner",
+   "outcome": "CyberHero",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.3833040425)",
+   "shares": 7335.87,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 7.7,
+   "payout": 0,
+   "pnl": -7.7,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793823284195,
+   "question": "Dota 2: CyberHero vs HULIGANI (BO3) - EPL Masters Playoffs",
+   "outcome": "CyberHero",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.37)",
+   "shares": 31.07,
+   "avg": 0.25,
+   "final": 0,
+   "cost": 8.06,
+   "payout": 0,
+   "pnl": -8.06,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793816098288,
    "question": "Dota 2: OG vs GamerLegion - Game 2 Winner",
@@ -1511,6 +1541,52 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793823286410,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: GamerLegion vs HULIGANI (BO3) - EPL Masters Playoffs",
+   "outcome": "HULIGANI",
+   "shares": 53.19,
+   "price": 0.1343593235505697,
+   "fee": 0.31,
+   "amount": -7.46,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.31)"
+  },
+  {
+   "t": 1793823286136,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: GamerLegion vs HULIGANI - Game 1 Winner",
+   "outcome": "HULIGANI",
+   "shares": 7105.69,
+   "price": 0.001,
+   "fee": 0.35,
+   "amount": -7.46,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.3756310353)"
+  },
+  {
+   "t": 1793823284233,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: CyberHero vs HULIGANI - Game 1 Winner",
+   "outcome": "CyberHero",
+   "shares": 7335.87,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793823284195,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: CyberHero vs HULIGANI (BO3) - EPL Masters Playoffs",
+   "outcome": "CyberHero",
+   "shares": 31.07,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793816101918,
    "type": "BUY",
@@ -3516,6 +3592,11 @@
    "t": 1793816104799,
    "value": 735.51,
    "cash": 306.94
+  },
+  {
+   "t": 1793823289755,
+   "value": 712.79,
+   "cash": 292.02
   }
  ],
  "follows": {
@@ -3595,14 +3676,38 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793767887,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793815209,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793815938,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793820727,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793823255,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793758710,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793811127,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793780068,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793810406
  },
  "log": [
+  {
+   "t": 1793823286601,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: GamerLegion vs HULIGANI - Game 2 Winner\": price moved from 0.3130654133 to 0.36"
+  },
+  {
+   "t": 1793823286410,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 53.2 HULIGANI on \"Dota 2: GamerLegion vs HULIGANI (BO3) - EPL Masters Playoffs\" for $7.46"
+  },
+  {
+   "t": 1793823286136,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 7105.7 HULIGANI on \"Dota 2: GamerLegion vs HULIGANI - Game 1 Winner\" for $7.46"
+  },
+  {
+   "t": 1793823285798,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: Spirit Academy vs Xipto Esports (BO3) - Asgard Championship Group A\": price moved from 0.5787358034 to 0.999"
+  },
+  {
+   "t": 1793823284233,
+   "msg": "Settled: CyberHero on \"Dota 2: CyberHero vs HULIGANI - Game 1 Winner\" -> lost (-7.70)"
+  },
+  {
+   "t": 1793823284195,
+   "msg": "Settled: CyberHero on \"Dota 2: CyberHero vs HULIGANI (BO3) - EPL Masters Playoffs\" -> lost (-8.06)"
+  },
   {
    "t": 1793816101918,
    "msg": "Copied fantasy7788: bought 38.4 LYON on \"Game Handicap: GEN (-2.5) vs LYON (+2.5)\" for $18.16"
