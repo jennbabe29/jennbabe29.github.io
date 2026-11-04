@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 235.1117321411463,
+ "cash": 244.4173297944018,
  "created_at": 1793597589071,
- "last_run": 1793787314047,
+ "last_run": 1793794684651,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 9.182589910483426,
+   "value": 8.606560285102546,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.27901907245129,
+   "value": 47.182531278425884,
    "status": null
   },
   "1917867817482819673072508794067723794609285632054054261487652073909099386849": {
@@ -105,26 +105,6 @@
    "value": 0.0160041037428138,
    "status": null
   },
-  "92576281548134350814800877416860562553699794074017301653635964206220838638047": {
-   "token": "92576281548134350814800877416860562553699794074017301653635964206220838638047",
-   "market_id": "634892",
-   "slug": "will-the-republicans-win-the-nebraska-senate-race-in-2026",
-   "question": "Will the Republicans win the Nebraska Senate race in 2026?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 40.16686273867393,
-   "cost_ex": 28.116803917071746,
-   "fees": 0.337401647004861,
-   "opened_at": 1793686524061,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.7)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 40.126695875935255,
-   "status": null
-  },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
    "token": "16661917299889844562247566603559122251937209362630950418259738730496536105112",
    "market_id": "1283001",
@@ -142,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.28167370564695,
+   "value": 34.32963085815918,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -162,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.23405945862114,
+   "value": 32.692199793534925,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -182,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.82597868629052,
+   "value": 32.77765290055837,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -282,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 9.656229497024665,
+   "value": 11.283683906635565,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -302,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.11385104897706,
+   "value": 33.7366821031898,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -322,7 +302,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.07831882359679927,
+   "value": 0.3915941179839964,
    "status": null
   },
   "104819787650357695281169823647378465024078714619256040408074745774984489506029": {
@@ -342,7 +322,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.336696889842926,
+   "value": 28.853013982155176,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -382,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.0667896205412941,
+   "value": 0.11688183594726467,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -402,7 +382,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.891756546771961,
+   "value": 5.803584460439545,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -422,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 8.190554473483177,
+   "value": 9.75457995083172,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -442,7 +422,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 14.70735401644938,
+   "value": 21.46478694292612,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -462,7 +442,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 36.62461595081567,
+   "value": 34.417802475216114,
    "status": null
   },
   "45234969305242319753405741467373848697584181012411484965322075346026090458784": {
@@ -482,7 +462,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 19.000497664102898,
+   "value": 27.509416183244635,
    "status": null
   },
   "76901349708512247888137636565458132930027482648133526398154524598029408297278": {
@@ -502,7 +482,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 9.752815453371737,
+   "value": 13.003753937828984,
    "status": null
   },
   "76357043879896007792914271988927310757719534532064352978569188264959842446117": {
@@ -524,9 +504,64 @@
    },
    "value": 17.54700341273336,
    "status": null
+  },
+  "54610637297502172299394703370510152774174048051578063010383293420047707299840": {
+   "token": "54610637297502172299394703370510152774174048051578063010383293420047707299840",
+   "market_id": "6668287",
+   "slug": "cs2-navi-fal2-2026-11-04-game2",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner",
+   "outcome": "Team Falcons",
+   "idx": 1,
+   "shares": 11091.943788306542,
+   "cost_ex": 11.091943788306542,
+   "fees": 0.5540425922259119,
+   "opened_at": 1793794681432,
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.5204573739)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 5.545971894153271,
+   "status": null
+  },
+  "114523437045981871446182272670728271590657057031120275913656454232380926419178": {
+   "token": "114523437045981871446182272670728271590657057031120275913656454232380926419178",
+   "market_id": "6668288",
+   "slug": "cs2-navi-fal2-2026-11-04",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "Natus Vincere",
+   "idx": 0,
+   "shares": 37.49322674124085,
+   "cost_ex": 18.746613370620427,
+   "fees": 0.4686653342655107,
+   "opened_at": 1793794681836,
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.4994013925)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 18.37168110320802,
+   "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793794676807,
+   "question": "Will the Republicans win the Nebraska Senate race in 2026?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.7)",
+   "shares": 40.17,
+   "avg": 0.7,
+   "final": 1,
+   "cost": 28.45,
+   "payout": 40.17,
+   "pnl": 11.71,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1793787307130,
    "question": "Will the Republican Party win the IN-05 House seat?",
@@ -1336,6 +1371,41 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793794681836,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+   "outcome": "Natus Vincere",
+   "shares": 37.49,
+   "price": 0.5,
+   "fee": 0.47,
+   "amount": -19.22,
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.4994013925)"
+  },
+  {
+   "t": 1793794681432,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner",
+   "outcome": "Team Falcons",
+   "shares": 11091.94,
+   "price": 0.001,
+   "fee": 0.55,
+   "amount": -11.65,
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.5204573739)"
+  },
+  {
+   "t": 1793794676807,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republicans win the Nebraska Senate race in 2026?",
+   "outcome": "Yes",
+   "shares": 40.17,
+   "price": 1,
+   "fee": 0,
+   "amount": 40.17
+  },
   {
    "t": 1793787309845,
    "type": "BUY",
@@ -3034,6 +3104,11 @@
    "t": 1793787314047,
    "value": 707.09,
    "cash": 235.11
+  },
+  {
+   "t": 1793794684651,
+   "value": 718.89,
+   "cash": 244.42
   }
  ],
  "follows": {
@@ -3113,14 +3188,34 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793767887,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793746665,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793784768,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793792055,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793794564,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793758710,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793786854,
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793792227,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793780068,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793765829
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793794572
  },
  "log": [
+  {
+   "t": 1793794681836,
+   "msg": "Copied fantasy7788: bought 37.5 Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" for $19.22"
+  },
+  {
+   "t": 1793794681643,
+   "msg": "Skipped copying fantasy7788 on \"Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A\": price moved from 0.36 to 0.63"
+  },
+  {
+   "t": 1793794681432,
+   "msg": "Copied fantasy7788: bought 11091.9 Team Falcons on \"Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner\" for $11.65"
+  },
+  {
+   "t": 1793794679959,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: PuckChamp vs Inner Circle - Game 2 Winner\": price moved from 0.7068493061 to 0.99"
+  },
+  {
+   "t": 1793794676808,
+   "msg": "Settled: Yes on \"Will the Republicans win the Nebraska Senate race in 2026?\" -> won (+11.71)"
+  },
   {
    "t": 1793787311388,
    "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: megoshort vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series Group A\": price moved from 0.4 to 0.47"
