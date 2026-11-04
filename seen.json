@@ -40,6 +40,21 @@
       "name": "fantasy7788",
       "first_reported": "2026-11-03",
       "edge_score": 3.1
+    },
+    "0xc8b9a30184244d427169cf62485dde6041b2b836": {
+      "name": "0xc8b9a30184244d427169cf62485dde6041b2b836",
+      "first_reported": "2026-11-04",
+      "edge_score": 5.1
+    },
+    "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": {
+      "name": "Railcool",
+      "first_reported": "2026-11-04",
+      "edge_score": 4.6
+    },
+    "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": {
+      "name": "nb1985",
+      "first_reported": "2026-11-04",
+      "edge_score": 3.3
     }
   }
 }
