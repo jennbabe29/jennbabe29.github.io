@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 3.552713678800501e-15,
+ "cash": 295.5779021165415,
  "created_at": 1793597589071,
- "last_run": 1793765690564,
+ "last_run": 1793772959355,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 23.718866927447962,
+   "value": 19.347818593675406,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.314141132197186,
+   "value": 47.13428738141318,
    "status": null
   },
   "1917867817482819673072508794067723794609285632054054261487652073909099386849": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.4630731553382783,
+   "value": 0.42448372572675513,
    "status": null
   },
   "66439326791754631222128498834722529254569967665962764508265153666276400777966": {
@@ -102,27 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.3840984898275315,
-   "status": null
-  },
-  "107409796822153809778143872196236532785178617102787858261374110829112218839748": {
-   "token": "107409796822153809778143872196236532785178617102787858261374110829112218839748",
-   "market_id": "629325",
-   "slug": "will-the-republicans-win-the-florida-governor-race-in-2026",
-   "question": "Will the Republicans win the Florida governor race in 2026?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 36.22325208630502,
-   "cost_ex": 23.54511385609826,
-   "fees": 0.3296315939853756,
-   "opened_at": 1793686523418,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.65)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 36.187028834218715,
+   "value": 0.09602462245688287,
    "status": null
   },
   "84368524152268016512433556151474175385160499638069024812438264090070245734708": {
@@ -182,47 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.75685097435349,
-   "status": null
-  },
-  "84319454573662085210770106575059573110977726805918419997163222348941856635019": {
-   "token": "84319454573662085210770106575059573110977726805918419997163222348941856635019",
-   "market_id": "1283129",
-   "slug": "will-the-democratic-party-win-the-fl-25-house-seat",
-   "question": "Will the Democratic Party win the FL-25 House seat?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 55.73163381910131,
-   "cost_ex": 47.37188874623612,
-   "fees": 0.2842313324774167,
-   "opened_at": 1793686524657,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.8385614798)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 55.67590218528221,
-   "status": null
-  },
-  "9888897571794010752121877049436014412394792546592129944638664529404498838517": {
-   "token": "9888897571794010752121877049436014412394792546592129944638664529404498838517",
-   "market_id": "1283113",
-   "slug": "will-the-democratic-party-win-the-fl-22-house-seat",
-   "question": "Will the Democratic Party win the FL-22 House seat?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 44.828696690159866,
-   "cost_ex": 33.1732355507183,
-   "fees": 0.3450016497274703,
-   "opened_at": 1793686524945,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 44.783867993469705,
+   "value": 39.2831917584231,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -242,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.63054318541574,
+   "value": 35.59440673188083,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -262,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.40149811896599,
+   "value": 34.751266520862536,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -282,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.49809935769647,
+   "value": 33.19698321485123,
    "status": null
   },
   "49642601988386819856879657548183637759522037244334228869421548564041922857767": {
@@ -302,27 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.61663918922724,
-   "status": null
-  },
-  "15056064872112675856476546973246733011825608647719006314444015066456521530341": {
-   "token": "15056064872112675856476546973246733011825608647719006314444015066456521530341",
-   "market_id": "1283064",
-   "slug": "will-the-republican-party-win-the-fl-16-house-seat",
-   "question": "Will the Republican Party win the FL-16 House seat?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 47.79736939885147,
-   "cost_ex": 36.32600074312712,
-   "fees": 0.34872960713402035,
-   "opened_at": 1793686527173,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 47.74957202945262,
+   "value": 32.84679692544155,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -342,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.6568349131316172,
+   "value": 0.6978870952023434,
    "status": null
   },
   "104747520273266119848473437134847685636304847006738839689406910819240807521349": {
@@ -362,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.779714010437558,
+   "value": 0.6976388514441308,
    "status": null
   },
   "88628412725357801969852238315853152041907755032296775468463465337049299853893": {
@@ -382,7 +302,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 38.478212321059914,
+   "value": 39.02511077029325,
    "status": null
   },
   "109221185828609696152295126285793980024516683390733668492309397849318398468765": {
@@ -402,27 +322,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 38.38657161107697,
-   "status": null
-  },
-  "59980150909931986777748227027020522224275707387562276219060223816867188565245": {
-   "token": "59980150909931986777748227027020522224275707387562276219060223816867188565245",
-   "market_id": "629337",
-   "slug": "will-the-democrats-win-the-georgia-governor-race-in-2026",
-   "question": "Will the Democrats win the Georgia governor race in 2026?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 42.108454737007634,
-   "cost_ex": 30.318087410645497,
-   "fees": 0.33956257899922954,
-   "opened_at": 1793686528522,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.71)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 42.02423782753362,
+   "value": 39.011378473515656,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -442,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 49.96285037505459,
+   "value": 13.724865521051914,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -462,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.027397439573065,
+   "value": 28.996245746126206,
    "status": null
   },
   "108230243496498344855407302843123554399616537057761543327780472018667198839068": {
@@ -482,7 +382,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.7946631063259302,
+   "value": 0.01655548138179021,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -502,27 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.35243470618559675,
-   "status": null
-  },
-  "83106526449876874573813297184176954494008138834292248374570211745966785088569": {
-   "token": "83106526449876874573813297184176954494008138834292248374570211745966785088569",
-   "market_id": "629324",
-   "slug": "will-the-democrats-win-the-florida-governor-race-in-2026",
-   "question": "Will the Democrats win the Florida governor race in 2026?",
-   "outcome": "No",
-   "idx": 1,
-   "shares": 34.681819120387956,
-   "cost_ex": 22.543182428252173,
-   "fees": 0.31560455399553033,
-   "opened_at": 1793722557901,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.68)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 34.64713730126757,
+   "value": 0.2741158825887975,
    "status": null
   },
   "105101479335882057780888879627103629767537416253130101200307917408703291324956": {
@@ -542,27 +422,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.08273467809104215,
-   "status": null
-  },
-  "18237907835648341768523141766856510303791900618821544518382992129619945402102": {
-   "token": "18237907835648341768523141766856510303791900618821544518382992129619945402102",
-   "market_id": "1283048",
-   "slug": "will-the-republican-party-win-the-fl-14-house-seat",
-   "question": "Will the Republican Party win the FL-14 House seat?",
-   "outcome": "No",
-   "idx": 1,
-   "shares": 42.701804120642464,
-   "cost_ex": 32.02635309048185,
-   "fees": 0.32026353090481846,
-   "opened_at": 1793737120215,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 42.659102316521825,
+   "value": 0.041367339045521076,
    "status": null
   },
   "104819787650357695281169823647378465024078714619256040408074745774984489506029": {
@@ -582,7 +442,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.03071836222959,
+   "value": 29.94639135411053,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -602,7 +462,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.9415466435390343,
+   "value": 0.49555086502054435,
    "status": null
   },
   "32990395069552839491629863127374320424549572177026718623273227951659002466770": {
@@ -622,27 +482,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.16697405135323526,
-   "status": null
-  },
-  "91464697651475144696349416494009296219046273097492587994690937777323254464339": {
-   "token": "91464697651475144696349416494009296219046273097492587994690937777323254464339",
-   "market_id": "6501496",
-   "slug": "lol-tes-ig1-2026-11-06-game4",
-   "question": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
-   "outcome": "Top Esports",
-   "idx": 0,
-   "shares": 1894.9384146137331,
-   "cost_ex": 1.8949384146137331,
-   "fees": 0.09465217380995598,
-   "opened_at": 1793765683898,
-   "source": "copy",
-   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.45)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.9474692073068666,
+   "value": 0.21706626675920582,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -662,11 +502,151 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 15.571224378232888,
+   "value": 20.260727893141627,
+   "status": null
+  },
+  "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
+   "token": "31514667359619951245662039262872127473337613803714420759590287175144536772517",
+   "market_id": "6083709",
+   "slug": "will-the-republicans-hold-exactly-45-senate-seats-after-the-2026-midterm-elections-copy",
+   "question": "Will the Republican Party hold exactly 45 Senate seats after the 2026 midterm elections?",
+   "outcome": "Yes",
+   "idx": 0,
+   "shares": 41.15856519338279,
+   "cost_ex": 8.231713038676558,
+   "fees": 0.2634148172376499,
+   "opened_at": 1793772956902,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.7897666667)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 8.190554473483177,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793772939836,
+   "question": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+   "outcome": "Top Esports",
+   "source": "copy",
+   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.45)",
+   "shares": 1894.94,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 1.99,
+   "payout": 0,
+   "pnl": -1.99,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793772939469,
+   "question": "Will the Republican Party win the FL-14 House seat?",
+   "outcome": "No",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
+   "shares": 42.7,
+   "avg": 0.75,
+   "final": 1,
+   "cost": 32.35,
+   "payout": 42.7,
+   "pnl": 10.36,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793772939390,
+   "question": "Will the Democrats win the Florida governor race in 2026?",
+   "outcome": "No",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.68)",
+   "shares": 34.68,
+   "avg": 0.65,
+   "final": 1,
+   "cost": 22.86,
+   "payout": 34.68,
+   "pnl": 11.82,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793772939168,
+   "question": "Will the Democrats win the Georgia governor race in 2026?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.71)",
+   "shares": 42.11,
+   "avg": 0.72,
+   "final": 1,
+   "cost": 30.66,
+   "payout": 42.11,
+   "pnl": 11.45,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793772938949,
+   "question": "Will the Republican Party win the FL-16 House seat?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
+   "shares": 47.8,
+   "avg": 0.76,
+   "final": 1,
+   "cost": 36.67,
+   "payout": 47.8,
+   "pnl": 11.12,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793772938466,
+   "question": "Will the Democratic Party win the FL-22 House seat?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.75)",
+   "shares": 44.83,
+   "avg": 0.7400000000000001,
+   "final": 1,
+   "cost": 33.52,
+   "payout": 44.83,
+   "pnl": 11.31,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793772938426,
+   "question": "Will the Democratic Party win the FL-25 House seat?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.8385614798)",
+   "shares": 55.73,
+   "avg": 0.85,
+   "final": 1,
+   "cost": 47.66,
+   "payout": 55.73,
+   "pnl": 8.08,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793772938253,
+   "question": "Will the Republicans win the Florida governor race in 2026?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.65)",
+   "shares": 36.22,
+   "avg": 0.65,
+   "final": 1,
+   "cost": 23.87,
+   "payout": 36.22,
+   "pnl": 12.35,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1793765687131,
    "question": "Will the Democratic Party win the NC-03 House seat?",
@@ -1281,6 +1261,106 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793772956902,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Republican Party hold exactly 45 Senate seats after the 2026 midterm elections?",
+   "outcome": "Yes",
+   "shares": 41.16,
+   "price": 0.19999999999999998,
+   "fee": 0.26,
+   "amount": -8.5,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.7897666667)"
+  },
+  {
+   "t": 1793772939836,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "LoL: Top Esports vs Invictus Gaming - Game 4 Winner",
+   "outcome": "Top Esports",
+   "shares": 1894.94,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793772939469,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republican Party win the FL-14 House seat?",
+   "outcome": "No",
+   "shares": 42.7,
+   "price": 1,
+   "fee": 0,
+   "amount": 42.7
+  },
+  {
+   "t": 1793772939390,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Democrats win the Florida governor race in 2026?",
+   "outcome": "No",
+   "shares": 34.68,
+   "price": 1,
+   "fee": 0,
+   "amount": 34.68
+  },
+  {
+   "t": 1793772939168,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Democrats win the Georgia governor race in 2026?",
+   "outcome": "Yes",
+   "shares": 42.11,
+   "price": 1,
+   "fee": 0,
+   "amount": 42.11
+  },
+  {
+   "t": 1793772938949,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republican Party win the FL-16 House seat?",
+   "outcome": "Yes",
+   "shares": 47.8,
+   "price": 1,
+   "fee": 0,
+   "amount": 47.8
+  },
+  {
+   "t": 1793772938466,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Democratic Party win the FL-22 House seat?",
+   "outcome": "Yes",
+   "shares": 44.83,
+   "price": 1,
+   "fee": 0,
+   "amount": 44.83
+  },
+  {
+   "t": 1793772938426,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Democratic Party win the FL-25 House seat?",
+   "outcome": "Yes",
+   "shares": 55.73,
+   "price": 1,
+   "fee": 0,
+   "amount": 55.73
+  },
+  {
+   "t": 1793772938253,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republicans win the Florida governor race in 2026?",
+   "outcome": "Yes",
+   "shares": 36.22,
+   "price": 1,
+   "fee": 0,
+   "amount": 36.22
+  },
   {
    "t": 1793765687415,
    "type": "BUY",
@@ -2749,6 +2829,11 @@
    "t": 1793765690564,
    "value": 763.38,
    "cash": 0
+  },
+  {
+   "t": 1793772959355,
+   "value": 732.54,
+   "cash": 295.58
   }
  ],
  "follows": {
@@ -2756,55 +2841,55 @@
    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
    "name": "primm",
    "clean_bets": 2996,
-   "win_rate": 0.5287049399198932,
-   "expected_win_rate": 0.46972613484646286,
-   "edge_score": 8.018161362901667,
-   "updated_at": 1793686508468
+   "win_rate": 0.5267022696929239,
+   "expected_win_rate": 0.46953895193591555,
+   "edge_score": 7.10684051382374,
+   "updated_at": 1793772942844
   },
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": {
    "wallet": "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3",
    "name": "hi774c",
    "clean_bets": 2972,
-   "win_rate": 0.5612382234185733,
-   "expected_win_rate": 0.4447811574697176,
-   "edge_score": 7.855510511735936,
-   "updated_at": 1793686512754
+   "win_rate": 0.5602288021534321,
+   "expected_win_rate": 0.4455295423956937,
+   "edge_score": 7.670236836270452,
+   "updated_at": 1793772946375
   },
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": {
    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
    "name": "Sisyphus-",
-   "clean_bets": 1772,
-   "win_rate": 0.623589164785553,
-   "expected_win_rate": 0.5478808126410841,
-   "edge_score": 6.403368557413755,
-   "updated_at": 1793686515933
+   "clean_bets": 1781,
+   "win_rate": 0.6243683323975294,
+   "expected_win_rate": 0.5487093767546328,
+   "edge_score": 6.486697640458293,
+   "updated_at": 1793772948456
   },
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {
    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
    "name": "0xE16D3F2A...5e30",
-   "clean_bets": 1620,
-   "win_rate": 0.6302469135802469,
-   "expected_win_rate": 0.5463215432098765,
-   "edge_score": 3.9401695230334424,
-   "updated_at": 1793686519104
+   "clean_bets": 1633,
+   "win_rate": 0.6289038579301899,
+   "expected_win_rate": 0.5457383343539497,
+   "edge_score": 3.9495405387451616,
+   "updated_at": 1793772951630
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
    "name": "BrotherObama",
-   "clean_bets": 533,
-   "win_rate": 0.5196998123827392,
-   "expected_win_rate": 0.4069611632270168,
-   "edge_score": 3.805693168669316,
-   "updated_at": 1793686520231
+   "clean_bets": 537,
+   "win_rate": 0.5195530726256983,
+   "expected_win_rate": 0.40735325884543755,
+   "edge_score": 3.8368814852104958,
+   "updated_at": 1793772952599
   },
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": {
    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
    "name": "0xC9BFc798...81c0",
-   "clean_bets": 559,
-   "win_rate": 0.5760286225402504,
-   "expected_win_rate": 0.5412475849731663,
-   "edge_score": 3.481371534890947,
-   "updated_at": 1793686521220
+   "clean_bets": 582,
+   "win_rate": 0.5670103092783505,
+   "expected_win_rate": 0.5395675257731957,
+   "edge_score": 3.137159957015224,
+   "updated_at": 1793772953377
   },
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": {
    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
@@ -2826,16 +2911,60 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793765175,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793767887,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793746665,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793747995,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793758710,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793764371,
-  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793765652,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793758893
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793772445,
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793770594,
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793765829
  },
  "log": [
+  {
+   "t": 1793772957492,
+   "msg": "Skipped copying Melody626 on \"Will the Republican Party win the MI-04 House seat?\": price moved from 0.26 to 0.3"
+  },
+  {
+   "t": 1793772957197,
+   "msg": "Skipped copying Melody626 on \"Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?\": price moved from 0.5466937322 to 0.784"
+  },
+  {
+   "t": 1793772956902,
+   "msg": "Copied Melody626: bought 41.2 Yes on \"Will the Republican Party hold exactly 45 Senate seats after the 2026 midterm elections?\" for $8.50"
+  },
+  {
+   "t": 1793772939836,
+   "msg": "Settled: Top Esports on \"LoL: Top Esports vs Invictus Gaming - Game 4 Winner\" -> lost (-1.99)"
+  },
+  {
+   "t": 1793772939469,
+   "msg": "Settled: No on \"Will the Republican Party win the FL-14 House seat?\" -> won (+10.36)"
+  },
+  {
+   "t": 1793772939390,
+   "msg": "Settled: No on \"Will the Democrats win the Florida governor race in 2026?\" -> won (+11.82)"
+  },
+  {
+   "t": 1793772939168,
+   "msg": "Settled: Yes on \"Will the Democrats win the Georgia governor race in 2026?\" -> won (+11.45)"
+  },
+  {
+   "t": 1793772938949,
+   "msg": "Settled: Yes on \"Will the Republican Party win the FL-16 House seat?\" -> won (+11.12)"
+  },
+  {
+   "t": 1793772938466,
+   "msg": "Settled: Yes on \"Will the Democratic Party win the FL-22 House seat?\" -> won (+11.31)"
+  },
+  {
+   "t": 1793772938426,
+   "msg": "Settled: Yes on \"Will the Democratic Party win the FL-25 House seat?\" -> won (+8.08)"
+  },
+  {
+   "t": 1793772938254,
+   "msg": "Settled: Yes on \"Will the Republicans win the Florida governor race in 2026?\" -> won (+12.35)"
+  },
   {
    "t": 1793765687416,
    "msg": "Copied Melody626: bought 25.9 No on \"Will the Democratic Party candidate win the 2026 Texas Senate election by 12% or more?\" for $18.35"
