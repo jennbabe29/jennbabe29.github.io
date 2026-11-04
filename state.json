@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 283.59461225817097,
+ "cash": 235.1117321411463,
  "created_at": 1793597589071,
- "last_run": 1793780091182,
+ "last_run": 1793787314047,
  "positions": {
   "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
    "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 10.165228683191984,
+   "value": 9.182589910483426,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.327262969464,
+   "value": 47.27901907245129,
    "status": null
   },
   "1917867817482819673072508794067723794609285632054054261487652073909099386849": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.692199793534925,
+   "value": 33.23405945862114,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.7077645148429,
+   "value": 33.82597868629052,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.08207515899342716,
+   "value": 0.2051878974835679,
    "status": null
   },
   "88628412725357801969852238315853152041907755032296775468463465337049299853893": {
@@ -282,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 8.137272048054493,
+   "value": 9.656229497024665,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -302,27 +302,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.25225794991323,
-   "status": null
-  },
-  "108230243496498344855407302843123554399616537057761543327780472018667198839068": {
-   "token": "108230243496498344855407302843123554399616537057761543327780472018667198839068",
-   "market_id": "943748",
-   "slug": "will-the-republican-party-win-the-pa-01-house-seat",
-   "question": "Will the Republican Party win the PA-01 House seat?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 33.110962763580424,
-   "cost_ex": 12.582165850160562,
-   "fees": 0.3120377130839819,
-   "opened_at": 1793693676352,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.37)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 0.01655548138179021,
+   "value": 33.11385104897706,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -345,26 +325,6 @@
    "value": 0.07831882359679927,
    "status": null
   },
-  "105101479335882057780888879627103629767537416253130101200307917408703291324956": {
-   "token": "105101479335882057780888879627103629767537416253130101200307917408703291324956",
-   "market_id": "1283472",
-   "slug": "will-the-republican-party-win-the-in-05-house-seat",
-   "question": "Will the Republican Party win the IN-05 House seat?",
-   "outcome": "Yes",
-   "idx": 0,
-   "shares": 41.36733904552108,
-   "cost_ex": 30.611830893685596,
-   "fees": 0.31836304129433024,
-   "opened_at": 1793737119934,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.73)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 0.020683669522760538,
-   "status": null
-  },
   "104819787650357695281169823647378465024078714619256040408074745774984489506029": {
    "token": "104819787650357695281169823647378465024078714619256040408074745774984489506029",
    "market_id": "1285080",
@@ -382,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.15446732785037,
+   "value": 28.336696889842926,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -422,7 +382,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.05009221540597058,
+   "value": 0.0667896205412941,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -442,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 17.592115395707374,
+   "value": 6.891756546771961,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -462,7 +422,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 16.463426077353116,
+   "value": 8.190554473483177,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -482,7 +442,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.421090111131745,
+   "value": 14.70735401644938,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -502,11 +462,101 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.969505844116,
+   "value": 36.62461595081567,
+   "status": null
+  },
+  "45234969305242319753405741467373848697584181012411484965322075346026090458784": {
+   "token": "45234969305242319753405741467373848697584181012411484965322075346026090458784",
+   "market_id": "6659697",
+   "slug": "dota2-yes-navi-2026-11-04-game1",
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner",
+   "outcome": "Natus Vincere",
+   "idx": 1,
+   "shares": 27.536953136381015,
+   "cost_ex": 19.55123672683052,
+   "fees": 0.2834929325390426,
+   "opened_at": 1793787309266,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6923240645)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 19.000497664102898,
+   "status": null
+  },
+  "76901349708512247888137636565458132930027482648133526398154524598029408297278": {
+   "token": "76901349708512247888137636565458132930027482648133526398154524598029408297278",
+   "market_id": "6662240",
+   "slug": "dota2-yes-navi-2026-11-04-game-handicap-home-1pt5",
+   "question": "Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)",
+   "outcome": "Natus Vincere",
+   "idx": 0,
+   "shares": 20.318365527857786,
+   "cost_ex": 10.109182763928892,
+   "fees": 0.25395456909822234,
+   "opened_at": 1793787309564,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4927249166)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 9.752815453371737,
+   "status": null
+  },
+  "76357043879896007792914271988927310757719534532064352978569188264959842446117": {
+   "token": "76357043879896007792914271988927310757719534532064352978569188264959842446117",
+   "market_id": "6659698",
+   "slug": "dota2-yes-navi-2026-11-04-game2",
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner",
+   "outcome": "Natus Vincere",
+   "idx": 1,
+   "shares": 25.804416783431417,
+   "cost_ex": 18.01309174840199,
+   "fees": 0.27192137622602996,
+   "opened_at": 1793787309845,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6844292342)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 17.54700341273336,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793787307130,
+   "question": "Will the Republican Party win the IN-05 House seat?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.73)",
+   "shares": 41.37,
+   "avg": 0.74,
+   "final": 0,
+   "cost": 30.93,
+   "payout": 0,
+   "pnl": -30.93,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793787306936,
+   "question": "Will the Republican Party win the PA-01 House seat?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.37)",
+   "shares": 33.11,
+   "avg": 0.38,
+   "final": 0,
+   "cost": 12.89,
+   "payout": 0,
+   "pnl": -12.89,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793780083988,
    "question": "Will the Republican Party win the KY-06 House seat?",
@@ -1286,6 +1336,64 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793787309845,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner",
+   "outcome": "Natus Vincere",
+   "shares": 25.8,
+   "price": 0.6980623472167716,
+   "fee": 0.27,
+   "amount": -18.29,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6844292342)"
+  },
+  {
+   "t": 1793787309564,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)",
+   "outcome": "Natus Vincere",
+   "shares": 20.32,
+   "price": 0.49753917213806165,
+   "fee": 0.25,
+   "amount": -10.36,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.4927249166)"
+  },
+  {
+   "t": 1793787309266,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner",
+   "outcome": "Natus Vincere",
+   "shares": 27.54,
+   "price": 0.71,
+   "fee": 0.28,
+   "amount": -19.83,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 3.9, they paid 0.6923240645)"
+  },
+  {
+   "t": 1793787307130,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republican Party win the IN-05 House seat?",
+   "outcome": "Yes",
+   "shares": 41.37,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793787306936,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Republican Party win the PA-01 House seat?",
+   "outcome": "Yes",
+   "shares": 33.11,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793780088779,
    "type": "BUY",
@@ -2921,6 +3029,11 @@
    "t": 1793780091182,
    "value": 716.01,
    "cash": 283.59
+  },
+  {
+   "t": 1793787314047,
+   "value": 707.09,
+   "cash": 235.11
   }
  ],
  "follows": {
@@ -3001,13 +3114,41 @@
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793767887,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793746665,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793747995,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793784768,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793758710,
-  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793779656,
+  "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793786854,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793780068,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793765829
  },
  "log": [
+  {
+   "t": 1793787311388,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: megoshort vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series Group A\": price moved from 0.4 to 0.47"
+  },
+  {
+   "t": 1793787310403,
+   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Map Handicap: FURIA (-1.5) vs TheMongolz (+1.5)\": price moved from 0.46 to 0.53"
+  },
+  {
+   "t": 1793787309845,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 25.8 Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner\" for $18.29"
+  },
+  {
+   "t": 1793787309564,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 20.3 Natus Vincere on \"Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)\" for $10.36"
+  },
+  {
+   "t": 1793787309266,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 27.5 Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner\" for $19.83"
+  },
+  {
+   "t": 1793787307130,
+   "msg": "Settled: Yes on \"Will the Republican Party win the IN-05 House seat?\" -> lost (-30.93)"
+  },
+  {
+   "t": 1793787306936,
+   "msg": "Settled: Yes on \"Will the Republican Party win the PA-01 House seat?\" -> lost (-12.89)"
+  },
   {
    "t": 1793780088955,
    "msg": "Skipped copying Melody626 on \"Will the Republican Party win the NV-02 House seat?\": price moved from 0.1137414584 to 0.436"
