@@ -1,30 +1,10 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 233.92751656681054,
+ "cash": 146.49749923498752,
  "created_at": 1793597589071,
- "last_run": 1793837783776,
+ "last_run": 1793844896588,
  "positions": {
-  "23573901933800662807878844977779772217555967415161160040480344274969719372164": {
-   "token": "23573901933800662807878844977779772217555967415161160040480344274969719372164",
-   "market_id": "6552409",
-   "slug": "dota2-p-hn-2026-11-02",
-   "question": "Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C",
-   "outcome": "HellNight-",
-   "idx": 1,
-   "shares": 25.359562832471457,
-   "cost_ex": 10.27062294715094,
-   "fees": 0.3055510326777405,
-   "opened_at": 1793639145650,
-   "source": "copy",
-   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6172182609)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 12.654421853403257,
-   "status": null
-  },
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
    "market_id": "1284009",
@@ -42,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 8.742096667545106,
+   "value": 7.793341990447188,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -62,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.651848411286124,
+   "value": 47.08604348440047,
    "status": null
   },
   "1917867817482819673072508794067723794609285632054054261487652073909099386849": {
@@ -102,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.58258603290351,
+   "value": 34.799404754112935,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -122,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.46227469948322,
+   "value": 33.88429105672459,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -142,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.60591235761313,
+   "value": 32.39326677912325,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -262,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.18650453123233,
+   "value": 34.39411488263658,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -302,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 30.007134541441385,
+   "value": 29.976762947775956,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -342,7 +322,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.10018443081194116,
+   "value": 0.016697405135323525,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -362,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.0881720863324158,
+   "value": 1.1658986639275883,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -382,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 2.181403955249288,
+   "value": 1.8521354337022256,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -402,7 +382,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.10894183713058,
+   "value": 29.047788597976943,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -422,27 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 39.128500471207474,
-   "status": null
-  },
-  "15087073709995775270106603134908895648234842438051400546189704315456068634312": {
-   "token": "15087073709995775270106603134908895648234842438051400546189704315456068634312",
-   "market_id": "6501467",
-   "slug": "lol-gen-ly-2026-11-05-game-handicap-away-2pt5",
-   "question": "Game Handicap: GEN (-2.5) vs LYON (+2.5)",
-   "outcome": "LYON",
-   "idx": 1,
-   "shares": 38.44068688995862,
-   "cost_ex": 17.682715969380965,
-   "fees": 0.4774333311732861,
-   "opened_at": 1793816101918,
-   "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.47)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 15.837562998662953,
+   "value": 38.916306867784435,
    "status": null
   },
   "22866818229221245966604297793401824148895768263089263170337809062046842871452": {
@@ -462,7 +422,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 7.064454481632176,
+   "value": 7.365069565956951,
    "status": null
   },
   "114666388228683091895987330265208538465320980773405044184069424074601578567379": {
@@ -482,7 +442,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.477458200665967,
+   "value": 8.438246417242166,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -502,27 +462,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.44279328503855,
-   "status": null
-  },
-  "115272999591976875743149594848555409190413569816899674974248786429632572797605": {
-   "token": "115272999591976875743149594848555409190413569816899674974248786429632572797605",
-   "market_id": "6657851",
-   "slug": "dota2-all2-lynx-2026-11-04",
-   "question": "Dota 2: Team Allied vs Team Lynx (BO3) - Asgard Championship Group B",
-   "outcome": "Team Allied",
-   "idx": 0,
-   "shares": 681.9873650518333,
-   "cost_ex": 6.137886285466499,
-   "fees": 0.3041322654448651,
-   "opened_at": 1793837780542,
-   "source": "copy",
-   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5140079244)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 2.7279494602073333,
+   "value": 35.86656581344662,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -542,11 +482,396 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 7.257931017318045,
+   "value": 7.776354661412191,
+   "status": null
+  },
+  "33912614338758218905264596875443843415621793446333066028056535524653316745429": {
+   "token": "33912614338758218905264596875443843415621793446333066028056535524653316745429",
+   "market_id": "6269113",
+   "slug": "cfb-cmich-emich-2026-11-04-spread-away-1pt5",
+   "question": "Spread: Central Michigan (-1.5)",
+   "outcome": "Eastern Michigan",
+   "idx": 1,
+   "shares": 123.88328750308361,
+   "cost_ex": 4.707564925117177,
+   "fees": 0.1358603237388817,
+   "opened_at": 1793844884880,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.46)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.33591506260793,
+   "status": null
+  },
+  "87554035613211684928162804715097636937456100630366673322664425823169745597963": {
+   "token": "87554035613211684928162804715097636937456100630366673322664425823169745597963",
+   "market_id": "6268819",
+   "slug": "cfb-ballst-umass-2026-11-04-spread-away-3pt5",
+   "question": "Spread: Ball State (-3.5)",
+   "outcome": "Ball State",
+   "idx": 0,
+   "shares": 16.639765623001427,
+   "cost_ex": 5.4911226555904715,
+   "fees": 0.11037156537736845,
+   "opened_at": 1793844885154,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.46)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.159941405750357,
+   "status": null
+  },
+  "71781566044246888375668230951384622405272972957878701379975467052910410328641": {
+   "token": "71781566044246888375668230951384622405272972957878701379975467052910410328641",
+   "market_id": "6609477",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-26pt5",
+   "question": "Spread: Toledo (-26.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 162.68305242963845,
+   "cost_ex": 4.529965468029877,
+   "fees": 0.22019028774625204,
+   "opened_at": 1793844885336,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.46)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 0.3253661048592769,
+   "status": null
+  },
+  "70551713673342357396046654578267043612555150837636057732533988395616606654908": {
+   "token": "70551713673342357396046654578267043612555150837636057732533988395616606654908",
+   "market_id": "6268817",
+   "slug": "cfb-ballst-umass-2026-11-04-spread-away-4pt5",
+   "question": "Spread: Ball State (-4.5)",
+   "outcome": "Ball State",
+   "idx": 0,
+   "shares": 16.969865458044872,
+   "cost_ex": 5.430356946574359,
+   "fees": 0.1107792817101169,
+   "opened_at": 1793844885625,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.53)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.9030690553503207,
+   "status": null
+  },
+  "32213128646439214514795801855410466104653088388316801081660213094887459276255": {
+   "token": "32213128646439214514795801855410466104653088388316801081660213094887459276255",
+   "market_id": "6609473",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-27pt5",
+   "question": "Spread: Toledo (-27.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 239.99888199310604,
+   "cost_ex": 4.552978757869015,
+   "fees": 0.22332990807347516,
+   "opened_at": 1793844885796,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.45)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 1.6799921739517423,
+   "status": null
+  },
+  "63230909414790061302325772737101816209182581670094409421428400703914344643078": {
+   "token": "63230909414790061302325772737101816209182581670094409421428400703914344643078",
+   "market_id": "6609461",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-30pt5",
+   "question": "Spread: Toledo (-30.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 267.88886360779725,
+   "cost_ex": 4.554110681332554,
+   "fees": 0.223834539987495,
+   "opened_at": 1793844886001,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.37)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 0.26788886360779723,
+   "status": null
+  },
+  "76034777404936060612492413464433150212271409112914659337615304897011521194551": {
+   "token": "76034777404936060612492413464433150212271409112914659337615304897011521194551",
+   "market_id": "6268815",
+   "slug": "cfb-ballst-umass-2026-11-04-spread-away-5pt5",
+   "question": "Spread: Ball State (-5.5)",
+   "outcome": "Ball State",
+   "idx": 0,
+   "shares": 16.617933417636362,
+   "cost_ex": 5.48391802782,
+   "fees": 0.11022675235918197,
+   "opened_at": 1793844886291,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.56)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.1574073493509087,
+   "status": null
+  },
+  "16119805172609378666512706098056954139155811964191774347855639263143060245118": {
+   "token": "16119805172609378666512706098056954139155811964191774347855639263143060245118",
+   "market_id": "6609489",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-23pt5",
+   "question": "Spread: Toledo (-23.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 117.69011928154909,
+   "cost_ex": 4.499914651980414,
+   "fees": 0.21638289902765895,
+   "opened_at": 1793844886477,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.52)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 0.5884505964077454,
+   "status": null
+  },
+  "35714211755618027568040446905889952366005812381460339822361319991265284699103": {
+   "token": "35714211755618027568040446905889952366005812381460339822361319991265284699103",
+   "market_id": "6268998",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-16pt5",
+   "question": "Spread: Toledo (-16.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 30.254990275540333,
+   "cost_ex": 4.840798444086453,
+   "fees": 0.12198812079097862,
+   "opened_at": 1793844887051,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.57)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.235698638575647,
+   "status": null
+  },
+  "105413732011575594353481304470471859433226296157682468462156505527280041548566": {
+   "token": "105413732011575594353481304470471859433226296157682468462156505527280041548566",
+   "market_id": "6268997",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-17pt5",
+   "question": "Spread: Toledo (-17.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 39.75981216597884,
+   "cost_ex": 4.771177459917461,
+   "fees": 0.12595908494182098,
+   "opened_at": 1793844887515,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.36)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.5783830949380957,
+   "status": null
+  },
+  "112896795800862719351981541071031665634565684774624848665958862009327829335767": {
+   "token": "112896795800862719351981541071031665634565684774624848665958862009327829335767",
+   "market_id": "6268832",
+   "slug": "cfb-ballst-umass-2026-11-04-spread-home-2pt5",
+   "question": "Spread: UMass (-2.5)",
+   "outcome": "UMass",
+   "idx": 0,
+   "shares": 14.68555999378722,
+   "cost_ex": 6.167935197390632,
+   "fees": 0.107322072434597,
+   "opened_at": 1793844887687,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.44)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.405667998136166,
+   "status": null
+  },
+  "9055701548697320576904985803556309854705921181167755140696406743260588583819": {
+   "token": "9055701548697320576904985803556309854705921181167755140696406743260588583819",
+   "market_id": "6268999",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-14pt5",
+   "question": "Spread: Toledo (-14.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 28.584367457966753,
+   "cost_ex": 4.859342467854348,
+   "fees": 0.12099762744957326,
+   "opened_at": 1793844887986,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.39)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.5734987932746805,
+   "status": null
+  },
+  "86536291624629843811804756040716288254313330121646033376758006367874597074061": {
+   "token": "86536291624629843811804756040716288254313330121646033376758006367874597074061",
+   "market_id": "6609521",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-9pt5",
+   "question": "Spread: Toledo (-9.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 11.413784949610054,
+   "cost_ex": 4.679651829340122,
+   "fees": 0.13804972896553364,
+   "opened_at": 1793844888622,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.48)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 4.337238280851821,
+   "status": null
+  },
+  "98352243020846982651385803766608397536519652097414230839384688617445945283523": {
+   "token": "98352243020846982651385803766608397536519652097414230839384688617445945283523",
+   "market_id": "6269000",
+   "slug": "cfb-toledo-sacst-2026-11-04-spread-away-13pt5",
+   "question": "Spread: Toledo (-13.5)",
+   "outcome": "Toledo",
+   "idx": 0,
+   "shares": 18.62939339644291,
+   "cost_ex": 5.216230151004016,
+   "fees": 0.11267057126168671,
+   "opened_at": 1793844888899,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.37)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.09846654721744,
+   "status": null
+  },
+  "2624253482638197975468080668944248037393734522338201817137178799388979957460": {
+   "token": "2624253482638197975468080668944248037393734522338201817137178799388979957460",
+   "market_id": "6269131",
+   "slug": "cfb-cmich-emich-2026-11-04-total-37pt5",
+   "question": "Central Michigan vs. Eastern Michigan: O/U 37.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 15.748113858106718,
+   "cost_ex": 5.669320988918418,
+   "fees": 0.10885096298723364,
+   "opened_at": 1793844890939,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.35)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 5.511839850337351,
+   "status": null
+  },
+  "39732773657005908420609815512785612882645994800949375549174648726043695893757": {
+   "token": "39732773657005908420609815512785612882645994800949375549174648726043695893757",
+   "market_id": "6268799",
+   "slug": "cfb-ballst-umass-2026-11-04",
+   "question": "Ball State vs. UMass",
+   "outcome": "UMass",
+   "idx": 1,
+   "shares": 14.252504235402629,
+   "cost_ex": 7.268777160055341,
+   "fees": 0.10685102425281351,
+   "opened_at": 1793844891110,
+   "source": "copy",
+   "reason": "Copied primm (edge score 7.1, they paid 0.76)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 7.1262521177013145,
+   "status": null
+  },
+  "70632725674916105137353577358047030349122155007512758637174247188231180382044": {
+   "token": "70632725674916105137353577358047030349122155007512758637174247188231180382044",
+   "market_id": "6661500",
+   "slug": "nba-ind-mem-2026-11-04-spread-home-2pt5",
+   "question": "Spread: Grizzlies (-2.5)",
+   "outcome": "Grizzlies",
+   "idx": 0,
+   "shares": 29.449694017704317,
+   "cost_ex": 14.724847008852159,
+   "fees": 0.368121175221304,
+   "opened_at": 1793844892100,
+   "source": "copy",
+   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.49)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 14.135853128498072,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793844878651,
+   "question": "Dota 2: Team Allied vs Team Lynx (BO3) - Asgard Championship Group B",
+   "outcome": "Team Allied",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5140079244)",
+   "shares": 681.99,
+   "avg": 0.009,
+   "final": 0,
+   "cost": 6.44,
+   "payout": 0,
+   "pnl": -6.44,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793844878369,
+   "question": "Game Handicap: GEN (-2.5) vs LYON (+2.5)",
+   "outcome": "LYON",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.1, they paid 0.47)",
+   "shares": 38.44,
+   "avg": 0.45999999999999996,
+   "final": 0,
+   "cost": 18.16,
+   "payout": 0,
+   "pnl": -18.16,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793844877051,
+   "question": "Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C",
+   "outcome": "HellNight-",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.3, they paid 0.6172182609)",
+   "shares": 25.36,
+   "avg": 0.405,
+   "final": 0.5,
+   "cost": 10.58,
+   "payout": 12.68,
+   "pnl": 2.1,
+   "result": "split",
+   "group": null
+  },
   {
    "t": 1793837680400,
    "question": "Dota 2: GamerLegion vs HULIGANI - Game 2 Winner",
@@ -1656,6 +1981,243 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793844892100,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Grizzlies (-2.5)",
+   "outcome": "Grizzlies",
+   "shares": 29.45,
+   "price": 0.5,
+   "fee": 0.37,
+   "amount": -15.09,
+   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.49)"
+  },
+  {
+   "t": 1793844891110,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Ball State vs. UMass",
+   "outcome": "UMass",
+   "shares": 14.25,
+   "price": 0.51,
+   "fee": 0.11,
+   "amount": -7.38,
+   "reason": "Copied primm (edge score 7.1, they paid 0.76)"
+  },
+  {
+   "t": 1793844890939,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Central Michigan vs. Eastern Michigan: O/U 37.5",
+   "outcome": "Under",
+   "shares": 15.75,
+   "price": 0.36,
+   "fee": 0.11,
+   "amount": -5.78,
+   "reason": "Copied primm (edge score 7.1, they paid 0.35)"
+  },
+  {
+   "t": 1793844888899,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-13.5)",
+   "outcome": "Toledo",
+   "shares": 18.63,
+   "price": 0.28,
+   "fee": 0.11,
+   "amount": -5.33,
+   "reason": "Copied primm (edge score 7.1, they paid 0.37)"
+  },
+  {
+   "t": 1793844888622,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-9.5)",
+   "outcome": "Toledo",
+   "shares": 11.41,
+   "price": 0.41,
+   "fee": 0.14,
+   "amount": -4.82,
+   "reason": "Copied primm (edge score 7.1, they paid 0.48)"
+  },
+  {
+   "t": 1793844887986,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-14.5)",
+   "outcome": "Toledo",
+   "shares": 28.58,
+   "price": 0.17,
+   "fee": 0.12,
+   "amount": -4.98,
+   "reason": "Copied primm (edge score 7.1, they paid 0.39)"
+  },
+  {
+   "t": 1793844887687,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: UMass (-2.5)",
+   "outcome": "UMass",
+   "shares": 14.69,
+   "price": 0.42,
+   "fee": 0.11,
+   "amount": -6.28,
+   "reason": "Copied primm (edge score 7.1, they paid 0.44)"
+  },
+  {
+   "t": 1793844887515,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-17.5)",
+   "outcome": "Toledo",
+   "shares": 39.76,
+   "price": 0.12,
+   "fee": 0.13,
+   "amount": -4.9,
+   "reason": "Copied primm (edge score 7.1, they paid 0.36)"
+  },
+  {
+   "t": 1793844887052,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-16.5)",
+   "outcome": "Toledo",
+   "shares": 30.25,
+   "price": 0.16,
+   "fee": 0.12,
+   "amount": -4.96,
+   "reason": "Copied primm (edge score 7.1, they paid 0.57)"
+  },
+  {
+   "t": 1793844886477,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-23.5)",
+   "outcome": "Toledo",
+   "shares": 117.69,
+   "price": 0.038235279898181644,
+   "fee": 0.22,
+   "amount": -4.72,
+   "reason": "Copied primm (edge score 7.1, they paid 0.52)"
+  },
+  {
+   "t": 1793844886291,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Ball State (-5.5)",
+   "outcome": "Ball State",
+   "shares": 16.62,
+   "price": 0.33,
+   "fee": 0.11,
+   "amount": -5.59,
+   "reason": "Copied primm (edge score 7.1, they paid 0.56)"
+  },
+  {
+   "t": 1793844886001,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-30.5)",
+   "outcome": "Toledo",
+   "shares": 267.89,
+   "price": 0.017,
+   "fee": 0.22,
+   "amount": -4.78,
+   "reason": "Copied primm (edge score 7.1, they paid 0.37)"
+  },
+  {
+   "t": 1793844885796,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-27.5)",
+   "outcome": "Toledo",
+   "shares": 240,
+   "price": 0.01897083319746381,
+   "fee": 0.22,
+   "amount": -4.78,
+   "reason": "Copied primm (edge score 7.1, they paid 0.45)"
+  },
+  {
+   "t": 1793844885625,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Ball State (-4.5)",
+   "outcome": "Ball State",
+   "shares": 16.97,
+   "price": 0.32,
+   "fee": 0.11,
+   "amount": -5.54,
+   "reason": "Copied primm (edge score 7.1, they paid 0.53)"
+  },
+  {
+   "t": 1793844885336,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Toledo (-26.5)",
+   "outcome": "Toledo",
+   "shares": 162.68,
+   "price": 0.027845343447739392,
+   "fee": 0.22,
+   "amount": -4.75,
+   "reason": "Copied primm (edge score 7.1, they paid 0.46)"
+  },
+  {
+   "t": 1793844885154,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Ball State (-3.5)",
+   "outcome": "Ball State",
+   "shares": 16.64,
+   "price": 0.33,
+   "fee": 0.11,
+   "amount": -5.6,
+   "reason": "Copied primm (edge score 7.1, they paid 0.46)"
+  },
+  {
+   "t": 1793844884880,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Central Michigan (-1.5)",
+   "outcome": "Eastern Michigan",
+   "shares": 123.88,
+   "price": 0.038,
+   "fee": 0.14,
+   "amount": -4.84,
+   "reason": "Copied primm (edge score 7.1, they paid 0.46)"
+  },
+  {
+   "t": 1793844878651,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Team Allied vs Team Lynx (BO3) - Asgard Championship Group B",
+   "outcome": "Team Allied",
+   "shares": 681.99,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793844878369,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Game Handicap: GEN (-2.5) vs LYON (+2.5)",
+   "outcome": "LYON",
+   "shares": 38.44,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793844877051,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C",
+   "outcome": "HellNight-",
+   "shares": 25.36,
+   "price": 0.5,
+   "fee": 0,
+   "amount": 12.68
+  },
   {
    "t": 1793837781427,
    "type": "BUY",
@@ -3861,6 +4423,11 @@
    "t": 1793837783776,
    "value": 688.18,
    "cash": 233.93
+  },
+  {
+   "t": 1793844896588,
+   "value": 647.64,
+   "cash": 146.5
   }
  ],
  "follows": {
@@ -3921,45 +4488,183 @@
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": {
    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
    "name": "Melody626",
-   "clean_bets": 1218,
-   "win_rate": 0.6896551724137931,
-   "expected_win_rate": 0.6032602627257795,
-   "edge_score": 3.976346761876382,
-   "updated_at": 1793751302559
+   "clean_bets": 1247,
+   "win_rate": 0.6928628708901363,
+   "expected_win_rate": 0.6047707297514028,
+   "edge_score": 4.187774024290753,
+   "updated_at": 1793844881364
   },
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
    "name": "fantasy7788",
-   "clean_bets": 156,
-   "win_rate": 0.6346153846153846,
-   "expected_win_rate": 0.5062897435897435,
-   "edge_score": 3.0567293492480654,
-   "updated_at": 1793751303271
+   "clean_bets": 162,
+   "win_rate": 0.6481481481481481,
+   "expected_win_rate": 0.5075598765432099,
+   "edge_score": 3.1573518639880884,
+   "updated_at": 1793844881871
   },
   "0xc8b9a30184244d427169cf62485dde6041b2b836": {
    "wallet": "0xc8b9a30184244d427169cf62485dde6041b2b836",
-   "name": "0xc8b9a30184244d427169cf62485dde6041b2b836"
+   "name": "0xc8b9a30184244d427169cf62485dde6041b2b836",
+   "clean_bets": 491,
+   "win_rate": 0.7087576374745418,
+   "expected_win_rate": 0.6087519348268832,
+   "edge_score": 5.094643533900476,
+   "updated_at": 1793844882848
   },
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": {
    "wallet": "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca",
-   "name": "Railcool"
+   "name": "Railcool",
+   "clean_bets": 188,
+   "win_rate": 0.6063829787234043,
+   "expected_win_rate": 0.48124148936170236,
+   "edge_score": 4.563042308357377,
+   "updated_at": 1793844883459
   },
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": {
    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
-   "name": "nb1985"
+   "name": "nb1985",
+   "clean_bets": 38,
+   "win_rate": 0.9210526315789473,
+   "expected_win_rate": 0.5386868421052632,
+   "edge_score": 3.2636367529720096,
+   "updated_at": 1793844883937
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793837733,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793844198,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793832916,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793824369,
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793758710,
+  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793844873,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793811127,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793830545,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793830017
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793830017,
+  "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793834092,
+  "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
+  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793834092
  },
  "log": [
+  {
+   "t": 1793844892101,
+   "msg": "Copied BrotherObama: bought 29.4 Grizzlies on \"Spread: Grizzlies (-2.5)\" for $15.09"
+  },
+  {
+   "t": 1793844891110,
+   "msg": "Copied primm: bought 14.3 UMass on \"Ball State vs. UMass\" for $7.38"
+  },
+  {
+   "t": 1793844890939,
+   "msg": "Copied primm: bought 15.7 Under on \"Central Michigan vs. Eastern Michigan: O/U 37.5\" for $5.78"
+  },
+  {
+   "t": 1793844890646,
+   "msg": "Skipped copying primm on \"Toledo vs. Sacramento State: O/U 43.5\": price moved from 0.57 to 0.84"
+  },
+  {
+   "t": 1793844890347,
+   "msg": "Skipped copying primm on \"Central Michigan vs. Eastern Michigan: O/U 45.5\": price moved from 0.61 to 0.7"
+  },
+  {
+   "t": 1793844890063,
+   "msg": "Skipped copying primm on \"Spread: Central Michigan (-16.5)\": price moved from 0.43 to 0.72"
+  },
+  {
+   "t": 1793844889787,
+   "msg": "Skipped copying primm on \"Spread: Central Michigan (-13.5)\": price moved from 0.41 to 0.81"
+  },
+  {
+   "t": 1793844889512,
+   "msg": "Skipped copying primm on \"Spread: Central Michigan (-14.5)\": price moved from 0.38 to 0.75"
+  },
+  {
+   "t": 1793844889241,
+   "msg": "Skipped copying primm on \"Spread: Ball State (-2.5)\": price moved from 0.4 to 0.49"
+  },
+  {
+   "t": 1793844888899,
+   "msg": "Copied primm: bought 18.6 Toledo on \"Spread: Toledo (-13.5)\" for $5.33"
+  },
+  {
+   "t": 1793844888622,
+   "msg": "Copied primm: bought 11.4 Toledo on \"Spread: Toledo (-9.5)\" for $4.82"
+  },
+  {
+   "t": 1793844888436,
+   "msg": "Skipped copying primm on \"Spread: UMass (-2.5)\": price moved from 0.52 to 0.61"
+  },
+  {
+   "t": 1793844888263,
+   "msg": "Skipped copying primm on \"Central Michigan vs. Eastern Michigan: O/U 43.5\": price moved from 0.57 to 0.62"
+  },
+  {
+   "t": 1793844887986,
+   "msg": "Copied primm: bought 28.6 Toledo on \"Spread: Toledo (-14.5)\" for $4.98"
+  },
+  {
+   "t": 1793844887687,
+   "msg": "Copied primm: bought 14.7 UMass on \"Spread: UMass (-2.5)\" for $6.28"
+  },
+  {
+   "t": 1793844887515,
+   "msg": "Copied primm: bought 39.8 Toledo on \"Spread: Toledo (-17.5)\" for $4.90"
+  },
+  {
+   "t": 1793844887231,
+   "msg": "Skipped copying primm on \"Spread: Ball State (-5.5)\": price moved from 0.56 to 0.71"
+  },
+  {
+   "t": 1793844887052,
+   "msg": "Copied primm: bought 30.3 Toledo on \"Spread: Toledo (-16.5)\" for $4.96"
+  },
+  {
+   "t": 1793844886778,
+   "msg": "Skipped copying primm on \"Toledo vs. Sacramento State: O/U 49.5\": price moved from 0.51 to 0.93"
+  },
+  {
+   "t": 1793844886477,
+   "msg": "Copied primm: bought 117.7 Toledo on \"Spread: Toledo (-23.5)\" for $4.72"
+  },
+  {
+   "t": 1793844886291,
+   "msg": "Copied primm: bought 16.6 Ball State on \"Spread: Ball State (-5.5)\" for $5.59"
+  },
+  {
+   "t": 1793844886001,
+   "msg": "Copied primm: bought 267.9 Toledo on \"Spread: Toledo (-30.5)\" for $4.78"
+  },
+  {
+   "t": 1793844885796,
+   "msg": "Copied primm: bought 240.0 Toledo on \"Spread: Toledo (-27.5)\" for $4.78"
+  },
+  {
+   "t": 1793844885625,
+   "msg": "Copied primm: bought 17.0 Ball State on \"Spread: Ball State (-4.5)\" for $5.54"
+  },
+  {
+   "t": 1793844885336,
+   "msg": "Copied primm: bought 162.7 Toledo on \"Spread: Toledo (-26.5)\" for $4.75"
+  },
+  {
+   "t": 1793844885154,
+   "msg": "Copied primm: bought 16.6 Ball State on \"Spread: Ball State (-3.5)\" for $5.60"
+  },
+  {
+   "t": 1793844884880,
+   "msg": "Copied primm: bought 123.9 Eastern Michigan on \"Spread: Central Michigan (-1.5)\" for $4.84"
+  },
+  {
+   "t": 1793844878651,
+   "msg": "Settled: Team Allied on \"Dota 2: Team Allied vs Team Lynx (BO3) - Asgard Championship Group B\" -> lost (-6.44)"
+  },
+  {
+   "t": 1793844878369,
+   "msg": "Settled: LYON on \"Game Handicap: GEN (-2.5) vs LYON (+2.5)\" -> lost (-18.16)"
+  },
+  {
+   "t": 1793844877051,
+   "msg": "Settled: HellNight- on \"Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C\" -> 50/50 (+2.10)"
+  },
   {
    "t": 1793837781427,
    "msg": "Copied Melody626: bought 34.6 Yes on \"Will the Democratic Party win the CA-23 House seat?\" for $8.05"
