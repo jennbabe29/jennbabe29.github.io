@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 155.50754321436037,
+ "cash": 137.88950896993572,
  "created_at": 1793597589071,
- "last_run": 1793895411106,
+ "last_run": 1793902507975,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 9.758619535864304,
+   "value": 9.318126292925985,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.30531510360159,
+   "value": 35.3775880106714,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.05720644342028,
+   "value": 32.602931936269684,
    "status": null
   },
   "32844269442852262534802316938044703795066196528094796332245347991652881696933": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 38.28289144633372,
+   "value": 38.40008397116944,
    "status": null
   },
   "109221185828609696152295126285793980024516683390733668492309397849318398468765": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 38.50372289778422,
+   "value": 38.69897504229631,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.6274544096108987,
+   "value": 1.5732059292905356,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -282,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.885648166779678,
+   "value": 30.341222071761077,
    "status": null
   },
   "32208573006734179312307181192322189830209553609138348846127628742278942011240": {
@@ -302,7 +302,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.1486652595061633,
+   "value": 0.02477754325102722,
    "status": null
   },
   "32990395069552839491629863127374320424549572177026718623273227951659002466770": {
@@ -322,7 +322,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.016697405135323525,
+   "value": 0.03339481027064705,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -362,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.6463426077353116,
+   "value": 1.6875011729286946,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -402,7 +402,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 39.9772748848996,
+   "value": 40.01971360558421,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -422,7 +422,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 36.32886311716451,
+   "value": 36.482962218403806,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -442,7 +442,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 5.910029542673266,
+   "value": 6.290206881675639,
    "status": null
   },
   "16274228735636963880802014457518049951822520442424964367454277691397815963912": {
@@ -462,31 +462,86 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 9.111429611285892,
+   "value": 0.00876099001085182,
    "status": null
   },
-  "12462080747736105199792557235091651503465867684549536565839348804215920818202": {
-   "token": "12462080747736105199792557235091651503465867684549536565839348804215920818202",
-   "market_id": "6698743",
-   "slug": "dota2-yes-gl-2026-11-05-game2",
-   "question": "Dota 2: Yellow Submarine vs GamerLegion - Game 2 Winner",
-   "outcome": "GamerLegion",
+  "93272675350399626780164618712430277644158862842983784409073187117659099311382": {
+   "token": "93272675350399626780164618712430277644158862842983784409073187117659099311382",
+   "market_id": "6700434",
+   "slug": "dota2-lens-com-2026-11-05-game2",
+   "question": "Dota 2: LenS Team vs Cooman Team - Game 2 Winner",
+   "outcome": "Cooman Team",
    "idx": 1,
-   "shares": 15.097181851511877,
-   "cost_ex": 7.6995627442710575,
-   "fees": 0.1886392872346409,
-   "opened_at": 1793895408200,
+   "shares": 5194.44337227155,
+   "cost_ex": 5.19444337227155,
+   "fees": 0.25946244644496397,
+   "opened_at": 1793902504168,
    "source": "copy",
-   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.6410722076)",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.6646483956)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 7.5485909257559385,
+   "value": 2.597221686135775,
+   "status": null
+  },
+  "72008403343241523916190758913676144835070803949288692916007527780162976824372": {
+   "token": "72008403343241523916190758913676144835070803949288692916007527780162976824372",
+   "market_id": "6700453",
+   "slug": "dota2-xe-z10-2026-11-05-game2",
+   "question": "Dota 2: Xipto Esports vs Zero Tenacity - Game 2 Winner",
+   "outcome": "Xipto Esports",
+   "idx": 0,
+   "shares": 15.78723923848354,
+   "cost_ex": 5.9991509106237455,
+   "fees": 0.1859736782293361,
+   "opened_at": 1793902504456,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5937075705)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 3.946809809620885,
+   "status": null
+  },
+  "77698625313106036598259867216194369327411850418153911160155049077434297127472": {
+   "token": "77698625313106036598259867216194369327411850418153911160155049077434297127472",
+   "market_id": "6698744",
+   "slug": "dota2-yes-gl-2026-11-05",
+   "question": "Dota 2: Yellow Submarine vs GamerLegion (BO3) - EPL Masters Playoffs",
+   "outcome": "Yellow Submarine",
+   "idx": 0,
+   "shares": 5694.560537982789,
+   "cost_ex": 5.694560537982789,
+   "fees": 0.28444329887224035,
+   "opened_at": 1793902505033,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.2228212724)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.8472802689913945,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793902502386,
+   "question": "Dota 2: Yellow Submarine vs GamerLegion - Game 2 Winner",
+   "outcome": "GamerLegion",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.6410722076)",
+   "shares": 15.1,
+   "avg": 0.51,
+   "final": 0,
+   "cost": 7.89,
+   "payout": 0,
+   "pnl": -7.89,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793888273366,
    "question": "Dota 2: angry birds vs Spirit Academy - Game 2 Winner",
@@ -1956,6 +2011,53 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793902505033,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Yellow Submarine vs GamerLegion (BO3) - EPL Masters Playoffs",
+   "outcome": "Yellow Submarine",
+   "shares": 5694.56,
+   "price": 0.001,
+   "fee": 0.28,
+   "amount": -5.98,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.2228212724)"
+  },
+  {
+   "t": 1793902504456,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs Zero Tenacity - Game 2 Winner",
+   "outcome": "Xipto Esports",
+   "shares": 15.79,
+   "price": 0.38,
+   "fee": 0.19,
+   "amount": -6.19,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.5937075705)"
+  },
+  {
+   "t": 1793902504168,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: LenS Team vs Cooman Team - Game 2 Winner",
+   "outcome": "Cooman Team",
+   "shares": 5194.44,
+   "price": 0.001,
+   "fee": 0.26,
+   "amount": -5.45,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.6646483956)"
+  },
+  {
+   "t": 1793902502386,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Yellow Submarine vs GamerLegion - Game 2 Winner",
+   "outcome": "GamerLegion",
+   "shares": 15.1,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793895408201,
    "type": "BUY",
@@ -4717,6 +4819,11 @@
    "t": 1793895411106,
    "value": 590.69,
    "cash": 155.51
+  },
+  {
+   "t": 1793902507975,
+   "value": 566.22,
+   "cash": 137.89
   }
  ],
  "follows": {
@@ -4823,17 +4930,37 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793849248,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793891860,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793892909,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793899432,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793900196,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793844943,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793830545,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793830017,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793834092,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
-  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793834092
+  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793900595
  },
  "log": [
+  {
+   "t": 1793902506165,
+   "msg": "Skipped copying nb1985 on \"Will RSC Anderlecht win on 2026-11-05?\": price moved from 0.5008807103 to 0.75"
+  },
+  {
+   "t": 1793902505033,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 5694.6 Yellow Submarine on \"Dota 2: Yellow Submarine vs GamerLegion (BO3) - EPL Masters Playoffs\" for $5.98"
+  },
+  {
+   "t": 1793902504456,
+   "msg": "Copied Sisyphus-: bought 15.8 Xipto Esports on \"Dota 2: Xipto Esports vs Zero Tenacity - Game 2 Winner\" for $6.19"
+  },
+  {
+   "t": 1793902504168,
+   "msg": "Copied Sisyphus-: bought 5194.4 Cooman Team on \"Dota 2: LenS Team vs Cooman Team - Game 2 Winner\" for $5.45"
+  },
+  {
+   "t": 1793902502387,
+   "msg": "Settled: GamerLegion on \"Dota 2: Yellow Submarine vs GamerLegion - Game 2 Winner\" -> lost (-7.89)"
+  },
   {
    "t": 1793895408201,
    "msg": "Copied Sisyphus-: bought 15.1 GamerLegion on \"Dota 2: Yellow Submarine vs GamerLegion - Game 2 Winner\" for $7.89"
@@ -6013,22 +6140,6 @@
   {
    "t": 1793597613273,
    "msg": "Copied 0xC9BFc798...81c0: bought 5.3 FURIA on \"Map Handicap: FURIA (-1.5) vs FaZe (+1.5)\" for $2.36"
-  },
-  {
-   "t": 1793597613054,
-   "msg": "Copied 0xC9BFc798...81c0: bought 5.3 Under on \"Games Total: O/U 2.5\" for $3.04"
-  },
-  {
-   "t": 1793597612828,
-   "msg": "Copied 0xC9BFc798...81c0: bought 11.1 MOUZ on \"Counter-Strike: MOUZ vs TYLOO - Map 1 Winner\" for $8.47"
-  },
-  {
-   "t": 1793597612510,
-   "msg": "Copied 0xC9BFc798...81c0: bought 5.3 Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" for $2.38"
-  },
-  {
-   "t": 1793597612279,
-   "msg": "Copied 0xC9BFc798...81c0: bought 9.0 Natus Vincere on \"Map Handicap: FAL (-1.5) vs Natus Vincere (+1.5)\" for $6.46"
   }
  ]
 }
