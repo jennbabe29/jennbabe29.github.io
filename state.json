@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 250.92963205810304,
+ "cash": 216.67773578351228,
  "created_at": 1793597589071,
- "last_run": 1793924083702,
+ "last_run": 1793931285128,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 45.87994605908283,
+   "value": 45.83170216207013,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.3775880106714,
+   "value": 35.66667963895064,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.96801038689702,
+   "value": 35.61824198500047,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.63787612912742,
+   "value": 32.672820321985164,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.0849696064072658,
+   "value": 1.1392180867276291,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.97889417982809,
+   "value": 34.29030970693445,
    "status": null
   },
   "84601619574290347605863758318936648398073512338669223080628886410409260674876": {
@@ -162,27 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.07831882359679927,
-   "status": null
-  },
-  "32990395069552839491629863127374320424549572177026718623273227951659002466770": {
-   "token": "32990395069552839491629863127374320424549572177026718623273227951659002466770",
-   "market_id": "1284130",
-   "slug": "will-the-democratic-party-win-the-nj-02-house-seat",
-   "question": "Will the Democratic Party win the NJ-02 House seat?",
-   "outcome": "No",
-   "idx": 1,
-   "shares": 16.69740513532351,
-   "cost_ex": 9.183572824427932,
-   "fees": 0.16530431083970276,
-   "opened_at": 1793737121426,
-   "source": "copy",
-   "reason": "Copied Melody626 (edge score 4.0, they paid 0.5263513683)",
-   "fee": {
-    "rate": 0.04,
-    "exp": 1
-   },
-   "value": 0.008348702567661756,
+   "value": 0.0195797058991998,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -262,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.18946848832264,
+   "value": 40.14702976763803,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -282,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 36.7911604208824,
+   "value": 36.675586094952926,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -302,7 +282,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 5.460729051125005,
+   "value": 4.38932018666377,
    "status": null
   },
   "22508256372242471758027963121662780934131618129812064162573434088141830118878": {
@@ -322,7 +302,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.887298582859575,
+   "value": 5.4255496744,
    "status": null
   },
   "10232407805095501717382390761782964748168634990220098233757270982543052884761": {
@@ -342,7 +322,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.117002639977304,
+   "value": 4.768116096342488,
    "status": null
   },
   "90553497398507110659475600473086136903768384078850785552042253412393577613278": {
@@ -362,7 +342,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.307488502620859,
+   "value": 5.422868687460443,
    "status": null
   },
   "45295159170640827466328522229510589184894851531670745788255606592324027453079": {
@@ -382,7 +362,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 4.78847770693313,
+   "value": 4.668765764259802,
    "status": null
   },
   "100653751914114698688855179564133068063482186382737336092781743248208592335402": {
@@ -402,51 +382,156 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.114804219207738,
+   "value": 5.579786420953895,
    "status": null
   },
-  "80956160564886605935428297865022816323197644271676157041324040025038765013205": {
-   "token": "80956160564886605935428297865022816323197644271676157041324040025038765013205",
-   "market_id": "6501391",
-   "slug": "lol-dk-blg-2026-11-03-game2",
-   "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner",
-   "outcome": "Dplus KIA",
-   "idx": 0,
-   "shares": 8063.234696686288,
-   "cost_ex": 8.063234696686289,
-   "fees": 0.40275857309948015,
-   "opened_at": 1793924080907,
+  "57465077757128986749170203643815959809263861500019507733521485708575362712156": {
+   "token": "57465077757128986749170203643815959809263861500019507733521485708575362712156",
+   "market_id": "6269280",
+   "slug": "cfb-utsa-flatl-2026-11-05-total-71pt5",
+   "question": "UTSA vs. Florida Atlantic: O/U 71.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 38.08519506211118,
+   "cost_ex": 3.7704343111490073,
+   "fees": 0.10191483943035765,
+   "opened_at": 1793931279338,
    "source": "copy",
-   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.4886713201)",
+   "reason": "Copied primm (edge score 5.7, they paid 0.51)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 2.094685728416117,
+   "status": null
+  },
+  "65511970629719892955575283844435141461828649807630607594509282152617818873538": {
+   "token": "65511970629719892955575283844435141461828649807630607594509282152617818873538",
+   "market_id": "6269277",
+   "slug": "cfb-utsa-flatl-2026-11-05-total-65pt5",
+   "question": "UTSA vs. Florida Atlantic: O/U 65.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 94.89702073934146,
+   "cost_ex": 3.750880829573658,
+   "fees": 0.10807801789172136,
+   "opened_at": 1793931279826,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.37)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.131601684398271,
+   "status": null
+  },
+  "3033012783592656934158742268714497118614853075575908310186298193451437724863": {
+   "token": "3033012783592656934158742268714497118614853075575908310186298193451437724863",
+   "market_id": "5972381",
+   "slug": "nfl-jax-bal-2026-11-06-spread-away-5pt5",
+   "question": "Spread: Jaguars (-5.5)",
+   "outcome": "Ravens",
+   "idx": 1,
+   "shares": 12.990151004012562,
+   "cost_ex": 4.286749831324146,
+   "fees": 0.08616367160961531,
+   "opened_at": 1793931280892,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.38)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.7671437911636434,
+   "status": null
+  },
+  "86157493948723726134236680975987883248621551414323329137011212636911098837986": {
+   "token": "86157493948723726134236680975987883248621551414323329137011212636911098837986",
+   "market_id": "5972384",
+   "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
+   "question": "Spread: Jaguars (-6.5)",
+   "outcome": "Ravens",
+   "idx": 1,
+   "shares": 12.311352614926044,
+   "cost_ex": 4.432086941373376,
+   "fees": 0.08509606927436882,
+   "opened_at": 1793931281173,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.4)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.9396328367763336,
+   "status": null
+  },
+  "2727622494561404319244818650615757454969991264309205671550670581399644237779": {
+   "token": "2727622494561404319244818650615757454969991264309205671550670581399644237779",
+   "market_id": "6409787",
+   "slug": "nba-orl-phx-2026-11-05",
+   "question": "Magic vs. Suns",
+   "outcome": "Suns",
+   "idx": 1,
+   "shares": 33.74289086587337,
+   "cost_ex": 17.20887434159542,
+   "fees": 0.4216174213690878,
+   "opened_at": 1793931282623,
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.53)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 4.031617348343144,
-   "status": null
-  },
-  "28871568374727306793649085173994726808169995944001344572515324639239277960546": {
-   "token": "28871568374727306793649085173994726808169995944001344572515324639239277960546",
-   "market_id": "6501392",
-   "slug": "lol-dk-blg-2026-11-03-game3",
-   "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
-   "outcome": "Dplus KIA",
-   "idx": 0,
-   "shares": 96.96892519178282,
-   "cost_ex": 10.66658177109611,
-   "fees": 0.4746628888137769,
-   "opened_at": 1793924081397,
-   "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.46)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 12.605960274931766,
+   "value": 17.54630325025415,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793931278412,
+   "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+   "outcome": "Dplus KIA",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.46)",
+   "shares": 96.97,
+   "avg": 0.11,
+   "final": 0,
+   "cost": 11.14,
+   "payout": 0,
+   "pnl": -11.14,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793931278352,
+   "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner",
+   "outcome": "Dplus KIA",
+   "source": "copy",
+   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.4886713201)",
+   "shares": 8063.23,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 8.47,
+   "payout": 0,
+   "pnl": -8.47,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793931277521,
+   "question": "Will the Democratic Party win the NJ-02 House seat?",
+   "outcome": "No",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.5263513683)",
+   "shares": 16.7,
+   "avg": 0.55,
+   "final": 0,
+   "cost": 9.35,
+   "payout": 0,
+   "pnl": -9.35,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1793924078049,
    "question": "Celtic FC vs. Beşiktaş JK: O/U 3.5",
@@ -2156,6 +2241,99 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793931282623,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Magic vs. Suns",
+   "outcome": "Suns",
+   "shares": 33.74,
+   "price": 0.51,
+   "fee": 0.42,
+   "amount": -17.63,
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.53)"
+  },
+  {
+   "t": 1793931281173,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Jaguars (-6.5)",
+   "outcome": "Ravens",
+   "shares": 12.31,
+   "price": 0.36,
+   "fee": 0.09,
+   "amount": -4.52,
+   "reason": "Copied primm (edge score 5.7, they paid 0.4)"
+  },
+  {
+   "t": 1793931280892,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Jaguars (-5.5)",
+   "outcome": "Ravens",
+   "shares": 12.99,
+   "price": 0.33,
+   "fee": 0.09,
+   "amount": -4.37,
+   "reason": "Copied primm (edge score 5.7, they paid 0.38)"
+  },
+  {
+   "t": 1793931279826,
+   "type": "BUY",
+   "source": "copy",
+   "question": "UTSA vs. Florida Atlantic: O/U 65.5",
+   "outcome": "Under",
+   "shares": 94.9,
+   "price": 0.03952580176227446,
+   "fee": 0.11,
+   "amount": -3.86,
+   "reason": "Copied primm (edge score 5.7, they paid 0.37)"
+  },
+  {
+   "t": 1793931279338,
+   "type": "BUY",
+   "source": "copy",
+   "question": "UTSA vs. Florida Atlantic: O/U 71.5",
+   "outcome": "Under",
+   "shares": 38.09,
+   "price": 0.099,
+   "fee": 0.1,
+   "amount": -3.87,
+   "reason": "Copied primm (edge score 5.7, they paid 0.51)"
+  },
+  {
+   "t": 1793931278412,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner",
+   "outcome": "Dplus KIA",
+   "shares": 96.97,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793931278352,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner",
+   "outcome": "Dplus KIA",
+   "shares": 8063.23,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793931277521,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Will the Democratic Party win the NJ-02 House seat?",
+   "outcome": "No",
+   "shares": 16.7,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1793924081397,
    "type": "BUY",
@@ -5281,6 +5459,11 @@
    "t": 1793924083702,
    "value": 599.99,
    "cash": 250.93
+  },
+  {
+   "t": 1793931285128,
+   "value": 579.22,
+   "cash": 216.68
   }
  ],
  "follows": {
@@ -5385,19 +5568,71 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793920545,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793930733,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793909928,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793917515,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793919888,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793830545,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793922489,
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793930868,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793904918,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768
  },
  "log": [
+  {
+   "t": 1793931282623,
+   "msg": "Copied fantasy7788: bought 33.7 Suns on \"Magic vs. Suns\" for $17.63"
+  },
+  {
+   "t": 1793931281431,
+   "msg": "Skipped copying primm on \"Jaguars vs. Ravens: O/U 36.5\": price moved from 0.35 to 0.49"
+  },
+  {
+   "t": 1793931281173,
+   "msg": "Copied primm: bought 12.3 Ravens on \"Spread: Jaguars (-6.5)\" for $4.52"
+  },
+  {
+   "t": 1793931280892,
+   "msg": "Copied primm: bought 13.0 Ravens on \"Spread: Jaguars (-5.5)\" for $4.37"
+  },
+  {
+   "t": 1793931280699,
+   "msg": "Skipped copying primm on \"James Madison vs. Southern Miss: O/U 57.5\": price moved from 0.44 to 0.53"
+  },
+  {
+   "t": 1793931280418,
+   "msg": "Skipped copying primm on \"Spread: UTSA (-3.5)\": price moved from 0.5199632893 to 0.74"
+  },
+  {
+   "t": 1793931280104,
+   "msg": "Skipped copying primm on \"Spread: UTSA (-1.5)\": price moved from 0.42 to 0.65"
+  },
+  {
+   "t": 1793931279826,
+   "msg": "Copied primm: bought 94.9 Under on \"UTSA vs. Florida Atlantic: O/U 65.5\" for $3.86"
+  },
+  {
+   "t": 1793931279527,
+   "msg": "Skipped copying primm on \"UTSA vs. Florida Atlantic\": price moved from 0.36 to 0.59"
+  },
+  {
+   "t": 1793931279338,
+   "msg": "Copied primm: bought 38.1 Under on \"UTSA vs. Florida Atlantic: O/U 71.5\" for $3.87"
+  },
+  {
+   "t": 1793931278412,
+   "msg": "Settled: Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner\" -> lost (-11.14)"
+  },
+  {
+   "t": 1793931278352,
+   "msg": "Settled: Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner\" -> lost (-8.47)"
+  },
+  {
+   "t": 1793931277521,
+   "msg": "Settled: No on \"Will the Democratic Party win the NJ-02 House seat?\" -> lost (-9.35)"
+  },
   {
    "t": 1793924081397,
    "msg": "Copied fantasy7788: bought 97.0 Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner\" for $11.14"
@@ -6545,58 +6780,6 @@
   {
    "t": 1793664886968,
    "msg": "Copied Melody626: bought 33.9 Yes on \"Will the Republican Party win the NC-03 House seat?\" for $20.66"
-  },
-  {
-   "t": 1793664886789,
-   "msg": "Copied Melody626: bought 33.9 No on \"Will the Democratic Party win the NC-03 House seat?\" for $20.66"
-  },
-  {
-   "t": 1793657692123,
-   "msg": "Copied 0xC9BFc798...81c0: bought 6.9 B8 on \"Map Handicap: LGC (-1.5) vs B8 (+1.5)\" for $4.60"
-  },
-  {
-   "t": 1793657691839,
-   "msg": "Copied 0xC9BFc798...81c0: bought 5.8 B8 on \"Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A\" for $2.27"
-  },
-  {
-   "t": 1793657691544,
-   "msg": "Copied 0xC9BFc798...81c0: bought 5.6 B8 on \"Counter-Strike: Legacy vs B8 - Map 2 Winner\" for $2.26"
-  },
-  {
-   "t": 1793650507434,
-   "msg": "Copied 0xC9BFc798...81c0: bought 10.7 Heroic on \"Map Handicap: MGLZ (-1.5) vs Heroic (+1.5)\" for $8.14"
-  },
-  {
-   "t": 1793650507136,
-   "msg": "Copied 0xC9BFc798...81c0: bought 8.2 Heroic on \"Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)\" for $5.83"
-  },
-  {
-   "t": 1793644112591,
-   "msg": "Copied 0xC9BFc798...81c0: bought 5.8 PARIVISION on \"Counter-Strike: Liquid vs PARIVISION - Map 1 Winner\" for $3.58"
-  },
-  {
-   "t": 1793639147466,
-   "msg": "Copied 0xC9BFc798...81c0: bought 6.1 TYLOO on \"Map Handicap: 9z (-1.5) vs TYLOO (+1.5)\" for $3.93"
-  },
-  {
-   "t": 1793639147199,
-   "msg": "Copied 0xC9BFc798...81c0: bought 6.6 TYLOO on \"Counter-Strike: TYLOO vs 9z (BO3) - IEM Beijing Group B\" for $2.33"
-  },
-  {
-   "t": 1793639146930,
-   "msg": "Copied 0xC9BFc798...81c0: bought 8.7 FaZe on \"Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A\" for $2.51"
-  },
-  {
-   "t": 1793639146647,
-   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: Liquid vs PARIVISION - Map 1 Winner\": price moved from 0.57 to 0.61"
-  },
-  {
-   "t": 1793639146387,
-   "msg": "Copied 0xC9BFc798...81c0: bought 6.9 PARIVISION on \"Map Handicap: PRV (-1.5) vs Liquid (+1.5)\" for $2.35"
-  },
-  {
-   "t": 1793639145650,
-   "msg": "Copied Sisyphus-: bought 25.4 HellNight- on \"Dota 2: potn9ki vs HellNight- (BO3) - Esports Pro Circuit  Group C\" for $10.58"
   }
  ]
 }
