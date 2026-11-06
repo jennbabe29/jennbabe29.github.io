@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 294.8079855665701,
+ "cash": 269.2624525476738,
  "created_at": 1793597589071,
- "last_run": 1793952956562,
+ "last_run": 1793960095275,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 7.590037416783348,
+   "value": 7.488385129951428,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.651848411286124,
+   "value": 46.02467775012095,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.55827027834593,
+   "value": 35.70281609248554,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.11250629758668,
+   "value": 35.69048994034531,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.38508577201433,
+   "value": 34.83936027916492,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.9878055646411871,
+   "value": 0.8231713038676558,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 36.675586094952926,
+   "value": 36.752635645572575,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -263,6 +263,46 @@
     "exp": 1
    },
    "value": 1.8317635424659828,
+   "status": null
+  },
+  "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
+   "token": "103502498945612760857347547468692815475021002076650480255628165092951554808841",
+   "market_id": "6699152",
+   "slug": "dota2-xe-frogli-2026-11-06",
+   "question": "Dota 2: Xipto Esports vs Froglings (BO3) - DreamLeague Division 2 Group A",
+   "outcome": "Froglings",
+   "idx": 1,
+   "shares": 19.925907529829423,
+   "cost_ex": 12.75258081909083,
+   "fees": 0.22954645474363497,
+   "opened_at": 1793960093040,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.6529208873)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 12.553321743792537,
+   "status": null
+  },
+  "89626773789247912037983660083886610683285575313869108903803481573065804908700": {
+   "token": "89626773789247912037983660083886610683285575313869108903803481573065804908700",
+   "market_id": "6699150",
+   "slug": "dota2-xe-frogli-2026-11-06-game1",
+   "question": "Dota 2: Xipto Esports vs Froglings - Game 1 Winner",
+   "outcome": "Froglings",
+   "idx": 1,
+   "shares": 19.404355576285994,
+   "cost_ex": 12.338787568823037,
+   "fees": 0.22461817623881464,
+   "opened_at": 1793960093309,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.6699999993)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 8.731960009328697,
    "status": null
   }
  },
@@ -2305,6 +2345,30 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793960093309,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs Froglings - Game 1 Winner",
+   "outcome": "Froglings",
+   "shares": 19.4,
+   "price": 0.635877214283902,
+   "fee": 0.22,
+   "amount": -12.56,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.6699999993)"
+  },
+  {
+   "t": 1793960093040,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs Froglings (BO3) - DreamLeague Division 2 Group A",
+   "outcome": "Froglings",
+   "shares": 19.93,
+   "price": 0.64,
+   "fee": 0.23,
+   "amount": -12.98,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.6529208873)"
+  },
   {
    "t": 1793952954995,
    "type": "SELL",
@@ -5849,6 +5913,11 @@
    "t": 1793952956562,
    "value": 599.8,
    "cash": 294.81
+  },
+  {
+   "t": 1793960095275,
+   "value": 595.9,
+   "cash": 269.26
   }
  ],
  "follows": {
@@ -5955,8 +6024,8 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793937319,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793909928,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793917515,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793960076,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793959960,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793919888,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793830545,
@@ -5966,6 +6035,18 @@
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768
  },
  "log": [
+  {
+   "t": 1793960093309,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 19.4 Froglings on \"Dota 2: Xipto Esports vs Froglings - Game 1 Winner\" for $12.56"
+  },
+  {
+   "t": 1793960093040,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 19.9 Froglings on \"Dota 2: Xipto Esports vs Froglings (BO3) - DreamLeague Division 2 Group A\" for $12.98"
+  },
+  {
+   "t": 1793960092576,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: Nemiga Gaming vs angry birds - Game 1 Winner\": price moved from 0.6700998777 to 0.72"
+  },
   {
    "t": 1793952955169,
    "msg": "Skipped copying fantasy7788 on \"Counter-Strike: PARIVISION vs Natus Vincere (BO3) - IEM Beijing Playoffs\": price moved from 0.6 to 0.75"
@@ -7153,18 +7234,6 @@
   {
    "t": 1793686527451,
    "msg": "Copied Melody626: bought 41.1 Yes on \"Will the Republican Party win the OH-10 House seat?\" for $29.49"
-  },
-  {
-   "t": 1793686527173,
-   "msg": "Copied Melody626: bought 47.8 Yes on \"Will the Republican Party win the FL-16 House seat?\" for $36.67"
-  },
-  {
-   "t": 1793686526895,
-   "msg": "Copied Melody626: bought 32.9 No on \"Will the Republican Party win the KY-06 House seat?\" for $19.39"
-  },
-  {
-   "t": 1793686526621,
-   "msg": "Copied Melody626: bought 34.9 Yes on \"Will the Republican Party win the FL-27 House seat?\" for $22.34"
   }
  ]
 }
