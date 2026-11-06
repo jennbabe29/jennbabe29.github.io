@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 192.05269595286495,
+ "cash": 139.18215906781705,
  "created_at": 1793597589071,
- "last_run": 1793981883861,
+ "last_run": 1793988882494,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 7.183428269455669,
+   "value": 6.33632587918967,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.03779958738777,
+   "value": 47.08604348440047,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.81122545309026,
+   "value": 35.84736190662516,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.58136933628635,
+   "value": 34.10553222915242,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.0849696064072658,
+   "value": 0.8679756851258127,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.5959037615629896,
+   "value": 0.6218126207613804,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.6996956082875075,
+   "value": 0.8231713038676558,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.598167750359664,
+   "value": 29.567591130782848,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.528978253799494,
+   "value": 40.486539533114886,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.8317635424659828,
+   "value": 2.522995067924844,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -322,7 +322,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 9.090833431365722,
+   "value": 10.489423190037371,
    "status": null
   },
   "27855636387609710400457360854254448868285405901885851941809506350743692891922": {
@@ -342,7 +342,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 26.10730688198311,
+   "value": 25.71174162619549,
    "status": null
   },
   "28356420396463002328643673867442768215753749612423927000792961464491086909970": {
@@ -383,6 +383,86 @@
     "exp": 1
    },
    "value": 10.173055418714911,
+   "status": null
+  },
+  "21906499568079522312473391313028656439035030692493809627229268334337222357895": {
+   "token": "21906499568079522312473391313028656439035030692493809627229268334337222357895",
+   "market_id": "6269782",
+   "slug": "cfb-nmx-nevada-2026-11-06-total-35pt5",
+   "question": "New Mexico vs. Nevada: O/U 35.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 11.830207744167293,
+   "cost_ex": 7.216426723942049,
+   "fees": 0.08443219267012197,
+   "opened_at": 1793988878268,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.59)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 7.098124646500375,
+   "status": null
+  },
+  "38178920672917464428695063495108660083216597284226227985778167489470277713122": {
+   "token": "38178920672917464428695063495108660083216597284226227985778167489470277713122",
+   "market_id": "6270777",
+   "slug": "cfb-ncar-uconn-2026-11-07",
+   "question": "North Carolina vs. UConn",
+   "outcome": "North Carolina",
+   "idx": 0,
+   "shares": 15.29037756995757,
+   "cost_ex": 11.161975626069026,
+   "fees": 0.09041200257115911,
+   "opened_at": 1793988878536,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.72)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 11.00907185036945,
+   "status": null
+  },
+  "27671193839892602627844280306312794716190215816470485885004000704643445749212": {
+   "token": "27671193839892602627844280306312794716190215816470485885004000704643445749212",
+   "market_id": "6735729",
+   "slug": "dota2-rostik2-st1-2026-11-06-game2",
+   "question": "Dota 2: rostikfacekid TEAM vs Stray Team - Game 2 Winner",
+   "outcome": "Stray Team",
+   "idx": 1,
+   "shares": 1927.120451967859,
+   "cost_ex": 5.189202259839295,
+   "fees": 0.25844184842700496,
+   "opened_at": 1793988879103,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.29)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 0.9635602259839295,
+   "status": null
+  },
+  "52737015592952525281811594323920237084552289151584705937922611226091633601888": {
+   "token": "52737015592952525281811594323920237084552289151584705937922611226091633601888",
+   "market_id": "6747122",
+   "slug": "dota2-levelu-xe-2026-11-06",
+   "question": "Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider",
+   "outcome": "Xipto Esports",
+   "idx": 1,
+   "shares": 34.48954516910982,
+   "cost_ex": 28.626322490361147,
+   "fees": 0.24332374116806985,
+   "opened_at": 1793988879777,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.839999999)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 26.55694978021456,
    "status": null
   }
  },
@@ -2470,6 +2550,54 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793988879777,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider",
+   "outcome": "Xipto Esports",
+   "shares": 34.49,
+   "price": 0.83,
+   "fee": 0.24,
+   "amount": -28.87,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.839999999)"
+  },
+  {
+   "t": 1793988879103,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: rostikfacekid TEAM vs Stray Team - Game 2 Winner",
+   "outcome": "Stray Team",
+   "shares": 1927.12,
+   "price": 0.002692723360670266,
+   "fee": 0.26,
+   "amount": -5.45,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.29)"
+  },
+  {
+   "t": 1793988878536,
+   "type": "BUY",
+   "source": "copy",
+   "question": "North Carolina vs. UConn",
+   "outcome": "North Carolina",
+   "shares": 15.29,
+   "price": 0.73,
+   "fee": 0.09,
+   "amount": -11.25,
+   "reason": "Copied primm (edge score 5.2, they paid 0.72)"
+  },
+  {
+   "t": 1793988878268,
+   "type": "BUY",
+   "source": "copy",
+   "question": "New Mexico vs. Nevada: O/U 35.5",
+   "outcome": "Over",
+   "shares": 11.83,
+   "price": 0.61,
+   "fee": 0.08,
+   "amount": -7.3,
+   "reason": "Copied primm (edge score 5.2, they paid 0.59)"
+  },
   {
    "t": 1793981881825,
    "type": "BUY",
@@ -6175,6 +6303,11 @@
    "t": 1793981883861,
    "value": 576.51,
    "cash": 192.05
+  },
+  {
+   "t": 1793988882494,
+   "value": 570.58,
+   "cash": 139.18
   }
  ],
  "follows": {
@@ -6279,10 +6412,10 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793937319,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793987437,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793960076,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793980123,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793982844,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793988720,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793919888,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793830545,
@@ -6292,6 +6425,26 @@
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768
  },
  "log": [
+  {
+   "t": 1793988879777,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 34.5 Xipto Esports on \"Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider\" for $28.87"
+  },
+  {
+   "t": 1793988879521,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Level Up Academy vs Xipto Esports - Game 1 Winner\": price moved from 0.7599999848 to 0.82"
+  },
+  {
+   "t": 1793988879103,
+   "msg": "Copied Sisyphus-: bought 1927.1 Stray Team on \"Dota 2: rostikfacekid TEAM vs Stray Team - Game 2 Winner\" for $5.45"
+  },
+  {
+   "t": 1793988878536,
+   "msg": "Copied primm: bought 15.3 North Carolina on \"North Carolina vs. UConn\" for $11.25"
+  },
+  {
+   "t": 1793988878268,
+   "msg": "Copied primm: bought 11.8 Over on \"New Mexico vs. Nevada: O/U 35.5\" for $7.30"
+  },
   {
    "t": 1793981881825,
    "msg": "Copied fantasy7788: bought 59.8 Karmine Corp on \"LoL: Karmine Corp vs T1 (BO5) - Worlds Playoffs\" for $11.21"
@@ -7471,26 +7624,6 @@
   {
    "t": 1793708175945,
    "msg": "Settled: Heroic on \"Map Handicap: HERO (-1.5) vs TheMongolz (+1.5)\" -> lost (-2.55)"
-  },
-  {
-   "t": 1793708175024,
-   "msg": "Settled: Heroic on \"Map Handicap: MGLZ (-1.5) vs Heroic (+1.5)\" -> lost (-8.14)"
-  },
-  {
-   "t": 1793700901379,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: LEGION vs OG (BO3) - EPL Masters Playoffs\": price moved from 0.288084898 to 0.32"
-  },
-  {
-   "t": 1793700901198,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: LEGION vs OG - Game 1 Winner\": price moved from 0.3299999997 to 0.42"
-  },
-  {
-   "t": 1793700896544,
-   "msg": "Settled: Heroic on \"Map 1 Rounds Handicap: TheMongolz (-3.5) vs Heroic (+3.5)\" -> lost (-5.83)"
-  },
-  {
-   "t": 1793700896395,
-   "msg": "Settled: FaZe on \"Counter-Strike: FaZe vs Team Falcons (BO3) - IEM Beijing Group A\" -> lost (-2.51)"
   }
  ]
 }
