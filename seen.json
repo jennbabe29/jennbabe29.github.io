@@ -55,6 +55,11 @@
       "name": "nb1985",
       "first_reported": "2026-11-04",
       "edge_score": 3.3
+    },
+    "0x79ae097215202b5d01f98e4479fb219102469a4a": {
+      "name": "CORGII",
+      "first_reported": "2026-11-06",
+      "edge_score": 3
     }
   }
 }
