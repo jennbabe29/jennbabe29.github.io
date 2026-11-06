@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 139.18215906781705,
+ "cash": 123.50083275829488,
  "created_at": 1793597589071,
- "last_run": 1793996182283,
+ "last_run": 1794003281551,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.471862261632229,
+   "value": 8.403255711438707,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.314141132197186,
+   "value": 47.08604348440047,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.65436596267289,
+   "value": 35.79886187336255,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.7594787244850861,
+   "value": 0.21699392128145317,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.25570798170041,
+   "value": 34.29030970693445,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.7772657759517255,
+   "value": 0.6736303391581622,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.9054884342544214,
+   "value": 0.7408541734808902,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.486539533114886,
+   "value": 40.44410081243028,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.40755682583959,
+   "value": 37.638705477698544,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 3.2142265933837058,
+   "value": 3.352472898475478,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -322,7 +322,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.2727083578414304,
+   "value": 2.797179517343299,
    "status": null
   },
   "27855636387609710400457360854254448868285405901885851941809506350743692891922": {
@@ -342,7 +342,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 25.71174162619549,
+   "value": 25.316176370407867,
    "status": null
   },
   "28356420396463002328643673867442768215753749612423927000792961464491086909970": {
@@ -362,7 +362,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 12.769108742256325,
+   "value": 12.404277063906143,
    "status": null
   },
   "26660158252778151728418762173367017636491922052161878826809972643916748786508": {
@@ -382,7 +382,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 10.173055418714911,
+   "value": 9.574640394084621,
    "status": null
   },
   "21906499568079522312473391313028656439035030692493809627229268334337222357895": {
@@ -425,28 +425,163 @@
    "value": 11.00907185036945,
    "status": null
   },
-  "52737015592952525281811594323920237084552289151584705937922611226091633601888": {
-   "token": "52737015592952525281811594323920237084552289151584705937922611226091633601888",
-   "market_id": "6747122",
-   "slug": "dota2-levelu-xe-2026-11-06",
-   "question": "Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider",
-   "outcome": "Xipto Esports",
+  "84947536563546826969503115401126047973211453383832228203042452715016106062796": {
+   "token": "84947536563546826969503115401126047973211453383832228203042452715016106062796",
+   "market_id": "6269751",
+   "slug": "cfb-nmx-nevada-2026-11-06",
+   "question": "New Mexico vs. Nevada",
+   "outcome": "Nevada",
    "idx": 1,
-   "shares": 34.48954516910982,
-   "cost_ex": 28.626322490361147,
-   "fees": 0.24332374116806985,
-   "opened_at": 1793988879777,
+   "shares": 17.36652777605132,
+   "cost_ex": 3.8206361107312907,
+   "fees": 0.0894028849911122,
+   "opened_at": 1794003276795,
    "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.839999999)",
+   "reason": "Copied primm (edge score 5.2, they paid 0.21)",
    "fee": {
-    "rate": 0.05,
+    "rate": 0.03,
     "exp": 1
    },
-   "value": 34.45505562394071,
+   "value": 3.646970832970777,
+   "status": null
+  },
+  "69610271796718695849268661499265815478822572927422337662595853960078961295371": {
+   "token": "69610271796718695849268661499265815478822572927422337662595853960078961295371",
+   "market_id": "6269892",
+   "slug": "cfb-tcu-arz-2026-11-06-total-47pt5",
+   "question": "TCU vs. Arizona: O/U 47.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 10.794936433577963,
+   "cost_ex": 5.181569488117422,
+   "fees": 0.08083248401463178,
+   "opened_at": 1794003277057,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 5.073620123781642,
+   "status": null
+  },
+  "10085746475524527101107111967724179018109321159049024112787954072548760401149": {
+   "token": "10085746475524527101107111967724179018109321159049024112787954072548760401149",
+   "market_id": "6270682",
+   "slug": "cfb-clmsn-syra-2026-11-07-total-47pt5",
+   "question": "Clemson vs. Syracuse: O/U 47.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 10.901450300783093,
+   "cost_ex": 4.905652635352392,
+   "fees": 0.08094326848331447,
+   "opened_at": 1794003277312,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.44)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.796638132344561,
+   "status": null
+  },
+  "111173160181408251328463743717555042850179663306511647505935739970411800394347": {
+   "token": "111173160181408251328463743717555042850179663306511647505935739970411800394347",
+   "market_id": "6271400",
+   "slug": "cfb-okst-kanst-2026-11-07",
+   "question": "Oklahoma State vs. Kansas State",
+   "outcome": "Oklahoma State",
+   "idx": 0,
+   "shares": 13.47206509708328,
+   "cost_ex": 9.295724916987464,
+   "fees": 0.0864502417279834,
+   "opened_at": 1794003277570,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.68)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 9.161004266016631,
+   "status": null
+  },
+  "3423073157545128581242834227947862024296340661147696408214647210530879315449": {
+   "token": "3423073157545128581242834227947862024296340661147696408214647210530879315449",
+   "market_id": "6271796",
+   "slug": "cfb-cin-hou-2026-11-07-total-61pt5",
+   "question": "Cincinnati vs. Houston: O/U 61.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 10.816150910127094,
+   "cost_ex": 5.624398473266089,
+   "fees": 0.08099133801503167,
+   "opened_at": 1794003277827,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.5)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 5.516236964164818,
+   "status": null
+  },
+  "86594254211980742087295075050208295066561951985569877568778469644916214884731": {
+   "token": "86594254211980742087295075050208295066561951985569877568778469644916214884731",
+   "market_id": "6271752",
+   "slug": "cfb-cin-hou-2026-11-07",
+   "question": "Cincinnati vs. Houston",
+   "outcome": "Houston",
+   "idx": 1,
+   "shares": 19.585616785619703,
+   "cost_ex": 15.668493428495763,
+   "fees": 0.09401096057097455,
+   "opened_at": 1794003278084,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.79)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 15.472637260639566,
+   "status": null
+  },
+  "67713907520570448705655246276941528327785776657500131434081553142195154969107": {
+   "token": "67713907520570448705655246276941528327785776657500131434081553142195154969107",
+   "market_id": "6272457",
+   "slug": "cfb-rutger-wisc-2026-11-07-spread-home-20pt5",
+   "question": "Spread: Wisconsin (-20.5)",
+   "outcome": "Wisconsin",
+   "idx": 0,
+   "shares": 10.810590856191853,
+   "cost_ex": 5.080977702410171,
+   "fees": 0.08078754546832172,
+   "opened_at": 1794003278348,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.46)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.9728717938482525,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794003275952,
+   "question": "Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider",
+   "outcome": "Xipto Esports",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.839999999)",
+   "shares": 34.49,
+   "avg": 0.83,
+   "final": 1,
+   "cost": 28.87,
+   "payout": 34.49,
+   "pnl": 5.62,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1793996177801,
    "question": "Dota 2: rostikfacekid TEAM vs Stray Team - Game 2 Winner",
@@ -2545,6 +2680,101 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794003278348,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Wisconsin (-20.5)",
+   "outcome": "Wisconsin",
+   "shares": 10.81,
+   "price": 0.47,
+   "fee": 0.08,
+   "amount": -5.16,
+   "reason": "Copied primm (edge score 5.2, they paid 0.46)"
+  },
+  {
+   "t": 1794003278084,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Cincinnati vs. Houston",
+   "outcome": "Houston",
+   "shares": 19.59,
+   "price": 0.8,
+   "fee": 0.09,
+   "amount": -15.76,
+   "reason": "Copied primm (edge score 5.2, they paid 0.79)"
+  },
+  {
+   "t": 1794003277827,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Cincinnati vs. Houston: O/U 61.5",
+   "outcome": "Under",
+   "shares": 10.82,
+   "price": 0.52,
+   "fee": 0.08,
+   "amount": -5.71,
+   "reason": "Copied primm (edge score 5.2, they paid 0.5)"
+  },
+  {
+   "t": 1794003277570,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Oklahoma State vs. Kansas State",
+   "outcome": "Oklahoma State",
+   "shares": 13.47,
+   "price": 0.69,
+   "fee": 0.09,
+   "amount": -9.38,
+   "reason": "Copied primm (edge score 5.2, they paid 0.68)"
+  },
+  {
+   "t": 1794003277312,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Clemson vs. Syracuse: O/U 47.5",
+   "outcome": "Under",
+   "shares": 10.9,
+   "price": 0.45,
+   "fee": 0.08,
+   "amount": -4.99,
+   "reason": "Copied primm (edge score 5.2, they paid 0.44)"
+  },
+  {
+   "t": 1794003277057,
+   "type": "BUY",
+   "source": "copy",
+   "question": "TCU vs. Arizona: O/U 47.5",
+   "outcome": "Over",
+   "shares": 10.79,
+   "price": 0.48,
+   "fee": 0.08,
+   "amount": -5.26,
+   "reason": "Copied primm (edge score 5.2, they paid 0.48)"
+  },
+  {
+   "t": 1794003276795,
+   "type": "BUY",
+   "source": "copy",
+   "question": "New Mexico vs. Nevada",
+   "outcome": "Nevada",
+   "shares": 17.37,
+   "price": 0.22,
+   "fee": 0.09,
+   "amount": -3.91,
+   "reason": "Copied primm (edge score 5.2, they paid 0.21)"
+  },
+  {
+   "t": 1794003275952,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider",
+   "outcome": "Xipto Esports",
+   "shares": 34.49,
+   "price": 1,
+   "fee": 0,
+   "amount": 34.49
+  },
   {
    "t": 1793996177801,
    "type": "SETTLE",
@@ -6319,6 +6549,11 @@
    "t": 1793996182283,
    "value": 566.32,
    "cash": 139.18
+  },
+  {
+   "t": 1794003281551,
+   "value": 566.39,
+   "cash": 123.5
   }
  ],
  "follows": {
@@ -6423,7 +6658,7 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1793987437,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794001986,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793982844,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793992971,
@@ -6436,6 +6671,38 @@
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768
  },
  "log": [
+  {
+   "t": 1794003278348,
+   "msg": "Copied primm: bought 10.8 Wisconsin on \"Spread: Wisconsin (-20.5)\" for $5.16"
+  },
+  {
+   "t": 1794003278084,
+   "msg": "Copied primm: bought 19.6 Houston on \"Cincinnati vs. Houston\" for $15.76"
+  },
+  {
+   "t": 1794003277827,
+   "msg": "Copied primm: bought 10.8 Under on \"Cincinnati vs. Houston: O/U 61.5\" for $5.71"
+  },
+  {
+   "t": 1794003277570,
+   "msg": "Copied primm: bought 13.5 Oklahoma State on \"Oklahoma State vs. Kansas State\" for $9.38"
+  },
+  {
+   "t": 1794003277312,
+   "msg": "Copied primm: bought 10.9 Under on \"Clemson vs. Syracuse: O/U 47.5\" for $4.99"
+  },
+  {
+   "t": 1794003277057,
+   "msg": "Copied primm: bought 10.8 Over on \"TCU vs. Arizona: O/U 47.5\" for $5.26"
+  },
+  {
+   "t": 1794003276795,
+   "msg": "Copied primm: bought 17.4 Nevada on \"New Mexico vs. Nevada\" for $3.91"
+  },
+  {
+   "t": 1794003275952,
+   "msg": "Settled: Xipto Esports on \"Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider\" -> won (+5.62)"
+  },
   {
    "t": 1793996179998,
    "msg": "Skipped copying Melody626 on \"Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?\": price moved from 0.32 to 0.4"
@@ -7603,38 +7870,6 @@
   {
    "t": 1793715478528,
    "msg": "Copied 0xC9BFc798...81c0: bought 7.3 QUINTESSÊNCIA on \"Counter-Strike: QUINTESSÊNCIA vs RED Canids Academy (BO3) - CCT South America Group Stage\" for $2.28"
-  },
-  {
-   "t": 1793715477282,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Nemiga Gaming vs CyberHero - Game 1 Winner\": price moved from 0.6282146924 to 0.72"
-  },
-  {
-   "t": 1793715476781,
-   "msg": "Copied Sisyphus-: bought 6600.4 Xipto Esports on \"Dota 2: Xipto Esports vs PuckChamp - Game 1 Winner\" for $8.64"
-  },
-  {
-   "t": 1793715475217,
-   "msg": "Settled: OG on \"Dota 2: LEGION vs OG - Game 2 Winner\" -> lost (-9.61)"
-  },
-  {
-   "t": 1793715472786,
-   "msg": "Settled: B8 on \"Map Handicap: LGC (-1.5) vs B8 (+1.5)\" -> won (+2.26)"
-  },
-  {
-   "t": 1793715472637,
-   "msg": "Settled: B8 on \"Counter-Strike: Legacy vs B8 (BO3) - IEM Beijing Group A\" -> won (+3.52)"
-  },
-  {
-   "t": 1793715472596,
-   "msg": "Settled: B8 on \"Counter-Strike: Legacy vs B8 - Map 2 Winner\" -> lost (-2.26)"
-  },
-  {
-   "t": 1793708181019,
-   "msg": "Copied 0xC9BFc798...81c0: bought 38.8 BakS eSports on \"Counter-Strike: BakS eSports vs KUUSAMO.gg (BO3) - ESL Challenger League Europe Cup #10 Group B\" for $35.44"
-  },
-  {
-   "t": 1793708180417,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 9155.0 OG on \"Dota 2: LEGION vs OG - Game 2 Winner\" for $9.61"
   }
  ]
 }
