@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 188.18655082340211,
+ "cash": 259.8754790058871,
  "created_at": 1793597589071,
- "last_run": 1793938568831,
+ "last_run": 1793945684795,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 7.556153321172708,
+   "value": 7.962762468500387,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 44.866824221816024,
+   "value": 46.651848411286124,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.48599737127612,
+   "value": 35.55827027834593,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.40149811896599,
+   "value": 35.11250629758668,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 32.672820321985164,
+   "value": 34.31519738629885,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.9764726457665391,
+   "value": 1.0307211260869025,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.486539533114886,
+   "value": 40.40166209174567,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 36.675586094952926,
+   "value": 36.71411087026275,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -262,311 +262,256 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 3.352472898475478,
+   "value": 1.9700098475577552,
    "status": null
   },
-  "22508256372242471758027963121662780934131618129812064162573434088141830118878": {
-   "token": "22508256372242471758027963121662780934131618129812064162573434088141830118878",
-   "market_id": "6269377",
-   "slug": "cfb-jmad-soumis-2026-11-05-total-57pt5",
-   "question": "James Madison vs. Southern Miss: O/U 57.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 11.543722711489362,
-   "cost_ex": 6.002735809974468,
-   "fees": 0.08643939566363233,
-   "opened_at": 1793924078911,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.51)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 11.428285484374468,
-   "status": null
-  },
-  "10232407805095501717382390761782964748168634990220098233757270982543052884761": {
-   "token": "10232407805095501717382390761782964748168634990220098233757270982543052884761",
-   "market_id": "6269378",
-   "slug": "cfb-jmad-soumis-2026-11-05-total-59pt5",
-   "question": "James Madison vs. Southern Miss: O/U 59.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 11.629551454493873,
-   "cost_ex": 5.233298154522243,
-   "fees": 0.08634941954961702,
-   "opened_at": 1793924079186,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.44)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 9.303641163595099,
-   "status": null
-  },
-  "90553497398507110659475600473086136903768384078850785552042253412393577613278": {
-   "token": "90553497398507110659475600473086136903768384078850785552042253412393577613278",
-   "market_id": "6269339",
-   "slug": "cfb-jmad-soumis-2026-11-05-spread-away-14pt5",
-   "question": "Spread: James Madison (-14.5)",
-   "outcome": "James Madison",
-   "idx": 0,
-   "shares": 11.538018483958389,
-   "cost_ex": 5.422868687460443,
-   "fees": 0.08622361213062103,
-   "opened_at": 1793924079471,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.47)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 11.341872169731095,
-   "status": null
-  },
-  "45295159170640827466328522229510589184894851531670745788255606592324027453079": {
-   "token": "45295159170640827466328522229510589184894851531670745788255606592324027453079",
-   "market_id": "6269337",
-   "slug": "cfb-jmad-soumis-2026-11-05-spread-away-17pt5",
-   "question": "Spread: James Madison (-17.5)",
-   "outcome": "James Madison",
-   "idx": 0,
-   "shares": 11.971194267332825,
-   "cost_ex": 4.908189649606458,
-   "fees": 0.08687495679803431,
-   "opened_at": 1793924079738,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.4)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 11.372634553966183,
-   "status": null
-  },
-  "100653751914114698688855179564133068063482186382737336092781743248208592335402": {
-   "token": "100653751914114698688855179564133068063482186382737336092781743248208592335402",
-   "market_id": "6269338",
-   "slug": "cfb-jmad-soumis-2026-11-05-spread-away-16pt5",
-   "question": "Spread: James Madison (-16.5)",
-   "outcome": "James Madison",
-   "idx": 0,
-   "shares": 11.624555043653949,
-   "cost_ex": 5.231049769644277,
-   "fees": 0.08631232119913057,
-   "opened_at": 1793924080071,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.44)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 11.15957284190779,
-   "status": null
-  },
-  "3033012783592656934158742268714497118614853075575908310186298193451437724863": {
-   "token": "3033012783592656934158742268714497118614853075575908310186298193451437724863",
-   "market_id": "5972381",
-   "slug": "nfl-jax-bal-2026-11-06-spread-away-5pt5",
-   "question": "Spread: Jaguars (-5.5)",
-   "outcome": "Ravens",
+  "64099387542188584633321637983099661217129922243612776364542960892042925901574": {
+   "token": "64099387542188584633321637983099661217129922243612776364542960892042925901574",
+   "market_id": "6675983",
+   "slug": "cs2-prv-navi-2026-11-06-map-handicap-home-1pt5",
+   "question": "Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5)",
+   "outcome": "PARIVISION",
    "idx": 1,
-   "shares": 12.990151004012562,
-   "cost_ex": 4.286749831324146,
-   "fees": 0.08616367160961531,
-   "opened_at": 1793931280892,
+   "shares": 34.9692224958425,
+   "cost_ex": 19.932456822630225,
+   "fees": 0.4285478216865499,
+   "opened_at": 1793945682966,
    "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.38)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.006495075502006281,
-   "status": null
-  },
-  "86157493948723726134236680975987883248621551414323329137011212636911098837986": {
-   "token": "86157493948723726134236680975987883248621551414323329137011212636911098837986",
-   "market_id": "5972384",
-   "slug": "nfl-jax-bal-2026-11-06-spread-away-6pt5",
-   "question": "Spread: Jaguars (-6.5)",
-   "outcome": "Ravens",
-   "idx": 1,
-   "shares": 12.311352614926044,
-   "cost_ex": 4.432086941373376,
-   "fees": 0.08509606927436882,
-   "opened_at": 1793931281173,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.4)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.006155676307463022,
-   "status": null
-  },
-  "2727622494561404319244818650615757454969991264309205671550670581399644237779": {
-   "token": "2727622494561404319244818650615757454969991264309205671550670581399644237779",
-   "market_id": "6409787",
-   "slug": "nba-orl-phx-2026-11-05",
-   "question": "Magic vs. Suns",
-   "outcome": "Suns",
-   "idx": 1,
-   "shares": 33.74289086587337,
-   "cost_ex": 17.20887434159542,
-   "fees": 0.4216174213690878,
-   "opened_at": 1793931282623,
-   "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.53)",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.58)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 33.64166219327575,
-   "status": null
-  },
-  "57821907887275488869874207643563769967792097802380766160584128562152617179579": {
-   "token": "57821907887275488869874207643563769967792097802380766160584128562152617179579",
-   "market_id": "6269335",
-   "slug": "cfb-jmad-soumis-2026-11-05",
-   "question": "James Madison vs. Southern Miss",
-   "outcome": "Southern Miss",
-   "idx": 1,
-   "shares": 3898.603748588904,
-   "cost_ex": 3.8986037485889042,
-   "fees": 0.11684115434520947,
-   "opened_at": 1793938562190,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.18)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.9493018742944521,
-   "status": null
-  },
-  "46414841910555348209684802739174436584106200650732579056726090820702170378541": {
-   "token": "46414841910555348209684802739174436584106200650732579056726090820702170378541",
-   "market_id": "5972401",
-   "slug": "nfl-jax-bal-2026-11-06-spread-away-20pt5",
-   "question": "Spread: Jaguars (-20.5)",
-   "outcome": "Ravens",
-   "idx": 1,
-   "shares": 3897.8510487665008,
-   "cost_ex": 3.897851048766501,
-   "fees": 0.11681859593153204,
-   "opened_at": 1793938562837,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.54)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.9489255243832504,
-   "status": null
-  },
-  "61084306625119955472562211760354100799039158957025173413282359348193366882202": {
-   "token": "61084306625119955472562211760354100799039158957025173413282359348193366882202",
-   "market_id": "5972396",
-   "slug": "nfl-jax-bal-2026-11-06-spread-away-13pt5",
-   "question": "Spread: Jaguars (-13.5)",
-   "outcome": "Ravens",
-   "idx": 1,
-   "shares": 3897.098494267157,
-   "cost_ex": 3.897098494267157,
-   "fees": 0.1167960418731867,
-   "opened_at": 1793938563144,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.22)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.9485492471335786,
-   "status": null
-  },
-  "64353964940233773518884353855818649058524578661375832434711520097381115467698": {
-   "token": "64353964940233773518884353855818649058524578661375832434711520097381115467698",
-   "market_id": "5972398",
-   "slug": "nfl-jax-bal-2026-11-06-spread-away-16pt5",
-   "question": "Spread: Jaguars (-16.5)",
-   "outcome": "Ravens",
-   "idx": 1,
-   "shares": 3896.346085062816,
-   "cost_ex": 3.896346085062816,
-   "fees": 0.11677349216933261,
-   "opened_at": 1793938563437,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.33)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.948173042531408,
-   "status": null
-  },
-  "73298662746118621367646727273747109126167546659372282274351604462309505483541": {
-   "token": "73298662746118621367646727273747109126167546659372282274351604462309505483541",
-   "market_id": "5972399",
-   "slug": "nfl-jax-bal-2026-11-06-spread-away-17pt5",
-   "question": "Spread: Jaguars (-17.5)",
-   "outcome": "Ravens",
-   "idx": 1,
-   "shares": 3895.593821125424,
-   "cost_ex": 3.895593821125424,
-   "fees": 0.11675094681912897,
-   "opened_at": 1793938563735,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.43)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.947796910562712,
-   "status": null
-  },
-  "32702131076969585601394352733986064216180738655802922112191167364626421254322": {
-   "token": "32702131076969585601394352733986064216180738655802922112191167364626421254322",
-   "market_id": "6269380",
-   "slug": "cfb-jmad-soumis-2026-11-05-total-63pt5",
-   "question": "James Madison vs. Southern Miss: O/U 63.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 14.400076286771304,
-   "cost_ex": 4.320022886031391,
-   "fees": 0.0907204806066592,
-   "opened_at": 1793938564028,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.49)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 3.3120175459573997,
-   "status": null
-  },
-  "109415218060400331353948305485772564859170824046996290029120089773873073241125": {
-   "token": "109415218060400331353948305485772564859170824046996290029120089773873073241125",
-   "market_id": "6269377",
-   "slug": "cfb-jmad-soumis-2026-11-05-total-57pt5",
-   "question": "James Madison vs. Southern Miss: O/U 57.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 3769.3482983320005,
-   "cost_ex": 3.894286386656005,
-   "fees": 0.11668177786688272,
-   "opened_at": 1793938564319,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.7, they paid 0.34)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 18.84674149166,
+   "value": 19.93245682263023,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1793945681245,
+   "question": "James Madison vs. Southern Miss: O/U 57.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.34)",
+   "shares": 3769.35,
+   "avg": 0.001033145806233744,
+   "final": 0,
+   "cost": 4.01,
+   "payout": 0,
+   "pnl": -4.01,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945681205,
+   "question": "James Madison vs. Southern Miss: O/U 63.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.49)",
+   "shares": 14.4,
+   "avg": 0.3,
+   "final": 0,
+   "cost": 4.41,
+   "payout": 0,
+   "pnl": -4.41,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945681162,
+   "question": "Spread: Jaguars (-17.5)",
+   "outcome": "Ravens",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.43)",
+   "shares": 3895.59,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 4.01,
+   "payout": 0,
+   "pnl": -4.01,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945681117,
+   "question": "Spread: Jaguars (-16.5)",
+   "outcome": "Ravens",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.33)",
+   "shares": 3896.35,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 4.01,
+   "payout": 0,
+   "pnl": -4.01,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945681073,
+   "question": "Spread: Jaguars (-13.5)",
+   "outcome": "Ravens",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.22)",
+   "shares": 3897.1,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 4.01,
+   "payout": 0,
+   "pnl": -4.01,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945681022,
+   "question": "Spread: Jaguars (-20.5)",
+   "outcome": "Ravens",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.54)",
+   "shares": 3897.85,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 4.01,
+   "payout": 0,
+   "pnl": -4.01,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945680965,
+   "question": "James Madison vs. Southern Miss",
+   "outcome": "Southern Miss",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.18)",
+   "shares": 3898.6,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 4.02,
+   "payout": 0,
+   "pnl": -4.02,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945680926,
+   "question": "Magic vs. Suns",
+   "outcome": "Suns",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.53)",
+   "shares": 33.74,
+   "avg": 0.51,
+   "final": 1,
+   "cost": 17.63,
+   "payout": 33.74,
+   "pnl": 16.11,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793945680883,
+   "question": "Spread: Jaguars (-6.5)",
+   "outcome": "Ravens",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.4)",
+   "shares": 12.31,
+   "avg": 0.36,
+   "final": 0,
+   "cost": 4.52,
+   "payout": 0,
+   "pnl": -4.52,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945680839,
+   "question": "Spread: Jaguars (-5.5)",
+   "outcome": "Ravens",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.38)",
+   "shares": 12.99,
+   "avg": 0.33,
+   "final": 0,
+   "cost": 4.37,
+   "payout": 0,
+   "pnl": -4.37,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1793945680795,
+   "question": "Spread: James Madison (-16.5)",
+   "outcome": "James Madison",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.44)",
+   "shares": 11.62,
+   "avg": 0.45,
+   "final": 1,
+   "cost": 5.32,
+   "payout": 11.62,
+   "pnl": 6.31,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793945680661,
+   "question": "Spread: James Madison (-17.5)",
+   "outcome": "James Madison",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.4)",
+   "shares": 11.97,
+   "avg": 0.41,
+   "final": 1,
+   "cost": 5,
+   "payout": 11.97,
+   "pnl": 6.98,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793945680532,
+   "question": "Spread: James Madison (-14.5)",
+   "outcome": "James Madison",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.47)",
+   "shares": 11.54,
+   "avg": 0.47,
+   "final": 1,
+   "cost": 5.51,
+   "payout": 11.54,
+   "pnl": 6.03,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793945680404,
+   "question": "James Madison vs. Southern Miss: O/U 59.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.44)",
+   "shares": 11.63,
+   "avg": 0.44999999999999996,
+   "final": 1,
+   "cost": 5.32,
+   "payout": 11.63,
+   "pnl": 6.31,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1793945680359,
+   "question": "James Madison vs. Southern Miss: O/U 57.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.7, they paid 0.51)",
+   "shares": 11.54,
+   "avg": 0.52,
+   "final": 1,
+   "cost": 6.09,
+   "payout": 11.54,
+   "pnl": 5.45,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1793938555455,
    "question": "UTSA vs. Florida Atlantic: O/U 65.5",
@@ -2366,6 +2311,183 @@
   }
  ],
  "trades": [
+  {
+   "t": 1793945682966,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5)",
+   "outcome": "PARIVISION",
+   "shares": 34.97,
+   "price": 0.57,
+   "fee": 0.43,
+   "amount": -20.36,
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.58)"
+  },
+  {
+   "t": 1793945681245,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "James Madison vs. Southern Miss: O/U 57.5",
+   "outcome": "Under",
+   "shares": 3769.35,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945681205,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "James Madison vs. Southern Miss: O/U 63.5",
+   "outcome": "Under",
+   "shares": 14.4,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945681162,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Jaguars (-17.5)",
+   "outcome": "Ravens",
+   "shares": 3895.59,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945681117,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Jaguars (-16.5)",
+   "outcome": "Ravens",
+   "shares": 3896.35,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945681073,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Jaguars (-13.5)",
+   "outcome": "Ravens",
+   "shares": 3897.1,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945681022,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Jaguars (-20.5)",
+   "outcome": "Ravens",
+   "shares": 3897.85,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945680965,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "James Madison vs. Southern Miss",
+   "outcome": "Southern Miss",
+   "shares": 3898.6,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945680926,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Magic vs. Suns",
+   "outcome": "Suns",
+   "shares": 33.74,
+   "price": 1,
+   "fee": 0,
+   "amount": 33.74
+  },
+  {
+   "t": 1793945680883,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Jaguars (-6.5)",
+   "outcome": "Ravens",
+   "shares": 12.31,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945680839,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Jaguars (-5.5)",
+   "outcome": "Ravens",
+   "shares": 12.99,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1793945680795,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: James Madison (-16.5)",
+   "outcome": "James Madison",
+   "shares": 11.62,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.62
+  },
+  {
+   "t": 1793945680661,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: James Madison (-17.5)",
+   "outcome": "James Madison",
+   "shares": 11.97,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.97
+  },
+  {
+   "t": 1793945680532,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: James Madison (-14.5)",
+   "outcome": "James Madison",
+   "shares": 11.54,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.54
+  },
+  {
+   "t": 1793945680404,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "James Madison vs. Southern Miss: O/U 59.5",
+   "outcome": "Over",
+   "shares": 11.63,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.63
+  },
+  {
+   "t": 1793945680359,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "James Madison vs. Southern Miss: O/U 57.5",
+   "outcome": "Over",
+   "shares": 11.54,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.54
+  },
   {
    "t": 1793938564319,
    "type": "BUY",
@@ -5711,6 +5833,11 @@
    "t": 1793938568831,
    "value": 612.07,
    "cash": 188.19
+  },
+  {
+   "t": 1793945684795,
+   "value": 585.78,
+   "cash": 259.88
   }
  ],
  "follows": {
@@ -5822,12 +5949,76 @@
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793919888,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793830545,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793930868,
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793944992,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793904918,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768
  },
  "log": [
+  {
+   "t": 1793945682966,
+   "msg": "Copied fantasy7788: bought 35.0 PARIVISION on \"Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5)\" for $20.36"
+  },
+  {
+   "t": 1793945681245,
+   "msg": "Settled: Under on \"James Madison vs. Southern Miss: O/U 57.5\" -> lost (-4.01)"
+  },
+  {
+   "t": 1793945681205,
+   "msg": "Settled: Under on \"James Madison vs. Southern Miss: O/U 63.5\" -> lost (-4.41)"
+  },
+  {
+   "t": 1793945681162,
+   "msg": "Settled: Ravens on \"Spread: Jaguars (-17.5)\" -> lost (-4.01)"
+  },
+  {
+   "t": 1793945681117,
+   "msg": "Settled: Ravens on \"Spread: Jaguars (-16.5)\" -> lost (-4.01)"
+  },
+  {
+   "t": 1793945681073,
+   "msg": "Settled: Ravens on \"Spread: Jaguars (-13.5)\" -> lost (-4.01)"
+  },
+  {
+   "t": 1793945681022,
+   "msg": "Settled: Ravens on \"Spread: Jaguars (-20.5)\" -> lost (-4.01)"
+  },
+  {
+   "t": 1793945680965,
+   "msg": "Settled: Southern Miss on \"James Madison vs. Southern Miss\" -> lost (-4.02)"
+  },
+  {
+   "t": 1793945680926,
+   "msg": "Settled: Suns on \"Magic vs. Suns\" -> won (+16.11)"
+  },
+  {
+   "t": 1793945680883,
+   "msg": "Settled: Ravens on \"Spread: Jaguars (-6.5)\" -> lost (-4.52)"
+  },
+  {
+   "t": 1793945680839,
+   "msg": "Settled: Ravens on \"Spread: Jaguars (-5.5)\" -> lost (-4.37)"
+  },
+  {
+   "t": 1793945680795,
+   "msg": "Settled: James Madison on \"Spread: James Madison (-16.5)\" -> won (+6.31)"
+  },
+  {
+   "t": 1793945680661,
+   "msg": "Settled: James Madison on \"Spread: James Madison (-17.5)\" -> won (+6.98)"
+  },
+  {
+   "t": 1793945680532,
+   "msg": "Settled: James Madison on \"Spread: James Madison (-14.5)\" -> won (+6.03)"
+  },
+  {
+   "t": 1793945680404,
+   "msg": "Settled: Over on \"James Madison vs. Southern Miss: O/U 59.5\" -> won (+6.31)"
+  },
+  {
+   "t": 1793945680359,
+   "msg": "Settled: Over on \"James Madison vs. Southern Miss: O/U 57.5\" -> won (+5.45)"
+  },
   {
    "t": 1793938564319,
    "msg": "Copied primm: bought 3769.3 Under on \"James Madison vs. Southern Miss: O/U 57.5\" for $4.01"
@@ -6963,70 +7154,6 @@
   {
    "t": 1793686525801,
    "msg": "Copied Melody626: bought 34.5 Yes on \"Will the Republican Party win the FL-09 House seat?\" for $21.69"
-  },
-  {
-   "t": 1793686525533,
-   "msg": "Copied Melody626: bought 36.1 Yes on \"Will the Republican Party win the FL-07 House seat?\" for $23.81"
-  },
-  {
-   "t": 1793686525248,
-   "msg": "Copied Melody626: bought 36.1 No on \"Will the Democratic Party win the FL-07 House seat?\" for $23.82"
-  },
-  {
-   "t": 1793686524945,
-   "msg": "Copied Melody626: bought 44.8 Yes on \"Will the Democratic Party win the FL-22 House seat?\" for $33.52"
-  },
-  {
-   "t": 1793686524657,
-   "msg": "Copied Melody626: bought 55.7 Yes on \"Will the Democratic Party win the FL-25 House seat?\" for $47.66"
-  },
-  {
-   "t": 1793686524360,
-   "msg": "Copied Melody626: bought 31.7 Yes on \"Will the Republicans win the Iowa Senate race in 2026?\" for $15.83"
-  },
-  {
-   "t": 1793686524061,
-   "msg": "Copied Melody626: bought 40.2 Yes on \"Will the Republicans win the Nebraska Senate race in 2026?\" for $28.45"
-  },
-  {
-   "t": 1793686523882,
-   "msg": "Copied Melody626: bought 40.2 No on \"Will the Democrats win the South Carolina Senate race in 2026?\" for $28.46"
-  },
-  {
-   "t": 1793686523599,
-   "msg": "Copied Melody626: bought 40.2 Yes on \"Will the Republicans win the South Carolina Senate race in 2026?\" for $28.47"
-  },
-  {
-   "t": 1793686523418,
-   "msg": "Copied Melody626: bought 36.2 Yes on \"Will the Republicans win the Florida governor race in 2026?\" for $23.87"
-  },
-  {
-   "t": 1793686523248,
-   "msg": "Copied Melody626: bought 32.0 No on \"Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?\" for $14.72"
-  },
-  {
-   "t": 1793686505176,
-   "msg": "Settled: Seahawks on \"Spread: Bears (-13.5)\" -> lost (-8.55)"
-  },
-  {
-   "t": 1793686505034,
-   "msg": "Settled: Seahawks on \"Spread: Bears (-10.5)\" -> lost (-8.22)"
-  },
-  {
-   "t": 1793686503285,
-   "msg": "Settled: PARIVISION on \"Map Handicap: PRV (-1.5) vs Liquid (+1.5)\" -> won (+4.55)"
-  },
-  {
-   "t": 1793686503089,
-   "msg": "Settled: G2 on \"Map Handicap: AUR (-1.5) vs G2 (+1.5)\" -> won (+2.37)"
-  },
-  {
-   "t": 1793686503036,
-   "msg": "Settled: PARIVISION on \"Counter-Strike: Liquid vs PARIVISION (BO3) - IEM Beijing Group B\" -> won (+2.21)"
-  },
-  {
-   "t": 1793686502873,
-   "msg": "Settled: G2 on \"Counter-Strike: Aurora Gaming vs G2 (BO3) - IEM Beijing Group B\" -> lost (-2.29)"
   }
  ]
 }
