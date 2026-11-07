@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 8.881784197001252e-16,
+ "cash": 0.0971308349847468,
  "created_at": 1793597589071,
- "last_run": 1794032087693,
+ "last_run": 1794053718486,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.776819122127989,
+   "value": 6.13302130552583,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.4588728232353,
+   "value": 46.98955569037506,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.66667963895064,
+   "value": 35.3775880106714,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.65436596267289,
+   "value": 34.9318864092246,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.10553222915242,
+   "value": 34.14047642201016,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.25570798170041,
+   "value": 34.22110625646637,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.6218126207613804,
+   "value": 0.7513569167533347,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.16463426077353116,
+   "value": 0.3704270867404451,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.8031756413624,
+   "value": 28.558562684747862,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 41.2079977847532,
+   "value": 40.69873313653792,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.754279803628016,
+   "value": 37.79280457893784,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.2787783220988935,
+   "value": 0.8640394068235768,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -282,7 +282,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 11.557026367301066,
+   "value": 11.158508216704478,
    "status": null
   },
   "89626773789247912037983660083886610683285575313869108903803481573065804908700": {
@@ -302,7 +302,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 13.000918236111614,
+   "value": 9.896221343905857,
    "status": null
   },
   "59387310897249565885326515388140557369470782529604498795323190823295895370936": {
@@ -322,7 +322,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 8.74118599169781,
+   "value": 9.090833431365722,
    "status": null
   },
   "38178920672917464428695063495108660083216597284226227985778167489470277713122": {
@@ -345,26 +345,6 @@
    "value": 11.00907185036945,
    "status": null
   },
-  "69610271796718695849268661499265815478822572927422337662595853960078961295371": {
-   "token": "69610271796718695849268661499265815478822572927422337662595853960078961295371",
-   "market_id": "6269892",
-   "slug": "cfb-tcu-arz-2026-11-06-total-47pt5",
-   "question": "TCU vs. Arizona: O/U 47.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 10.794936433577963,
-   "cost_ex": 5.181569488117422,
-   "fees": 0.08083248401463178,
-   "opened_at": 1794003277057,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 8.420050418190812,
-   "status": null
-  },
   "10085746475524527101107111967724179018109321159049024112787954072548760401149": {
    "token": "10085746475524527101107111967724179018109321159049024112787954072548760401149",
    "market_id": "6270682",
@@ -382,7 +362,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 4.796638132344561,
+   "value": 4.687623629336731,
    "status": null
   },
   "111173160181408251328463743717555042850179663306511647505935739970411800394347": {
@@ -482,171 +462,265 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 25.09953807062702,
+   "value": 27.030271768367555,
    "status": null
   },
-  "41173471361536594020935639788423838947538990635956059031105519795147287673278": {
-   "token": "41173471361536594020935639788423838947538990635956059031105519795147287673278",
-   "market_id": "2116494",
-   "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
-   "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
-   "outcome": "Yes",
+  "59665940393262428308583542083599602133019486498580222997637832643052365247416": {
+   "token": "59665940393262428308583542083599602133019486498580222997637832643052365247416",
+   "market_id": "6759039",
+   "slug": "dota2-p-nemiga-2026-11-07-game2",
+   "question": "Dota 2: potn9ki vs Nemiga Gaming - Game 2 Winner",
+   "outcome": "potn9ki",
    "idx": 0,
-   "shares": 16.858777490479255,
-   "cost_ex": 7.080686546001287,
-   "fees": 0.16427192786722988,
-   "opened_at": 1794010487398,
+   "shares": 3940.104954672236,
+   "cost_ex": 3.940104954672236,
+   "fees": 0.19680824248587822,
+   "opened_at": 1794053710764,
    "source": "copy",
-   "reason": "Copied Melody626 (edge score 3.9, they paid 0.428129748)",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.3802801426)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 1.970052477336118,
+   "status": null
+  },
+  "2266396752290902003005668288489245174497504855258358965573960786771526884405": {
+   "token": "2266396752290902003005668288489245174497504855258358965573960786771526884405",
+   "market_id": "6758959",
+   "slug": "dota2-xe-pr1-2026-11-07-game2",
+   "question": "Dota 2: Xipto Esports vs Power Rangers - Game 2 Winner",
+   "outcome": "Power Rangers",
+   "idx": 1,
+   "shares": 11.182032565079336,
+   "cost_ex": 5.031914654285702,
+   "fees": 0.13837765299285681,
+   "opened_at": 1794053711033,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.6336317773)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 8.162883772507914,
+   "status": null
+  },
+  "94043347660054695037929073461738546717714237996640644440143205043918743933172": {
+   "token": "94043347660054695037929073461738546717714237996640644440143205043918743933172",
+   "market_id": "6762180",
+   "slug": "dota2-huliga-legion1-2026-11-07-game1",
+   "question": "Dota 2: HULIGANI vs LEGION - Game 1 Winner",
+   "outcome": "HULIGANI",
+   "idx": 0,
+   "shares": 4379.712328379814,
+   "cost_ex": 4.379712328379814,
+   "fees": 0.21876663080257172,
+   "opened_at": 1794053712671,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.5533596829)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.189856164189907,
+   "status": null
+  },
+  "64498676152285312168979258276731201856242098945968459396239643969752598865122": {
+   "token": "64498676152285312168979258276731201856242098945968459396239643969752598865122",
+   "market_id": "6762182",
+   "slug": "dota2-huliga-legion1-2026-11-07",
+   "question": "Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B",
+   "outcome": "HULIGANI",
+   "idx": 0,
+   "shares": 16.510917106114565,
+   "cost_ex": 4.788165960773224,
+   "fees": 0.16997989160744942,
+   "opened_at": 1794053712923,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.529999998)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 5.283493473956661,
+   "status": null
+  },
+  "82861427431819494839402015892905540885117749377621991471323676604025167472182": {
+   "token": "82861427431819494839402015892905540885117749377621991471323676604025167472182",
+   "market_id": "6762181",
+   "slug": "dota2-huliga-legion1-2026-11-07-game2",
+   "question": "Dota 2: HULIGANI vs LEGION - Game 2 Winner",
+   "outcome": "HULIGANI",
+   "idx": 0,
+   "shares": 12.941554990782327,
+   "cost_ex": 6.082530845667693,
+   "fees": 0.1611870674101939,
+   "opened_at": 1794053714456,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.5292622613)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 5.435453096128577,
+   "status": null
+  },
+  "109528281960787366259167519549419015523883006138549082473738768120949458572608": {
+   "token": "109528281960787366259167519549419015523883006138549082473738768120949458572608",
+   "market_id": "2116493",
+   "slug": "will-national-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+   "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "outcome": "No",
+   "idx": 1,
+   "shares": 383.3215157606986,
+   "cost_ex": 4.246452736410479,
+   "fees": 0.16791357301457288,
+   "opened_at": 1794053715001,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.35)",
    "fee": {
     "rate": 0.04,
     "exp": 1
    },
-   "value": 5.226221022048569,
-   "status": null
-  },
-  "1698711269653176387245925741833479168080393603107998769500307707426112167262": {
-   "token": "1698711269653176387245925741833479168080393603107998769500307707426112167262",
-   "market_id": "6269880",
-   "slug": "cfb-tcu-arz-2026-11-06-spread-home-10pt5",
-   "question": "Spread: Arizona (-10.5)",
-   "outcome": "Arizona",
-   "idx": 0,
-   "shares": 9.605942413886089,
-   "cost_ex": 4.464792934526462,
-   "fees": 0.07168020765897075,
-   "opened_at": 1794024883037,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.5)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.6724159689720263,
-   "status": null
-  },
-  "83961019964354550066632635408174088187270302611937627737943308120183008340300": {
-   "token": "83961019964354550066632635408174088187270302611937627737943308120183008340300",
-   "market_id": "6269879",
-   "slug": "cfb-tcu-arz-2026-11-06-spread-home-8pt5",
-   "question": "Spread: Arizona (-8.5)",
-   "outcome": "TCU",
-   "idx": 1,
-   "shares": 9.648241391416391,
-   "cost_ex": 4.92060310962236,
-   "fees": 0.07233286571144869,
-   "opened_at": 1794024884248,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 8.297487596618096,
-   "status": null
-  },
-  "37080228385124258696670056614122612070625412511685030705944923707312500253867": {
-   "token": "37080228385124258696670056614122612070625412511685030705944923707312500253867",
-   "market_id": "6269872",
-   "slug": "cfb-tcu-arz-2026-11-06-spread-home-1pt5",
-   "question": "Spread: Arizona (-1.5)",
-   "outcome": "TCU",
-   "idx": 1,
-   "shares": 9.078736713508315,
-   "cost_ex": 4.63015572388924,
-   "fees": 0.06806328914117184,
-   "opened_at": 1794032082945,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.52)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 4.539368356754157,
-   "status": null
-  },
-  "19822406988091866460553918987552994353808710452432277238263500263795434070938": {
-   "token": "19822406988091866460553918987552994353808710452432277238263500263795434070938",
-   "market_id": "6269869",
-   "slug": "cfb-tcu-arz-2026-11-06-spread-away-1pt5",
-   "question": "Spread: TCU (-1.5)",
-   "outcome": "TCU",
-   "idx": 0,
-   "shares": 9.646469734433094,
-   "cost_ex": 3.762123196428907,
-   "fees": 0.06884685449464899,
-   "opened_at": 1794032083362,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.45)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 3.5691938017402447,
-   "status": null
-  },
-  "71289367562928740850776763403548413233968627730181072554291271067614564866140": {
-   "token": "71289367562928740850776763403548413233968627730181072554291271067614564866140",
-   "market_id": "6269897",
-   "slug": "cfb-tcu-arz-2026-11-06-total-57pt5",
-   "question": "TCU vs. Arizona: O/U 57.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 9.12516808825466,
-   "cost_ex": 4.197577320597144,
-   "fees": 0.06800075259367375,
-   "opened_at": 1794032083627,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.45)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 3.193808830889131,
-   "status": null
-  },
-  "17765609274840365086039221856662638507466192611753000182282457035865895767253": {
-   "token": "17765609274840365086039221856662638507466192611753000182282457035865895767253",
-   "market_id": "6745828",
-   "slug": "cs2-mglz-navi-2026-11-07",
-   "question": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
-   "outcome": "Natus Vincere",
-   "idx": 1,
-   "shares": 32.5402755244946,
-   "cost_ex": 22.778192867146217,
-   "fees": 0.34167289300719333,
-   "opened_at": 1794032084620,
-   "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.7367847834)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 22.778192867146217,
-   "status": null
-  },
-  "79920856752281168471164673926619670662490258278856565880391813611223687540153": {
-   "token": "79920856752281168471164673926619670662490258278856565880391813611223687540153",
-   "market_id": "6745830",
-   "slug": "cs2-mglz-navi-2026-11-07-map-handicap-home-1pt5",
-   "question": "Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)",
-   "outcome": "Natus Vincere",
-   "idx": 0,
-   "shares": 14.501024627892866,
-   "cost_ex": 6.525461082551789,
-   "fees": 0.17945017977017425,
-   "opened_at": 1794032084783,
-   "source": "copy",
-   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.437272643)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 5.945420097436075,
+   "value": 3.8332151576069897,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794053715378,
+   "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "outcome": "Yes",
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 3.9, they paid 0.428129748)",
+   "shares": 16.86,
+   "avg": 0.42,
+   "final": null,
+   "cost": 7.24,
+   "payout": 0.1,
+   "pnl": -7.15,
+   "result": "sold"
+  },
+  {
+   "t": 1794053708194,
+   "question": "Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.437272643)",
+   "shares": 14.5,
+   "avg": 0.44999999999999996,
+   "final": 0,
+   "cost": 6.7,
+   "payout": 0,
+   "pnl": -6.7,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794053708152,
+   "question": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+   "outcome": "Natus Vincere",
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.7367847834)",
+   "shares": 32.54,
+   "avg": 0.7,
+   "final": 0,
+   "cost": 23.12,
+   "payout": 0,
+   "pnl": -23.12,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794053708110,
+   "question": "TCU vs. Arizona: O/U 57.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.45)",
+   "shares": 9.13,
+   "avg": 0.46,
+   "final": 0,
+   "cost": 4.27,
+   "payout": 0,
+   "pnl": -4.27,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794053707985,
+   "question": "Spread: TCU (-1.5)",
+   "outcome": "TCU",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.45)",
+   "shares": 9.65,
+   "avg": 0.39,
+   "final": 0,
+   "cost": 3.83,
+   "payout": 0,
+   "pnl": -3.83,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794053707843,
+   "question": "Spread: Arizona (-1.5)",
+   "outcome": "TCU",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.52)",
+   "shares": 9.08,
+   "avg": 0.51,
+   "final": 1,
+   "cost": 4.7,
+   "payout": 9.08,
+   "pnl": 4.38,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794053707721,
+   "question": "Spread: Arizona (-8.5)",
+   "outcome": "TCU",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
+   "shares": 9.65,
+   "avg": 0.51,
+   "final": 1,
+   "cost": 4.99,
+   "payout": 9.65,
+   "pnl": 4.66,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794053707596,
+   "question": "Spread: Arizona (-10.5)",
+   "outcome": "Arizona",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.5)",
+   "shares": 9.61,
+   "avg": 0.4647948886381287,
+   "final": 0,
+   "cost": 4.54,
+   "payout": 0,
+   "pnl": -4.54,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794053707112,
+   "question": "TCU vs. Arizona: O/U 47.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
+   "shares": 10.79,
+   "avg": 0.48,
+   "final": 1,
+   "cost": 5.26,
+   "payout": 10.79,
+   "pnl": 5.53,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1794032074441,
    "question": "Spread: New Mexico (-16.5)",
@@ -3299,6 +3373,178 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794053715378,
+   "type": "SELL",
+   "source": "copy",
+   "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "outcome": "Yes",
+   "shares": 16.86,
+   "price": 0.006,
+   "fee": 0,
+   "amount": 0.1,
+   "reason": "Melody626 sold"
+  },
+  {
+   "t": 1794053715001,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "outcome": "No",
+   "shares": 383.32,
+   "price": 0.01107804430957502,
+   "fee": 0.17,
+   "amount": -4.41,
+   "reason": "Copied Melody626 (edge score 4.0, they paid 0.35)"
+  },
+  {
+   "t": 1794053714456,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: HULIGANI vs LEGION - Game 2 Winner",
+   "outcome": "HULIGANI",
+   "shares": 12.94,
+   "price": 0.47,
+   "fee": 0.16,
+   "amount": -6.24,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.5292622613)"
+  },
+  {
+   "t": 1794053712923,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B",
+   "outcome": "HULIGANI",
+   "shares": 16.51,
+   "price": 0.29,
+   "fee": 0.17,
+   "amount": -4.96,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.529999998)"
+  },
+  {
+   "t": 1794053712671,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: HULIGANI vs LEGION - Game 1 Winner",
+   "outcome": "HULIGANI",
+   "shares": 4379.71,
+   "price": 0.001,
+   "fee": 0.22,
+   "amount": -4.6,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.5533596829)"
+  },
+  {
+   "t": 1794053711033,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Xipto Esports vs Power Rangers - Game 2 Winner",
+   "outcome": "Power Rangers",
+   "shares": 11.18,
+   "price": 0.45000000000000007,
+   "fee": 0.14,
+   "amount": -5.17,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.6336317773)"
+  },
+  {
+   "t": 1794053710764,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: potn9ki vs Nemiga Gaming - Game 2 Winner",
+   "outcome": "potn9ki",
+   "shares": 3940.1,
+   "price": 0.001,
+   "fee": 0.2,
+   "amount": -4.14,
+   "reason": "Copied Sisyphus- (edge score 6.5, they paid 0.3802801426)"
+  },
+  {
+   "t": 1794053708194,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)",
+   "outcome": "Natus Vincere",
+   "shares": 14.5,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794053708152,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+   "outcome": "Natus Vincere",
+   "shares": 32.54,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794053708111,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "TCU vs. Arizona: O/U 57.5",
+   "outcome": "Over",
+   "shares": 9.13,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794053707985,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: TCU (-1.5)",
+   "outcome": "TCU",
+   "shares": 9.65,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794053707843,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Arizona (-1.5)",
+   "outcome": "TCU",
+   "shares": 9.08,
+   "price": 1,
+   "fee": 0,
+   "amount": 9.08
+  },
+  {
+   "t": 1794053707721,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Arizona (-8.5)",
+   "outcome": "TCU",
+   "shares": 9.65,
+   "price": 1,
+   "fee": 0,
+   "amount": 9.65
+  },
+  {
+   "t": 1794053707596,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Arizona (-10.5)",
+   "outcome": "Arizona",
+   "shares": 9.61,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794053707112,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "TCU vs. Arizona: O/U 47.5",
+   "outcome": "Over",
+   "shares": 10.79,
+   "price": 1,
+   "fee": 0,
+   "amount": 10.79
+  },
   {
    "t": 1794032084783,
    "type": "BUY",
@@ -8070,6 +8316,11 @@
    "t": 1794032087693,
    "value": 474.9,
    "cash": 0
+  },
+  {
+   "t": 1794053718486,
+   "value": 435.98,
+   "cash": 0.1
   }
  ],
  "follows": {
@@ -8183,20 +8434,104 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794031722,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794034953,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793982844,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793992971,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794053665,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794053596,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1794006964,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
-  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794005605,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794031867,
-  "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793904918,
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794042981,
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794051409,
+  "0xc8b9a30184244d427169cf62485dde6041b2b836": 1794052054,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768,
-  "0x79ae097215202b5d01f98e4479fb219102469a4a": 1793999687
+  "0x79ae097215202b5d01f98e4479fb219102469a4a": 1794032811
  },
  "log": [
+  {
+   "t": 1794053716037,
+   "msg": "Skipped copying 0xc8b9a30184244d427169cf62485dde6041b2b836 on \"Will Keisha Lance Bottoms run 3 to 6 points behind Jon Ossoff?\": price moved from 0.9179645447 to 0.996"
+  },
+  {
+   "t": 1794053715378,
+   "msg": "Copied a sell from Melody626: Yes on \"Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?\""
+  },
+  {
+   "t": 1794053715001,
+   "msg": "Copied Melody626: bought 383.3 No on \"Will National Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?\" for $4.41"
+  },
+  {
+   "t": 1794053714456,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 12.9 HULIGANI on \"Dota 2: HULIGANI vs LEGION - Game 2 Winner\" for $6.24"
+  },
+  {
+   "t": 1794053714295,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: potn9ki vs Team Synapse (BO3) - DreamLeague Division 2 Group A\": price moved from 0.7984031936 to 0.84"
+  },
+  {
+   "t": 1794053714042,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Xipto Esports vs Power Rangers - Game 2 Winner\": price moved from 0.3560830852 to 0.56"
+  },
+  {
+   "t": 1794053712923,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 16.5 HULIGANI on \"Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B\" for $4.96"
+  },
+  {
+   "t": 1794053712671,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 4379.7 HULIGANI on \"Dota 2: HULIGANI vs LEGION - Game 1 Winner\" for $4.60"
+  },
+  {
+   "t": 1794053712114,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Xipto Esports vs Power Rangers (BO3) - DreamLeague Division 2 Group A\": price moved from 0.5124884545 to 0.76"
+  },
+  {
+   "t": 1794053711456,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: HULIGANI vs LEGION - Game 2 Winner\": price moved from 0.4299999991 to 0.54"
+  },
+  {
+   "t": 1794053711295,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: Inner Circle vs Spirit Academy - Game 2 Winner\": price moved from 0.5358593694 to 0.92"
+  },
+  {
+   "t": 1794053711033,
+   "msg": "Copied Sisyphus-: bought 11.2 Power Rangers on \"Dota 2: Xipto Esports vs Power Rangers - Game 2 Winner\" for $5.17"
+  },
+  {
+   "t": 1794053710764,
+   "msg": "Copied Sisyphus-: bought 3940.1 potn9ki on \"Dota 2: potn9ki vs Nemiga Gaming - Game 2 Winner\" for $4.14"
+  },
+  {
+   "t": 1794053708194,
+   "msg": "Settled: Natus Vincere on \"Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)\" -> lost (-6.70)"
+  },
+  {
+   "t": 1794053708152,
+   "msg": "Settled: Natus Vincere on \"Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs\" -> lost (-23.12)"
+  },
+  {
+   "t": 1794053708111,
+   "msg": "Settled: Over on \"TCU vs. Arizona: O/U 57.5\" -> lost (-4.27)"
+  },
+  {
+   "t": 1794053707985,
+   "msg": "Settled: TCU on \"Spread: TCU (-1.5)\" -> lost (-3.83)"
+  },
+  {
+   "t": 1794053707843,
+   "msg": "Settled: TCU on \"Spread: Arizona (-1.5)\" -> won (+4.38)"
+  },
+  {
+   "t": 1794053707721,
+   "msg": "Settled: TCU on \"Spread: Arizona (-8.5)\" -> won (+4.66)"
+  },
+  {
+   "t": 1794053707596,
+   "msg": "Settled: Arizona on \"Spread: Arizona (-10.5)\" -> lost (-4.54)"
+  },
+  {
+   "t": 1794053707113,
+   "msg": "Settled: Over on \"TCU vs. Arizona: O/U 47.5\" -> won (+5.53)"
+  },
   {
    "t": 1794032084783,
    "msg": "Copied fantasy7788: bought 14.5 Natus Vincere on \"Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)\" for $6.70"
@@ -9312,90 +9647,6 @@
   {
    "t": 1793837680359,
    "msg": "Settled: Team Lynx on \"Dota 2: Team Allied vs Team Lynx - Game 2 Winner\" -> won (+7.40)"
-  },
-  {
-   "t": 1793837680157,
-   "msg": "Settled: HULIGANI on \"Dota 2: GamerLegion vs HULIGANI (BO3) - EPL Masters Playoffs\" -> lost (-7.46)"
-  },
-  {
-   "t": 1793837679995,
-   "msg": "Settled: Low Cortisol on \"Counter-Strike: BORRACHEIROS vs Low Cortisol (BO3) - CCT South America Group Stage\" -> won (+1.16)"
-  },
-  {
-   "t": 1793830497949,
-   "msg": "Skipped copying Melody626 on \"Will the Democratic Party candidate win the first round of the 2026 Georgia Senate election by 18% or more?\": price moved from 0.8161293112 to 0.888"
-  },
-  {
-   "t": 1793830497670,
-   "msg": "Skipped copying Melody626 on \"Will the Republican Party win the AZ-02 House seat?\": price moved from 0.63 to 0.79"
-  },
-  {
-   "t": 1793830497408,
-   "msg": "Copied Melody626: bought 38.5 Yes on \"Will the Republican Party hold exactly 44 Senate seats after the 2026 midterm elections?\" for $35.03"
-  },
-  {
-   "t": 1793830496685,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 6940.0 HULIGANI on \"Dota 2: GamerLegion vs HULIGANI - Game 2 Winner\" for $7.29"
-  },
-  {
-   "t": 1793830496245,
-   "msg": "Copied Sisyphus-: bought 19.1 Team Lynx on \"Dota 2: Team Allied vs Team Lynx - Game 2 Winner\" for $11.67"
-  },
-  {
-   "t": 1793830495624,
-   "msg": "Copied primm: bought 14.8 Ball State on \"Spread: UMass (-1.5)\" for $7.22"
-  },
-  {
-   "t": 1793830495352,
-   "msg": "Copied primm: bought 15.0 Ball State on \"Ball State vs. UMass\" for $6.72"
-  },
-  {
-   "t": 1793830494187,
-   "msg": "Settled: HULIGANI on \"Dota 2: GamerLegion vs HULIGANI - Game 1 Winner\" -> lost (-7.46)"
-  },
-  {
-   "t": 1793823286601,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: GamerLegion vs HULIGANI - Game 2 Winner\": price moved from 0.3130654133 to 0.36"
-  },
-  {
-   "t": 1793823286410,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 53.2 HULIGANI on \"Dota 2: GamerLegion vs HULIGANI (BO3) - EPL Masters Playoffs\" for $7.46"
-  },
-  {
-   "t": 1793823286136,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 7105.7 HULIGANI on \"Dota 2: GamerLegion vs HULIGANI - Game 1 Winner\" for $7.46"
-  },
-  {
-   "t": 1793823285798,
-   "msg": "Skipped copying Sisyphus- on \"Dota 2: Spirit Academy vs Xipto Esports (BO3) - Asgard Championship Group A\": price moved from 0.5787358034 to 0.999"
-  },
-  {
-   "t": 1793823284233,
-   "msg": "Settled: CyberHero on \"Dota 2: CyberHero vs HULIGANI - Game 1 Winner\" -> lost (-7.70)"
-  },
-  {
-   "t": 1793823284195,
-   "msg": "Settled: CyberHero on \"Dota 2: CyberHero vs HULIGANI (BO3) - EPL Masters Playoffs\" -> lost (-8.06)"
-  },
-  {
-   "t": 1793816101918,
-   "msg": "Copied fantasy7788: bought 38.4 LYON on \"Game Handicap: GEN (-2.5) vs LYON (+2.5)\" for $18.16"
-  },
-  {
-   "t": 1793816100703,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: CyberHero vs HULIGANI - Game 2 Winner\": price moved from 0.3813449934 to 0.54"
-  },
-  {
-   "t": 1793816100507,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 7335.9 CyberHero on \"Dota 2: CyberHero vs HULIGANI - Game 1 Winner\" for $7.70"
-  },
-  {
-   "t": 1793816100195,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 31.1 CyberHero on \"Dota 2: CyberHero vs HULIGANI (BO3) - EPL Masters Playoffs\" for $8.06"
-  },
-  {
-   "t": 1793816099735,
-   "msg": "Skipped copying Sisyphus- on \"Dota 2: CyberHero vs HULIGANI - Game 2 Winner\": price moved from 0.4399073878 to 0.54"
   }
  ]
 }
