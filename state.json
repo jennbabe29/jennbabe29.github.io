@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 123.50083275829488,
+ "cash": 82.71629165216052,
  "created_at": 1793597589071,
- "last_run": 1794003281551,
+ "last_run": 1794010490181,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 8.403255711438707,
+   "value": 7.556153321172708,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.08604348440047,
+   "value": 47.03779958738777,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.79886187336255,
+   "value": 35.76273789569014,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.175420614867896,
+   "value": 34.14047642201016,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.21699392128145317,
+   "value": 0.27124240160181645,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.7408541734808902,
+   "value": 0.6996956082875075,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 27.02973170590697,
+   "value": 26.999155086330152,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.44410081243028,
+   "value": 40.486539533114886,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.638705477698544,
+   "value": 37.71575502831819,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 3.352472898475478,
+   "value": 3.006857135746047,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -302,7 +302,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 9.508134232380137,
+   "value": 11.448569790008738,
    "status": null
   },
   "59387310897249565885326515388140557369470782529604498795323190823295895370936": {
@@ -322,7 +322,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.797179517343299,
+   "value": 3.67129811651308,
    "status": null
   },
   "27855636387609710400457360854254448868285405901885851941809506350743692891922": {
@@ -342,7 +342,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 25.316176370407867,
+   "value": 10.68026190626582,
    "status": null
   },
   "28356420396463002328643673867442768215753749612423927000792961464491086909970": {
@@ -362,7 +362,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 12.404277063906143,
+   "value": 2.9186534268014444,
    "status": null
   },
   "26660158252778151728418762173367017636491922052161878826809972643916748786508": {
@@ -382,7 +382,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 9.574640394084621,
+   "value": 1.6755620689648087,
    "status": null
   },
   "21906499568079522312473391313028656439035030692493809627229268334337222357895": {
@@ -402,7 +402,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 7.216426723942049,
+   "value": 6.979822569058703,
    "status": null
   },
   "38178920672917464428695063495108660083216597284226227985778167489470277713122": {
@@ -542,7 +542,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 15.472637260639566,
+   "value": 15.276781092783368,
    "status": null
   },
   "67713907520570448705655246276941528327785776657500131434081553142195154969107": {
@@ -562,7 +562,67 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 4.9728717938482525,
+   "value": 4.864765885286334,
+   "status": null
+  },
+  "9007008749523798079806179336618701769096094992253827456039582157924822610287": {
+   "token": "9007008749523798079806179336618701769096094992253827456039582157924822610287",
+   "market_id": "6501425",
+   "slug": "lol-kc-t1-2026-11-04-game2",
+   "question": "LoL: Karmine Corp vs T1 - Game 2 Winner",
+   "outcome": "Karmine Corp",
+   "idx": 0,
+   "shares": 7153.308347686798,
+   "cost_ex": 7.153308347686798,
+   "fees": 0.35730775196695563,
+   "opened_at": 1794010486454,
+   "source": "copy",
+   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.3103627624)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 3.576654173843399,
+   "status": null
+  },
+  "35361058112082904676371329644899882002386761984006083679612956720260839073182": {
+   "token": "35361058112082904676371329644899882002386761984006083679612956720260839073182",
+   "market_id": "1395451",
+   "slug": "will-the-democratic-party-win-the-popular-vote-in-the-2026-us-house-of-representatives-midterm-elections-by-between-14-and-16-843",
+   "question": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?",
+   "outcome": "Yes",
+   "idx": 0,
+   "shares": 31.65137209410721,
+   "cost_ex": 25.839171000885592,
+   "fees": 0.18979553172648259,
+   "opened_at": 1794010487020,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 3.9, they paid 0.7935)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 24.65641886130952,
+   "status": null
+  },
+  "41173471361536594020935639788423838947538990635956059031105519795147287673278": {
+   "token": "41173471361536594020935639788423838947538990635956059031105519795147287673278",
+   "market_id": "2116494",
+   "slug": "will-labour-party-win-the-most-seats-in-the-new-zealand-house-of-representatives-in-the-2026-new-zealand-legislative-election",
+   "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "outcome": "Yes",
+   "idx": 0,
+   "shares": 16.858777490479255,
+   "cost_ex": 7.080686546001287,
+   "fees": 0.16427192786722988,
+   "opened_at": 1794010487398,
+   "source": "copy",
+   "reason": "Copied Melody626 (edge score 3.9, they paid 0.428129748)",
+   "fee": {
+    "rate": 0.04,
+    "exp": 1
+   },
+   "value": 6.743510996191702,
    "status": null
   }
  },
@@ -2680,6 +2740,42 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794010487398,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?",
+   "outcome": "Yes",
+   "shares": 16.86,
+   "price": 0.42,
+   "fee": 0.16,
+   "amount": -7.24,
+   "reason": "Copied Melody626 (edge score 3.9, they paid 0.428129748)"
+  },
+  {
+   "t": 1794010487020,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?",
+   "outcome": "Yes",
+   "shares": 31.65,
+   "price": 0.8163681158611218,
+   "fee": 0.19,
+   "amount": -26.03,
+   "reason": "Copied Melody626 (edge score 3.9, they paid 0.7935)"
+  },
+  {
+   "t": 1794010486454,
+   "type": "BUY",
+   "source": "copy",
+   "question": "LoL: Karmine Corp vs T1 - Game 2 Winner",
+   "outcome": "Karmine Corp",
+   "shares": 7153.31,
+   "price": 0.001,
+   "fee": 0.36,
+   "amount": -7.51,
+   "reason": "Copied BrotherObama (edge score 3.8, they paid 0.3103627624)"
+  },
   {
    "t": 1794003278348,
    "type": "BUY",
@@ -6554,6 +6650,11 @@
    "t": 1794003281551,
    "value": 566.39,
    "cash": 123.5
+  },
+  {
+   "t": 1794010490181,
+   "value": 529.62,
+   "cash": 82.72
   }
  ],
  "follows": {
@@ -6655,22 +6756,60 @@
    "expected_win_rate": 0.5392170731707319,
    "edge_score": 3.465575078771695,
    "updated_at": 1793938560906
+  },
+  "0x79ae097215202b5d01f98e4479fb219102469a4a": {
+   "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+   "name": "CORGII",
+   "clean_bets": 921,
+   "win_rate": 0.46145494028230183,
+   "expected_win_rate": 0.4042453854505967,
+   "edge_score": 3.0486498991101585,
+   "updated_at": 1794010483925
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794001986,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794010170,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793982844,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793992971,
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1793919888,
+  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1794006964,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
-  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1793991441,
+  "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794005605,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1793980318,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793904918,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
-  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768
+  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768,
+  "0x79ae097215202b5d01f98e4479fb219102469a4a": 1793999687
  },
  "log": [
+  {
+   "t": 1794010487398,
+   "msg": "Copied Melody626: bought 16.9 Yes on \"Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?\" for $7.24"
+  },
+  {
+   "t": 1794010487020,
+   "msg": "Copied Melody626: bought 31.7 Yes on \"Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?\" for $26.03"
+  },
+  {
+   "t": 1794010486454,
+   "msg": "Copied BrotherObama: bought 7153.3 Karmine Corp on \"LoL: Karmine Corp vs T1 - Game 2 Winner\" for $7.51"
+  },
+  {
+   "t": 1794010485560,
+   "msg": "Skipped copying primm on \"Spread: SMU (-4.5)\": price moved from 0.56 to 0.72"
+  },
+  {
+   "t": 1794010485176,
+   "msg": "Skipped copying primm on \"Spread: SMU (-7.5)\": price moved from 0.45 to 0.58"
+  },
+  {
+   "t": 1794010484848,
+   "msg": "Skipped copying primm on \"Spread: SMU (-6.5)\": price moved from 0.4625641026 to 0.69"
+  },
+  {
+   "t": 1794010484573,
+   "msg": "Skipped copying primm on \"Virginia Tech vs. SMU\": price moved from 0.66 to 0.77"
+  },
   {
    "t": 1794003278348,
    "msg": "Copied primm: bought 10.8 Wisconsin on \"Spread: Wisconsin (-20.5)\" for $5.16"
@@ -7842,34 +7981,6 @@
   {
    "t": 1793722556914,
    "msg": "Copied 0xE16D3F2A...5e30: bought 27.1 Nemiga Gaming on \"Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs\" for $14.42"
-  },
-  {
-   "t": 1793722556690,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 34.6 Nemiga Gaming on \"Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner\" for $10.27"
-  },
-  {
-   "t": 1793722556474,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner\": price moved from 0.6099695013 to 0.77"
-  },
-  {
-   "t": 1793722556281,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Nemiga Gaming vs CyberHero (BO3) - EPL Masters Playoffs\": price moved from 0.4259318397 to 0.5"
-  },
-  {
-   "t": 1793722555777,
-   "msg": "Copied Sisyphus-: bought 35.5 Xipto Esports on \"Dota 2: Xipto Esports vs PuckChamp (BO3) - Asgard Championship Group A\" for $27.08"
-  },
-  {
-   "t": 1793722555464,
-   "msg": "Skipped copying Sisyphus- on \"Dota 2: Nemiga Gaming vs CyberHero - Game 2 Winner\": price moved from 0.6151975319 to 0.75"
-  },
-  {
-   "t": 1793722553750,
-   "msg": "Settled: Xipto Esports on \"Dota 2: Xipto Esports vs PuckChamp - Game 1 Winner\" -> lost (-8.64)"
-  },
-  {
-   "t": 1793715478528,
-   "msg": "Copied 0xC9BFc798...81c0: bought 7.3 QUINTESSÊNCIA on \"Counter-Strike: QUINTESSÊNCIA vs RED Canids Academy (BO3) - CCT South America Group Stage\" for $2.28"
   }
  ]
 }
