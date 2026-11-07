@@ -3,7 +3,7 @@
  "start_cash": 1000,
  "cash": 0,
  "created_at": 1793597589071,
- "last_run": 1794060954550,
+ "last_run": 1794068105232,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.23467359235775,
+   "value": 6.03136901869391,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 46.79658010232424,
+   "value": 46.50711672024801,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -62,7 +62,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.3775880106714,
+   "value": 35.48599737127612,
    "status": null
   },
   "28134558928888227948813381987057565018866784201189850460618625875753502909061": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.00413436456943,
+   "value": 35.14863027525909,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.3254908819221798,
+   "value": 0.37973936224254307,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -142,7 +142,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.22110625646637,
+   "value": 34.25570798170041,
    "status": null
   },
   "72631869289729589290602076682426975009448793228712713628771328138189805964290": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.711445782631948,
+   "value": 28.038760151941958,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.78361057790713,
+   "value": 41.50506882954545,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.0022857119153492,
+   "value": 0.6566699491859184,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -322,7 +322,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 8.916009711531766,
+   "value": 8.74118599169781,
    "status": null
   },
   "38178920672917464428695063495108660083216597284226227985778167489470277713122": {
@@ -342,7 +342,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 11.161975626069026,
+   "value": 11.00907185036945,
    "status": null
   },
   "10085746475524527101107111967724179018109321159049024112787954072548760401149": {
@@ -362,7 +362,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 4.687623629336731,
+   "value": 4.5786091263288995,
    "status": null
   },
   "111173160181408251328463743717555042850179663306511647505935739970411800394347": {
@@ -402,7 +402,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.516236964164818,
+   "value": 5.624398473266089,
    "status": null
   },
   "86594254211980742087295075050208295066561951985569877568778469644916214884731": {
@@ -422,7 +422,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 15.472637260639566,
+   "value": 15.276781092783368,
    "status": null
   },
   "67713907520570448705655246276941528327785776657500131434081553142195154969107": {
@@ -465,26 +465,6 @@
    "value": 27.378436861402736,
    "status": null
   },
-  "64498676152285312168979258276731201856242098945968459396239643969752598865122": {
-   "token": "64498676152285312168979258276731201856242098945968459396239643969752598865122",
-   "market_id": "6762182",
-   "slug": "dota2-huliga-legion1-2026-11-07",
-   "question": "Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B",
-   "outcome": "HULIGANI",
-   "idx": 0,
-   "shares": 16.510917106114565,
-   "cost_ex": 4.788165960773224,
-   "fees": 0.16997989160744942,
-   "opened_at": 1794053712923,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.529999998)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.008255458553057283,
-   "status": null
-  },
   "109528281960787366259167519549419015523883006138549082473738768120949458572608": {
    "token": "109528281960787366259167519549419015523883006138549082473738768120949458572608",
    "market_id": "2116493",
@@ -522,7 +502,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 3.5206931759766382,
+   "value": 3.3676195596298277,
    "status": null
   },
   "93458381401520979030451358978530077962282550236515445750109001244718242838087": {
@@ -542,7 +522,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 3.660991790503508,
+   "value": 3.813533115107821,
    "status": null
   },
   "56591927166930347591557246992008221211882570058716071321828713579630744934357": {
@@ -562,31 +542,41 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 3.9029408677241526,
-   "status": null
-  },
-  "61039020835011005340722750797073634805595347923856711642502880329508255947303": {
-   "token": "61039020835011005340722750797073634805595347923856711642502880329508255947303",
-   "market_id": "6759098",
-   "slug": "dota2-p-synaps-2026-11-07-game1",
-   "question": "Dota 2: potn9ki vs Team Synapse - Game 1 Winner",
-   "outcome": "Team Synapse",
-   "idx": 1,
-   "shares": 1479.159808728525,
-   "cost_ex": 1.479159808728525,
-   "fees": 0.07388403244598983,
-   "opened_at": 1794060950209,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.7870136898)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 310.62355983299017,
+   "value": 3.826412615415836,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794068092039,
+   "question": "Dota 2: potn9ki vs Team Synapse - Game 1 Winner",
+   "outcome": "Team Synapse",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.7870136898)",
+   "shares": 1479.16,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 1.55,
+   "payout": 0,
+   "pnl": -1.55,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794068091750,
+   "question": "Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B",
+   "outcome": "HULIGANI",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.0, they paid 0.529999998)",
+   "shares": 16.51,
+   "avg": 0.29,
+   "final": 0,
+   "cost": 4.96,
+   "payout": 0,
+   "pnl": -4.96,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1794060930572,
    "question": "Dota 2: HULIGANI vs LEGION - Game 2 Winner",
@@ -3433,6 +3423,28 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794068092039,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: potn9ki vs Team Synapse - Game 1 Winner",
+   "outcome": "Team Synapse",
+   "shares": 1479.16,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794068091750,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B",
+   "outcome": "HULIGANI",
+   "shares": 16.51,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1794060950209,
    "type": "BUY",
@@ -8478,6 +8490,11 @@
    "t": 1794060954550,
    "value": 735.53,
    "cash": 0
+  },
+  {
+   "t": 1794068105232,
+   "value": 423.85,
+   "cash": 0
   }
  ],
  "follows": {
@@ -8591,20 +8608,40 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794060892,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794064113,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794058440,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794060928,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794067435,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794067387,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1794006964,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794042981,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794051409,
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794064806,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1794052054,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768,
   "0x79ae097215202b5d01f98e4479fb219102469a4a": 1794032811
  },
  "log": [
+  {
+   "t": 1794068102088,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: potn9ki vs Team Synapse (BO3) - DreamLeague Division 2 Group A\": price moved from 0.7054710926 to 0.97"
+  },
+  {
+   "t": 1794068101750,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Xipto Esports vs PlayTime (BO3) - DreamLeague Division 2 Group A\": price moved from 0.24 to 0.52"
+  },
+  {
+   "t": 1794068100705,
+   "msg": "Skipped copying Sisyphus- on \"Dota 2: potn9ki vs Team Synapse (BO3) - DreamLeague Division 2 Group A\": price moved from 0.7687732022 to 0.97"
+  },
+  {
+   "t": 1794068092039,
+   "msg": "Settled: Team Synapse on \"Dota 2: potn9ki vs Team Synapse - Game 1 Winner\" -> lost (-1.55)"
+  },
+  {
+   "t": 1794068091751,
+   "msg": "Settled: HULIGANI on \"Dota 2: HULIGANI vs LEGION (BO3) - 1win Essence Play-in Group B\" -> lost (-4.96)"
+  },
   {
    "t": 1794060951448,
    "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: potn9ki vs Team Synapse - Game 2 Winner\": price moved from 0.689999999 to 0.73"
@@ -9784,26 +9821,6 @@
   {
    "t": 1793844886001,
    "msg": "Copied primm: bought 267.9 Toledo on \"Spread: Toledo (-30.5)\" for $4.78"
-  },
-  {
-   "t": 1793844885796,
-   "msg": "Copied primm: bought 240.0 Toledo on \"Spread: Toledo (-27.5)\" for $4.78"
-  },
-  {
-   "t": 1793844885625,
-   "msg": "Copied primm: bought 17.0 Ball State on \"Spread: Ball State (-4.5)\" for $5.54"
-  },
-  {
-   "t": 1793844885336,
-   "msg": "Copied primm: bought 162.7 Toledo on \"Spread: Toledo (-26.5)\" for $4.75"
-  },
-  {
-   "t": 1793844885154,
-   "msg": "Copied primm: bought 16.6 Ball State on \"Spread: Ball State (-3.5)\" for $5.60"
-  },
-  {
-   "t": 1793844884880,
-   "msg": "Copied primm: bought 123.9 Eastern Michigan on \"Spread: Central Michigan (-1.5)\" for $4.84"
   }
  ]
 }
