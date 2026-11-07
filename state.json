@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 7.077422612219546,
+ "cash": 8.881784197001252e-16,
  "created_at": 1793597589071,
- "last_run": 1794024888889,
+ "last_run": 1794032087693,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 7.047891887013108,
+   "value": 6.776819122127989,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.08604348440047,
+   "value": 46.4588728232353,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 34.14047642201016,
+   "value": 34.10553222915242,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.43398784256290635,
+   "value": 0.37973936224254307,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.7254480575549439,
+   "value": 0.6218126207613804,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -182,7 +182,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.28810995635367953,
+   "value": 0.16463426077353116,
    "status": null
   },
   "13294335731780774550187775724475663241613898682465752380129118532220434402581": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.6197159239015,
+   "value": 28.8031756413624,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 40.910926739960956,
+   "value": 41.2079977847532,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.98542845548696,
+   "value": 37.754279803628016,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 1.3479014746447797,
+   "value": 1.2787783220988935,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -282,7 +282,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 11.756285442599362,
+   "value": 11.557026367301066,
    "status": null
   },
   "89626773789247912037983660083886610683285575313869108903803481573065804908700": {
@@ -302,7 +302,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 9.120047120854416,
+   "value": 13.000918236111614,
    "status": null
   },
   "59387310897249565885326515388140557369470782529604498795323190823295895370936": {
@@ -322,27 +322,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 3.67129811651308,
-   "status": null
-  },
-  "21906499568079522312473391313028656439035030692493809627229268334337222357895": {
-   "token": "21906499568079522312473391313028656439035030692493809627229268334337222357895",
-   "market_id": "6269782",
-   "slug": "cfb-nmx-nevada-2026-11-06-total-35pt5",
-   "question": "New Mexico vs. Nevada: O/U 35.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 11.830207744167293,
-   "cost_ex": 7.216426723942049,
-   "fees": 0.08443219267012197,
-   "opened_at": 1793988878268,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.59)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 6.861520491617029,
+   "value": 8.74118599169781,
    "status": null
   },
   "38178920672917464428695063495108660083216597284226227985778167489470277713122": {
@@ -365,26 +345,6 @@
    "value": 11.00907185036945,
    "status": null
   },
-  "84947536563546826969503115401126047973211453383832228203042452715016106062796": {
-   "token": "84947536563546826969503115401126047973211453383832228203042452715016106062796",
-   "market_id": "6269751",
-   "slug": "cfb-nmx-nevada-2026-11-06",
-   "question": "New Mexico vs. Nevada",
-   "outcome": "Nevada",
-   "idx": 1,
-   "shares": 17.36652777605132,
-   "cost_ex": 3.8206361107312907,
-   "fees": 0.0894028849911122,
-   "opened_at": 1794003276795,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.21)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.20839833331261604,
-   "status": null
-  },
   "69610271796718695849268661499265815478822572927422337662595853960078961295371": {
    "token": "69610271796718695849268661499265815478822572927422337662595853960078961295371",
    "market_id": "6269892",
@@ -402,7 +362,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 5.93721503846788,
+   "value": 8.420050418190812,
    "status": null
   },
   "10085746475524527101107111967724179018109321159049024112787954072548760401149": {
@@ -542,387 +502,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 6.069159896572532,
-   "status": null
-  },
-  "47965562448255087417261327430439264498983816651103825491683331514446577093115": {
-   "token": "47965562448255087417261327430439264498983816651103825491683331514446577093115",
-   "market_id": "6269575",
-   "slug": "cfb-sfl-ecar-2026-11-06-total-37pt5",
-   "question": "South Florida vs. East Carolina: O/U 37.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 10.421798370432061,
-   "cost_ex": 4.794027250398749,
-   "fees": 0.07766324145645973,
-   "opened_at": 1794017712516,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.51)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 10.411376572061629,
-   "status": null
-  },
-  "7968506424870701823849807940773371460368807170135131707731266827980086050119": {
-   "token": "7968506424870701823849807940773371460368807170135131707731266827980086050119",
-   "market_id": "6269578",
-   "slug": "cfb-sfl-ecar-2026-11-06-total-43pt5",
-   "question": "South Florida vs. East Carolina: O/U 43.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 11.887378690453883,
-   "cost_ex": 7.726796148795024,
-   "fees": 0.08113135956234774,
-   "opened_at": 1794017712775,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.67)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 11.875491311763428,
-   "status": null
-  },
-  "30087304604481093082157756128142942803050000320260576120833890546872393755466": {
-   "token": "30087304604481093082157756128142942803050000320260576120833890546872393755466",
-   "market_id": "6269760",
-   "slug": "cfb-nmx-nevada-2026-11-06-spread-away-6pt5",
-   "question": "Spread: New Mexico (-6.5)",
-   "outcome": "Nevada",
-   "idx": 1,
-   "shares": 16.666574903694613,
-   "cost_ex": 3.666646478812815,
-   "fees": 0.08579952760421987,
-   "opened_at": 1794017713324,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.39)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.6666629961477851,
-   "status": null
-  },
-  "47222332340861021318069438179683691597733713067498169626203432418736428751334": {
-   "token": "47222332340861021318069438179683691597733713067498169626203432418736428751334",
-   "market_id": "6609809",
-   "slug": "cfb-nmx-nevada-2026-11-06-spread-away-9pt5",
-   "question": "Spread: New Mexico (-9.5)",
-   "outcome": "Nevada",
-   "idx": 1,
-   "shares": 9.875762447769327,
-   "cost_ex": 3.0614863588084913,
-   "fees": 0.10562127937889296,
-   "opened_at": 1794017713496,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.5925457468661601,
-   "status": null
-  },
-  "23422368361083607472550754159469382442071599246004530966193344006826757140356": {
-   "token": "23422368361083607472550754159469382442071599246004530966193344006826757140356",
-   "market_id": "6269543",
-   "slug": "cfb-sfl-ecar-2026-11-06",
-   "question": "South Florida vs. East Carolina",
-   "outcome": "South Florida",
-   "idx": 0,
-   "shares": 10.418045327259563,
-   "cost_ex": 5.521564023447569,
-   "fees": 0.0778540527306107,
-   "opened_at": 1794017713755,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.63)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.005209022663629781,
-   "status": null
-  },
-  "34631376683265891573064512355813660758775856019540605627201903583846117797898": {
-   "token": "34631376683265891573064512355813660758775856019540605627201903583846117797898",
-   "market_id": "6269555",
-   "slug": "cfb-sfl-ecar-2026-11-06-spread-away-3pt5",
-   "question": "Spread: South Florida (-3.5)",
-   "outcome": "South Florida",
-   "idx": 0,
-   "shares": 11.30366305335596,
-   "cost_ex": 4.182355329741705,
-   "fees": 0.07904651573211822,
-   "opened_at": 1794017714179,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.53)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.00565183152667798,
-   "status": null
-  },
-  "62739821695128904468450802861894451590409333990576734393839624762705721735975": {
-   "token": "62739821695128904468450802861894451590409333990576734393839624762705721735975",
-   "market_id": "6269553",
-   "slug": "cfb-sfl-ecar-2026-11-06-spread-away-5pt5",
-   "question": "Spread: South Florida (-5.5)",
-   "outcome": "South Florida",
-   "idx": 0,
-   "shares": 12.358912501552107,
-   "cost_ex": 3.954852000496674,
-   "fees": 0.08067898081013214,
-   "opened_at": 1794017714441,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.006179456250776053,
-   "status": null
-  },
-  "55191564507481426093773050651673427298851205338064907961888192581123848861807": {
-   "token": "55191564507481426093773050651673427298851205338064907961888192581123848861807",
-   "market_id": "6269551",
-   "slug": "cfb-sfl-ecar-2026-11-06-spread-away-7pt5",
-   "question": "Spread: South Florida (-7.5)",
-   "outcome": "South Florida",
-   "idx": 0,
-   "shares": 17.337471860557176,
-   "cost_ex": 3.6408690907170067,
-   "fees": 0.08628859744999307,
-   "opened_at": 1794017716222,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.43)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.008668735930278589,
-   "status": null
-  },
-  "14400014594872861602410478302904593604941326205718642791207303805070581361884": {
-   "token": "14400014594872861602410478302904593604941326205718642791207303805070581361884",
-   "market_id": "6269549",
-   "slug": "cfb-sfl-ecar-2026-11-06-spread-away-10pt5",
-   "question": "Spread: South Florida (-10.5)",
-   "outcome": "South Florida",
-   "idx": 0,
-   "shares": 25.295933075403497,
-   "cost_ex": 3.5414306305564898,
-   "fees": 0.09136891026835743,
-   "opened_at": 1794017716484,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.33)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.012647966537701748,
-   "status": null
-  },
-  "36021794164202006091003979869479539800594283262973417168979689917815726046467": {
-   "token": "36021794164202006091003979869479539800594283262973417168979689917815726046467",
-   "market_id": "6269682",
-   "slug": "cfb-nebr-ill-2026-11-06-total-43pt5",
-   "question": "Nebraska vs. Illinois: O/U 43.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 13.232944486514663,
-   "cost_ex": 9.263061140560264,
-   "fees": 0.08336755026504238,
-   "opened_at": 1794017716750,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.67)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 5.822495574066451,
-   "status": null
-  },
-  "15035835766876343865562512829264784178541305386311633522296580494676295669256": {
-   "token": "15035835766876343865562512829264784178541305386311633522296580494676295669256",
-   "market_id": "6269759",
-   "slug": "cfb-nmx-nevada-2026-11-06-spread-away-7pt5",
-   "question": "Spread: New Mexico (-7.5)",
-   "outcome": "Nevada",
-   "idx": 1,
-   "shares": 8.569004109246793,
-   "cost_ex": 2.313631109496634,
-   "fees": 0.050668521297976284,
-   "opened_at": 1794017717174,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.42)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.5141402465548081,
-   "status": null
-  },
-  "50045098939780879173509731618777102937776467037891238753978637367425263654186": {
-   "token": "50045098939780879173509731618777102937776467037891238753978637367425263654186",
-   "market_id": "6269664",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-1pt5",
-   "question": "Spread: Illinois (-1.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 32.804435765320434,
-   "cost_ex": 3.2804435765320434,
-   "fees": 0.08857197656636517,
-   "opened_at": 1794024880098,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.57)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 3.608487934185247,
-   "status": null
-  },
-  "59053477026674434980503300508826618778153773381107520561240590691961189461580": {
-   "token": "59053477026674434980503300508826618778153773381107520561240590691961189461580",
-   "market_id": "6269575",
-   "slug": "cfb-sfl-ecar-2026-11-06-total-37pt5",
-   "question": "South Florida vs. East Carolina: O/U 37.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 3267.303375919747,
-   "cost_ex": 3.267303375919747,
-   "fees": 0.09792108217631483,
-   "opened_at": 1794024880271,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.59)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.6336516879598735,
-   "status": null
-  },
-  "109576706630817250362726203174092989479521894812510146108508144715266768862833": {
-   "token": "109576706630817250362726203174092989479521894812510146108508144715266768862833",
-   "market_id": "6269561",
-   "slug": "cfb-sfl-ecar-2026-11-06-spread-home-2pt5",
-   "question": "Spread: East Carolina (-2.5)",
-   "outcome": "South Florida",
-   "idx": 1,
-   "shares": 3266.673899250414,
-   "cost_ex": 3.266673899250414,
-   "fees": 0.09790221676053491,
-   "opened_at": 1794024880743,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.3)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.633336949625207,
-   "status": null
-  },
-  "97690567867511016740829198556250060490081767186527604578223567789839792701610": {
-   "token": "97690567867511016740829198556250060490081767186527604578223567789839792701610",
-   "market_id": "6269668",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-5pt5",
-   "question": "Spread: Illinois (-5.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 10.045149365876538,
-   "cost_ex": 4.11851124000938,
-   "fees": 0.07289764894816604,
-   "opened_at": 1794024881263,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.63)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 4.419865720985676,
-   "status": null
-  },
-  "88911445812291795153690275288534262392431876394729674352401342291335990391232": {
-   "token": "88911445812291795153690275288534262392431876394729674352401342291335990391232",
-   "market_id": "6269665",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-2pt5",
-   "question": "Spread: Illinois (-2.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 27.421505055538347,
-   "cost_ex": 3.2905806066646015,
-   "fees": 0.08687132801594548,
-   "opened_at": 1794024881435,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.46)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.742150505553834,
-   "status": null
-  },
-  "11672868602842571346556896862902059825043052473528631739381113532322729684363": {
-   "token": "11672868602842571346556896862902059825043052473528631739381113532322729684363",
-   "market_id": "6269666",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-3pt5",
-   "question": "Spread: Illinois (-3.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 16.18405486617164,
-   "cost_ex": 3.3986515218960442,
-   "fees": 0.08054804106893625,
-   "opened_at": 1794024881699,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.57)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 4.2078542652046265,
-   "status": null
-  },
-  "97453545276903655437225560837499971039019937020048847037623827195268703239563": {
-   "token": "97453545276903655437225560837499971039019937020048847037623827195268703239563",
-   "market_id": "6269667",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-4pt5",
-   "question": "Spread: Illinois (-4.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 13.073992081688127,
-   "cost_ex": 3.5299778620557944,
-   "fees": 0.07730651517902189,
-   "opened_at": 1794024881973,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.58)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 3.9221976245064387,
-   "status": null
-  },
-  "67376698797517288469345044755969129349322426631893250489221716898797366240852": {
-   "token": "67376698797517288469345044755969129349322426631893250489221716898797366240852",
-   "market_id": "6269670",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-7pt5",
-   "question": "Spread: Illinois (-7.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 9.803936637996948,
-   "cost_ex": 4.313732120718657,
-   "fees": 0.07247069962807345,
-   "opened_at": 1794024882691,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.51)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 4.705889586238535,
+   "value": 5.226221022048569,
    "status": null
   },
   "1698711269653176387245925741833479168080393603107998769500307707426112167262": {
@@ -942,47 +522,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 4.32267408624874,
-   "status": null
-  },
-  "97172885657041440575635961623809753727452581736663170426475257341018682319208": {
-   "token": "97172885657041440575635961623809753727452581736663170426475257341018682319208",
-   "market_id": "6269672",
-   "slug": "cfb-nebr-ill-2026-11-06-spread-home-10pt5",
-   "question": "Spread: Illinois (-10.5)",
-   "outcome": "Nebraska",
-   "idx": 1,
-   "shares": 9.871992302250172,
-   "cost_ex": 5.528315689260097,
-   "fees": 0.07297376709823326,
-   "opened_at": 1794024883377,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.57)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 6.021915304372605,
-   "status": null
-  },
-  "92066038192288621243466464475823397486018242777458027325509659393157006235112": {
-   "token": "92066038192288621243466464475823397486018242777458027325509659393157006235112",
-   "market_id": "6269754",
-   "slug": "cfb-nmx-nevada-2026-11-06-spread-away-16pt5",
-   "question": "Spread: New Mexico (-16.5)",
-   "outcome": "Nevada",
-   "idx": 1,
-   "shares": 16.896382036511707,
-   "cost_ex": 3.3792764073023416,
-   "fees": 0.0811026337752562,
-   "opened_at": 1794024884070,
-   "source": "copy",
-   "reason": "Copied primm (edge score 5.2, they paid 0.24)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 3.8861678683976923,
+   "value": 0.6724159689720263,
    "status": null
   },
   "83961019964354550066632635408174088187270302611937627737943308120183008340300": {
@@ -1002,11 +542,456 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 4.534673453965704,
+   "value": 8.297487596618096,
+   "status": null
+  },
+  "37080228385124258696670056614122612070625412511685030705944923707312500253867": {
+   "token": "37080228385124258696670056614122612070625412511685030705944923707312500253867",
+   "market_id": "6269872",
+   "slug": "cfb-tcu-arz-2026-11-06-spread-home-1pt5",
+   "question": "Spread: Arizona (-1.5)",
+   "outcome": "TCU",
+   "idx": 1,
+   "shares": 9.078736713508315,
+   "cost_ex": 4.63015572388924,
+   "fees": 0.06806328914117184,
+   "opened_at": 1794032082945,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.52)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.539368356754157,
+   "status": null
+  },
+  "19822406988091866460553918987552994353808710452432277238263500263795434070938": {
+   "token": "19822406988091866460553918987552994353808710452432277238263500263795434070938",
+   "market_id": "6269869",
+   "slug": "cfb-tcu-arz-2026-11-06-spread-away-1pt5",
+   "question": "Spread: TCU (-1.5)",
+   "outcome": "TCU",
+   "idx": 0,
+   "shares": 9.646469734433094,
+   "cost_ex": 3.762123196428907,
+   "fees": 0.06884685449464899,
+   "opened_at": 1794032083362,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.45)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.5691938017402447,
+   "status": null
+  },
+  "71289367562928740850776763403548413233968627730181072554291271067614564866140": {
+   "token": "71289367562928740850776763403548413233968627730181072554291271067614564866140",
+   "market_id": "6269897",
+   "slug": "cfb-tcu-arz-2026-11-06-total-57pt5",
+   "question": "TCU vs. Arizona: O/U 57.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 9.12516808825466,
+   "cost_ex": 4.197577320597144,
+   "fees": 0.06800075259367375,
+   "opened_at": 1794032083627,
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.45)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.193808830889131,
+   "status": null
+  },
+  "17765609274840365086039221856662638507466192611753000182282457035865895767253": {
+   "token": "17765609274840365086039221856662638507466192611753000182282457035865895767253",
+   "market_id": "6745828",
+   "slug": "cs2-mglz-navi-2026-11-07",
+   "question": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+   "outcome": "Natus Vincere",
+   "idx": 1,
+   "shares": 32.5402755244946,
+   "cost_ex": 22.778192867146217,
+   "fees": 0.34167289300719333,
+   "opened_at": 1794032084620,
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.7367847834)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 22.778192867146217,
+   "status": null
+  },
+  "79920856752281168471164673926619670662490258278856565880391813611223687540153": {
+   "token": "79920856752281168471164673926619670662490258278856565880391813611223687540153",
+   "market_id": "6745830",
+   "slug": "cs2-mglz-navi-2026-11-07-map-handicap-home-1pt5",
+   "question": "Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)",
+   "outcome": "Natus Vincere",
+   "idx": 0,
+   "shares": 14.501024627892866,
+   "cost_ex": 6.525461082551789,
+   "fees": 0.17945017977017425,
+   "opened_at": 1794032084783,
+   "source": "copy",
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.437272643)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 5.945420097436075,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794032074441,
+   "question": "Spread: New Mexico (-16.5)",
+   "outcome": "Nevada",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.24)",
+   "shares": 16.9,
+   "avg": 0.2,
+   "final": 0,
+   "cost": 3.46,
+   "payout": 0,
+   "pnl": -3.46,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032074311,
+   "question": "Spread: Illinois (-10.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.57)",
+   "shares": 9.87,
+   "avg": 0.56,
+   "final": 0,
+   "cost": 5.6,
+   "payout": 0,
+   "pnl": -5.6,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032074054,
+   "question": "Spread: Illinois (-7.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.51)",
+   "shares": 9.8,
+   "avg": 0.44,
+   "final": 0,
+   "cost": 4.39,
+   "payout": 0,
+   "pnl": -4.39,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073928,
+   "question": "Spread: Illinois (-4.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.58)",
+   "shares": 13.07,
+   "avg": 0.27,
+   "final": 0,
+   "cost": 3.61,
+   "payout": 0,
+   "pnl": -3.61,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073802,
+   "question": "Spread: Illinois (-3.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.57)",
+   "shares": 16.18,
+   "avg": 0.21,
+   "final": 0,
+   "cost": 3.48,
+   "payout": 0,
+   "pnl": -3.48,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073673,
+   "question": "Spread: Illinois (-2.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.46)",
+   "shares": 27.42,
+   "avg": 0.12,
+   "final": 0,
+   "cost": 3.38,
+   "payout": 0,
+   "pnl": -3.38,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073549,
+   "question": "Spread: Illinois (-5.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.63)",
+   "shares": 10.05,
+   "avg": 0.41,
+   "final": 0,
+   "cost": 4.19,
+   "payout": 0,
+   "pnl": -4.19,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073426,
+   "question": "Spread: East Carolina (-2.5)",
+   "outcome": "South Florida",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.3)",
+   "shares": 3266.67,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 3.36,
+   "payout": 0,
+   "pnl": -3.36,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073299,
+   "question": "South Florida vs. East Carolina: O/U 37.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.59)",
+   "shares": 3267.3,
+   "avg": 0.001,
+   "final": 0,
+   "cost": 3.37,
+   "payout": 0,
+   "pnl": -3.37,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073257,
+   "question": "Spread: Illinois (-1.5)",
+   "outcome": "Nebraska",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.57)",
+   "shares": 32.8,
+   "avg": 0.1,
+   "final": 0,
+   "cost": 3.37,
+   "payout": 0,
+   "pnl": -3.37,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073132,
+   "question": "Spread: New Mexico (-7.5)",
+   "outcome": "Nevada",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.42)",
+   "shares": 8.57,
+   "avg": 0.27,
+   "final": 0,
+   "cost": 2.36,
+   "payout": 0,
+   "pnl": -2.36,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032073005,
+   "question": "Nebraska vs. Illinois: O/U 43.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.67)",
+   "shares": 13.23,
+   "avg": 0.7000000000000001,
+   "final": 1,
+   "cost": 9.35,
+   "payout": 13.23,
+   "pnl": 3.89,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794032072878,
+   "question": "Spread: South Florida (-10.5)",
+   "outcome": "South Florida",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.33)",
+   "shares": 25.3,
+   "avg": 0.14,
+   "final": 0,
+   "cost": 3.63,
+   "payout": 0,
+   "pnl": -3.63,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032072754,
+   "question": "Spread: South Florida (-7.5)",
+   "outcome": "South Florida",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.43)",
+   "shares": 17.34,
+   "avg": 0.21,
+   "final": 0,
+   "cost": 3.73,
+   "payout": 0,
+   "pnl": -3.73,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032072630,
+   "question": "Spread: South Florida (-5.5)",
+   "outcome": "South Florida",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
+   "shares": 12.36,
+   "avg": 0.32,
+   "final": 0,
+   "cost": 4.04,
+   "payout": 0,
+   "pnl": -4.04,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032072505,
+   "question": "Spread: South Florida (-3.5)",
+   "outcome": "South Florida",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.53)",
+   "shares": 11.3,
+   "avg": 0.37,
+   "final": 0,
+   "cost": 4.26,
+   "payout": 0,
+   "pnl": -4.26,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032072380,
+   "question": "South Florida vs. East Carolina",
+   "outcome": "South Florida",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.63)",
+   "shares": 10.42,
+   "avg": 0.53,
+   "final": 0,
+   "cost": 5.6,
+   "payout": 0,
+   "pnl": -5.6,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032072253,
+   "question": "Spread: New Mexico (-9.5)",
+   "outcome": "Nevada",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.48)",
+   "shares": 9.88,
+   "avg": 0.31,
+   "final": 0,
+   "cost": 3.17,
+   "payout": 0,
+   "pnl": -3.17,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032072127,
+   "question": "Spread: New Mexico (-6.5)",
+   "outcome": "Nevada",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.39)",
+   "shares": 16.67,
+   "avg": 0.22,
+   "final": 0,
+   "cost": 3.75,
+   "payout": 0,
+   "pnl": -3.75,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032071998,
+   "question": "South Florida vs. East Carolina: O/U 43.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.67)",
+   "shares": 11.89,
+   "avg": 0.65,
+   "final": 1,
+   "cost": 7.81,
+   "payout": 11.89,
+   "pnl": 4.08,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794032071874,
+   "question": "South Florida vs. East Carolina: O/U 37.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.51)",
+   "shares": 10.42,
+   "avg": 0.4600000000000001,
+   "final": 1,
+   "cost": 4.87,
+   "payout": 10.42,
+   "pnl": 5.55,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794032071424,
+   "question": "New Mexico vs. Nevada",
+   "outcome": "Nevada",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.21)",
+   "shares": 17.37,
+   "avg": 0.22,
+   "final": 0,
+   "cost": 3.91,
+   "payout": 0,
+   "pnl": -3.91,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794032071341,
+   "question": "New Mexico vs. Nevada: O/U 35.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 5.2, they paid 0.59)",
+   "shares": 11.83,
+   "avg": 0.61,
+   "final": 0,
+   "cost": 7.3,
+   "payout": 0,
+   "pnl": -7.3,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1794024878162,
    "question": "76ers vs. Cavaliers",
@@ -3314,6 +3299,319 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794032084783,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)",
+   "outcome": "Natus Vincere",
+   "shares": 14.5,
+   "price": 0.44999999999999996,
+   "fee": 0.18,
+   "amount": -6.7,
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.437272643)"
+  },
+  {
+   "t": 1794032084620,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs",
+   "outcome": "Natus Vincere",
+   "shares": 32.54,
+   "price": 0.7,
+   "fee": 0.34,
+   "amount": -23.12,
+   "reason": "Copied fantasy7788 (edge score 3.2, they paid 0.7367847834)"
+  },
+  {
+   "t": 1794032083627,
+   "type": "BUY",
+   "source": "copy",
+   "question": "TCU vs. Arizona: O/U 57.5",
+   "outcome": "Over",
+   "shares": 9.13,
+   "price": 0.46,
+   "fee": 0.07,
+   "amount": -4.27,
+   "reason": "Copied primm (edge score 5.2, they paid 0.45)"
+  },
+  {
+   "t": 1794032083362,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: TCU (-1.5)",
+   "outcome": "TCU",
+   "shares": 9.65,
+   "price": 0.39,
+   "fee": 0.07,
+   "amount": -3.83,
+   "reason": "Copied primm (edge score 5.2, they paid 0.45)"
+  },
+  {
+   "t": 1794032082945,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Arizona (-1.5)",
+   "outcome": "TCU",
+   "shares": 9.08,
+   "price": 0.51,
+   "fee": 0.07,
+   "amount": -4.7,
+   "reason": "Copied primm (edge score 5.2, they paid 0.52)"
+  },
+  {
+   "t": 1794032074441,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: New Mexico (-16.5)",
+   "outcome": "Nevada",
+   "shares": 16.9,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032074311,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-10.5)",
+   "outcome": "Nebraska",
+   "shares": 9.87,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032074054,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-7.5)",
+   "outcome": "Nebraska",
+   "shares": 9.8,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073928,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-4.5)",
+   "outcome": "Nebraska",
+   "shares": 13.07,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073802,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-3.5)",
+   "outcome": "Nebraska",
+   "shares": 16.18,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073673,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-2.5)",
+   "outcome": "Nebraska",
+   "shares": 27.42,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073549,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-5.5)",
+   "outcome": "Nebraska",
+   "shares": 10.05,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073426,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: East Carolina (-2.5)",
+   "outcome": "South Florida",
+   "shares": 3266.67,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073299,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "South Florida vs. East Carolina: O/U 37.5",
+   "outcome": "Over",
+   "shares": 3267.3,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073257,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Illinois (-1.5)",
+   "outcome": "Nebraska",
+   "shares": 32.8,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073132,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: New Mexico (-7.5)",
+   "outcome": "Nevada",
+   "shares": 8.57,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032073005,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Nebraska vs. Illinois: O/U 43.5",
+   "outcome": "Under",
+   "shares": 13.23,
+   "price": 1,
+   "fee": 0,
+   "amount": 13.23
+  },
+  {
+   "t": 1794032072878,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: South Florida (-10.5)",
+   "outcome": "South Florida",
+   "shares": 25.3,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032072754,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: South Florida (-7.5)",
+   "outcome": "South Florida",
+   "shares": 17.34,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032072630,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: South Florida (-5.5)",
+   "outcome": "South Florida",
+   "shares": 12.36,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032072505,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: South Florida (-3.5)",
+   "outcome": "South Florida",
+   "shares": 11.3,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032072380,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "South Florida vs. East Carolina",
+   "outcome": "South Florida",
+   "shares": 10.42,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032072253,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: New Mexico (-9.5)",
+   "outcome": "Nevada",
+   "shares": 9.88,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032072127,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: New Mexico (-6.5)",
+   "outcome": "Nevada",
+   "shares": 16.67,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032071998,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "South Florida vs. East Carolina: O/U 43.5",
+   "outcome": "Under",
+   "shares": 11.89,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.89
+  },
+  {
+   "t": 1794032071874,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "South Florida vs. East Carolina: O/U 37.5",
+   "outcome": "Under",
+   "shares": 10.42,
+   "price": 1,
+   "fee": 0,
+   "amount": 10.42
+  },
+  {
+   "t": 1794032071424,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "New Mexico vs. Nevada",
+   "outcome": "Nevada",
+   "shares": 17.37,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794032071341,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "New Mexico vs. Nevada: O/U 35.5",
+   "outcome": "Over",
+   "shares": 11.83,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1794024884248,
    "type": "BUY",
@@ -7767,6 +8065,11 @@
    "t": 1794024888889,
    "value": 506.26,
    "cash": 7.08
+  },
+  {
+   "t": 1794032087693,
+   "value": 474.9,
+   "cash": 0
   }
  ],
  "follows": {
@@ -7827,29 +8130,29 @@
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": {
    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
    "name": "Melody626",
-   "clean_bets": 1266,
-   "win_rate": 0.6864139020537124,
-   "expected_win_rate": 0.6051334123222744,
-   "edge_score": 3.932014698178332,
-   "updated_at": 1793938558285
+   "clean_bets": 1268,
+   "win_rate": 0.6869085173501577,
+   "expected_win_rate": 0.6051430599369081,
+   "edge_score": 3.9592396191155967,
+   "updated_at": 1794032077310
   },
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": {
    "wallet": "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e",
    "name": "fantasy7788",
-   "clean_bets": 162,
-   "win_rate": 0.6481481481481481,
-   "expected_win_rate": 0.5075598765432099,
-   "edge_score": 3.1573518639880884,
-   "updated_at": 1793938558847
+   "clean_bets": 172,
+   "win_rate": 0.6395348837209303,
+   "expected_win_rate": 0.5063482558139536,
+   "edge_score": 3.1715955807491714,
+   "updated_at": 1794032077883
   },
   "0xc8b9a30184244d427169cf62485dde6041b2b836": {
    "wallet": "0xc8b9a30184244d427169cf62485dde6041b2b836",
    "name": "0xc8b9a30184244d427169cf62485dde6041b2b836",
-   "clean_bets": 506,
-   "win_rate": 0.7114624505928854,
-   "expected_win_rate": 0.6065958498023714,
-   "edge_score": 5.151227210186617,
-   "updated_at": 1793938559916
+   "clean_bets": 508,
+   "win_rate": 0.7125984251968503,
+   "expected_win_rate": 0.6065679133858265,
+   "edge_score": 5.161910244863465,
+   "updated_at": 1794032079019
   },
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": {
    "wallet": "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca",
@@ -7858,7 +8161,7 @@
    "win_rate": 0.59375,
    "expected_win_rate": 0.4757322916666669,
    "edge_score": 4.442799324188543,
-   "updated_at": 1793938560443
+   "updated_at": 1794032079696
   },
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": {
    "wallet": "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7",
@@ -7867,7 +8170,7 @@
    "win_rate": 0.926829268292683,
    "expected_win_rate": 0.5392170731707319,
    "edge_score": 3.465575078771695,
-   "updated_at": 1793938560906
+   "updated_at": 1794032080209
   },
   "0x79ae097215202b5d01f98e4479fb219102469a4a": {
    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
@@ -7880,20 +8183,172 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794024850,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794031722,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1793982844,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1793992971,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1794006964,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794005605,
-  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794016299,
+  "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794031867,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1793904918,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1793908768,
   "0x79ae097215202b5d01f98e4479fb219102469a4a": 1793999687
  },
  "log": [
+  {
+   "t": 1794032084783,
+   "msg": "Copied fantasy7788: bought 14.5 Natus Vincere on \"Map Handicap: NAVI (-1.5) vs TheMongolz (+1.5)\" for $6.70"
+  },
+  {
+   "t": 1794032084620,
+   "msg": "Copied fantasy7788: bought 32.5 Natus Vincere on \"Counter-Strike: TheMongolz vs Natus Vincere (BO3) - IEM Beijing Playoffs\" for $23.12"
+  },
+  {
+   "t": 1794032083627,
+   "msg": "Copied primm: bought 9.1 Over on \"TCU vs. Arizona: O/U 57.5\" for $4.27"
+  },
+  {
+   "t": 1794032083362,
+   "msg": "Copied primm: bought 9.6 TCU on \"Spread: TCU (-1.5)\" for $3.83"
+  },
+  {
+   "t": 1794032083111,
+   "msg": "Skipped copying primm on \"Spread: Arizona (-2.5)\": price moved from 0.54 to 0.63"
+  },
+  {
+   "t": 1794032082945,
+   "msg": "Copied primm: bought 9.1 TCU on \"Spread: Arizona (-1.5)\" for $4.70"
+  },
+  {
+   "t": 1794032082687,
+   "msg": "Skipped copying primm on \"TCU vs. Arizona: O/U 51.5\": price moved from 0.39 to 0.62"
+  },
+  {
+   "t": 1794032082433,
+   "msg": "Skipped copying primm on \"TCU vs. Arizona: O/U 45.5\": price moved from 0.59 to 0.91"
+  },
+  {
+   "t": 1794032082263,
+   "msg": "Skipped copying primm on \"Spread: Arizona (-3.5)\": price moved from 0.37 to 0.71"
+  },
+  {
+   "t": 1794032082098,
+   "msg": "Skipped copying primm on \"TCU vs. Arizona: O/U 43.5\": price moved from 0.58 to 0.96"
+  },
+  {
+   "t": 1794032081930,
+   "msg": "Skipped copying primm on \"Spread: Arizona (-4.5)\": price moved from 0.36 to 0.71"
+  },
+  {
+   "t": 1794032081634,
+   "msg": "Skipped copying primm on \"Spread: Arizona (-5.5)\": price moved from 0.36 to 0.78"
+  },
+  {
+   "t": 1794032081466,
+   "msg": "Skipped copying primm on \"Spread: Arizona (-6.5)\": price moved from 0.4 to 0.83"
+  },
+  {
+   "t": 1794032081303,
+   "msg": "Skipped copying primm on \"Spread: Arizona (-13.5)\": price moved from 0.56 to 0.98"
+  },
+  {
+   "t": 1794032081049,
+   "msg": "Skipped copying primm on \"TCU vs. Arizona\": price moved from 0.21 to 0.47"
+  },
+  {
+   "t": 1794032074441,
+   "msg": "Settled: Nevada on \"Spread: New Mexico (-16.5)\" -> lost (-3.46)"
+  },
+  {
+   "t": 1794032074311,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-10.5)\" -> lost (-5.60)"
+  },
+  {
+   "t": 1794032074054,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-7.5)\" -> lost (-4.39)"
+  },
+  {
+   "t": 1794032073928,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-4.5)\" -> lost (-3.61)"
+  },
+  {
+   "t": 1794032073802,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-3.5)\" -> lost (-3.48)"
+  },
+  {
+   "t": 1794032073673,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-2.5)\" -> lost (-3.38)"
+  },
+  {
+   "t": 1794032073549,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-5.5)\" -> lost (-4.19)"
+  },
+  {
+   "t": 1794032073426,
+   "msg": "Settled: South Florida on \"Spread: East Carolina (-2.5)\" -> lost (-3.36)"
+  },
+  {
+   "t": 1794032073299,
+   "msg": "Settled: Over on \"South Florida vs. East Carolina: O/U 37.5\" -> lost (-3.37)"
+  },
+  {
+   "t": 1794032073257,
+   "msg": "Settled: Nebraska on \"Spread: Illinois (-1.5)\" -> lost (-3.37)"
+  },
+  {
+   "t": 1794032073132,
+   "msg": "Settled: Nevada on \"Spread: New Mexico (-7.5)\" -> lost (-2.36)"
+  },
+  {
+   "t": 1794032073005,
+   "msg": "Settled: Under on \"Nebraska vs. Illinois: O/U 43.5\" -> won (+3.89)"
+  },
+  {
+   "t": 1794032072878,
+   "msg": "Settled: South Florida on \"Spread: South Florida (-10.5)\" -> lost (-3.63)"
+  },
+  {
+   "t": 1794032072754,
+   "msg": "Settled: South Florida on \"Spread: South Florida (-7.5)\" -> lost (-3.73)"
+  },
+  {
+   "t": 1794032072630,
+   "msg": "Settled: South Florida on \"Spread: South Florida (-5.5)\" -> lost (-4.04)"
+  },
+  {
+   "t": 1794032072505,
+   "msg": "Settled: South Florida on \"Spread: South Florida (-3.5)\" -> lost (-4.26)"
+  },
+  {
+   "t": 1794032072380,
+   "msg": "Settled: South Florida on \"South Florida vs. East Carolina\" -> lost (-5.60)"
+  },
+  {
+   "t": 1794032072253,
+   "msg": "Settled: Nevada on \"Spread: New Mexico (-9.5)\" -> lost (-3.17)"
+  },
+  {
+   "t": 1794032072127,
+   "msg": "Settled: Nevada on \"Spread: New Mexico (-6.5)\" -> lost (-3.75)"
+  },
+  {
+   "t": 1794032071998,
+   "msg": "Settled: Under on \"South Florida vs. East Carolina: O/U 43.5\" -> won (+4.08)"
+  },
+  {
+   "t": 1794032071874,
+   "msg": "Settled: Under on \"South Florida vs. East Carolina: O/U 37.5\" -> won (+5.55)"
+  },
+  {
+   "t": 1794032071424,
+   "msg": "Settled: Nevada on \"New Mexico vs. Nevada\" -> lost (-3.91)"
+  },
+  {
+   "t": 1794032071341,
+   "msg": "Settled: Over on \"New Mexico vs. Nevada: O/U 35.5\" -> lost (-7.30)"
+  },
   {
    "t": 1794024884248,
    "msg": "Copied primm: bought 9.6 TCU on \"Spread: Arizona (-8.5)\" for $4.99"
@@ -8941,158 +9396,6 @@
   {
    "t": 1793816099735,
    "msg": "Skipped copying Sisyphus- on \"Dota 2: CyberHero vs HULIGANI - Game 2 Winner\": price moved from 0.4399073878 to 0.54"
-  },
-  {
-   "t": 1793816098288,
-   "msg": "Settled: OG on \"Dota 2: OG vs GamerLegion - Game 2 Winner\" -> lost (-7.01)"
-  },
-  {
-   "t": 1793816098241,
-   "msg": "Settled: Zero Tenacity on \"Dota 2: Zero Tenacity vs angry birds - Game 2 Winner\" -> lost (-7.03)"
-  },
-  {
-   "t": 1793816098069,
-   "msg": "Settled: GamerLegion on \"Dota 2: OG vs GamerLegion - Game 2 Winner\" -> won (+9.44)"
-  },
-  {
-   "t": 1793808957865,
-   "msg": "Copied 0xC9BFc798...81c0: bought 5.3 Low Cortisol on \"Counter-Strike: BORRACHEIROS vs Low Cortisol (BO3) - CCT South America Group Stage\" for $4.10"
-  },
-  {
-   "t": 1793808956336,
-   "msg": "Copied Sisyphus-: bought 33.9 OG on \"Dota 2: OG vs GamerLegion - Game 2 Winner\" for $7.01"
-  },
-  {
-   "t": 1793808956053,
-   "msg": "Copied Sisyphus-: bought 670.0 Zero Tenacity on \"Dota 2: Zero Tenacity vs angry birds - Game 2 Winner\" for $7.03"
-  },
-  {
-   "t": 1793808954657,
-   "msg": "Settled: GamerLegion on \"Dota 2: OG vs GamerLegion - Game 1 Winner\" -> won (+9.44)"
-  },
-  {
-   "t": 1793808954620,
-   "msg": "Settled: OG on \"Dota 2: OG vs GamerLegion - Game 1 Winner\" -> lost (-8.35)"
-  },
-  {
-   "t": 1793808954477,
-   "msg": "Settled: Xipto Esports on \"Dota 2: Xipto Esports vs Team Synapse - Game 2 Winner\" -> lost (-7.09)"
-  },
-  {
-   "t": 1793801836313,
-   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: Drama eSports vs Saint Sinners (BO3) - ESL Challenger League Europe Cup #10 Group B\": price moved from 0.48 to 0.58"
-  },
-  {
-   "t": 1793801835704,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 22.6 GamerLegion on \"Dota 2: OG vs GamerLegion - Game 2 Winner\" for $13.15"
-  },
-  {
-   "t": 1793801835408,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 22.6 GamerLegion on \"Dota 2: OG vs GamerLegion - Game 1 Winner\" for $13.16"
-  },
-  {
-   "t": 1793801835230,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: OG vs GamerLegion (BO3) - EPL Masters Playoffs\": price moved from 0.5199999999 to 0.59"
-  },
-  {
-   "t": 1793801834736,
-   "msg": "Copied Sisyphus-: bought 19.8 OG on \"Dota 2: OG vs GamerLegion - Game 1 Winner\" for $8.35"
-  },
-  {
-   "t": 1793801834450,
-   "msg": "Copied Sisyphus-: bought 3502.6 Xipto Esports on \"Dota 2: Xipto Esports vs Team Synapse - Game 2 Winner\" for $7.09"
-  },
-  {
-   "t": 1793801832853,
-   "msg": "Settled: Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" -> won (+18.28)"
-  },
-  {
-   "t": 1793801832804,
-   "msg": "Settled: Team Falcons on \"Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner\" -> lost (-11.65)"
-  },
-  {
-   "t": 1793801832756,
-   "msg": "Settled: Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner\" -> won (+7.52)"
-  },
-  {
-   "t": 1793801832614,
-   "msg": "Settled: Natus Vincere on \"Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)\" -> won (+9.96)"
-  },
-  {
-   "t": 1793801832473,
-   "msg": "Settled: Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner\" -> won (+7.70)"
-  },
-  {
-   "t": 1793801830919,
-   "msg": "Settled: No on \"Will the Republican Party hold 47 or fewer Senate seats after the 2026 midterm elections?\" -> lost (-14.72)"
-  },
-  {
-   "t": 1793794681836,
-   "msg": "Copied fantasy7788: bought 37.5 Natus Vincere on \"Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A\" for $19.22"
-  },
-  {
-   "t": 1793794681643,
-   "msg": "Skipped copying fantasy7788 on \"Counter-Strike: TheMongolz vs FURIA (BO3) - IEM Beijing Group A\": price moved from 0.36 to 0.63"
-  },
-  {
-   "t": 1793794681432,
-   "msg": "Copied fantasy7788: bought 11091.9 Team Falcons on \"Counter-Strike: Natus Vincere vs Team Falcons - Map 2 Winner\" for $11.65"
-  },
-  {
-   "t": 1793794679959,
-   "msg": "Skipped copying Sisyphus- on \"Dota 2: PuckChamp vs Inner Circle - Game 2 Winner\": price moved from 0.7068493061 to 0.99"
-  },
-  {
-   "t": 1793794676808,
-   "msg": "Settled: Yes on \"Will the Republicans win the Nebraska Senate race in 2026?\" -> won (+11.71)"
-  },
-  {
-   "t": 1793787311388,
-   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Counter-Strike: megoshort vs Honvéd (BO3) - CCT Europe Closed Qualifier: Series Group A\": price moved from 0.4 to 0.47"
-  },
-  {
-   "t": 1793787310403,
-   "msg": "Skipped copying 0xC9BFc798...81c0 on \"Map Handicap: FURIA (-1.5) vs TheMongolz (+1.5)\": price moved from 0.46 to 0.53"
-  },
-  {
-   "t": 1793787309845,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 25.8 Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 2 Winner\" for $18.29"
-  },
-  {
-   "t": 1793787309564,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 20.3 Natus Vincere on \"Game Handicap: Na`Vi (-1.5) vs Yellow Submarine (+1.5)\" for $10.36"
-  },
-  {
-   "t": 1793787309266,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 27.5 Natus Vincere on \"Dota 2: Yellow Submarine vs Natus Vincere - Game 1 Winner\" for $19.83"
-  },
-  {
-   "t": 1793787307130,
-   "msg": "Settled: Yes on \"Will the Republican Party win the IN-05 House seat?\" -> lost (-30.93)"
-  },
-  {
-   "t": 1793787306936,
-   "msg": "Settled: Yes on \"Will the Republican Party win the PA-01 House seat?\" -> lost (-12.89)"
-  },
-  {
-   "t": 1793780088955,
-   "msg": "Skipped copying Melody626 on \"Will the Republican Party win the NV-02 House seat?\": price moved from 0.1137414584 to 0.436"
-  },
-  {
-   "t": 1793780088779,
-   "msg": "Copied Melody626: bought 42.4 Yes on \"Will the Democratic Party win the NC-05 House seat?\" for $35.96"
-  },
-  {
-   "t": 1793780088469,
-   "msg": "Skipped copying Melody626 on \"Will Mary Peltola win the Alaska Senate race in 2026?\": price moved from 0.812 to 0.862"
-  },
-  {
-   "t": 1793780088300,
-   "msg": "Skipped copying Melody626 on \"Will the Democratic Party candidate win the 2026 Texas Senate election by 9%-12%?\": price moved from 0.6784753144 to 0.746"
-  },
-  {
-   "t": 1793780088012,
-   "msg": "Copied Melody626: bought 30.6 Yes on \"Will the Democratic Party candidate win the 2026 Texas Senate election by 12% or more?\" for $8.90"
   }
  ]
 }
