@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": -2.220446049250313e-16,
+ "cash": 0,
  "created_at": 1793597589071,
- "last_run": 1794132901183,
+ "last_run": 1794140107680,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 3.9983232820555132,
+   "value": 4.4049324293831935,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -102,7 +102,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 33.75609030057504,
+   "value": 33.89586707200599,
    "status": null
   },
   "36589074670521348842786325911391532620430247097981345860356484520500173888573": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.43398784256290635,
+   "value": 0.48823632288326957,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 29.628744369936484,
+   "value": 29.781627467820574,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 41.50506882954545,
+   "value": 41.46263010886084,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.71575502831819,
+   "value": 38.06247800610661,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.5184236440941461,
+   "value": 0.6566699491859184,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -342,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 25.036235326438803,
+   "value": 24.086694163615586,
    "status": null
   },
   "109528281960787366259167519549419015523883006138549082473738768120949458572608": {
@@ -362,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 7.666430315213979,
+   "value": 8.049751830974678,
    "status": null
   },
   "85331727967475315858376579110951571331195967356518101610672711081418221614210": {
@@ -482,7 +482,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.737643606354404,
+   "value": 2.8028255969818896,
    "status": null
   },
   "62241196634539949570048341292124216174258011682931937370528971320456917890081": {
@@ -502,7 +502,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 7.754377789327907,
+   "value": 8.046995819113866,
    "status": null
   },
   "59829537164838842479334141813702861148547911732039010889360111029913489232986": {
@@ -522,7 +522,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 8.289249307621807,
+   "value": 8.43996293139675,
    "status": null
   },
   "115293091276127585345878162491472834216767959640048736693752969353534605710476": {
@@ -542,7 +542,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 6.693386537033663,
+   "value": 6.4023697310756775,
    "status": null
   },
   "28522360421981705944010083279882258195492679997443334825720974687261710025501": {
@@ -565,48 +565,192 @@
    "value": 5.98402316325999,
    "status": null
   },
-  "106463354885072584482084782595975826931106222903174345049968611616387211822019": {
-   "token": "106463354885072584482084782595975826931106222903174345049968611616387211822019",
-   "market_id": "6255799",
-   "slug": "chi-sgr-qin-2026-11-08-total-3pt5",
-   "question": "Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5",
-   "outcome": "Over",
+  "25205117571976535780971640384862875791259480929709304912150244891458452544956": {
+   "token": "25205117571976535780971640384862875791259480929709304912150244891458452544956",
+   "market_id": "6819649",
+   "slug": "dota2-pr1-playti-2026-11-08-game1",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 1 Winner",
+   "outcome": "Power Rangers",
    "idx": 0,
-   "shares": 32.7142654106753,
-   "cost_ex": 4.907139811601295,
-   "fees": 0.20855344199305506,
-   "opened_at": 1794125692044,
+   "shares": 4273.708686779187,
+   "cost_ex": 4.2737086867791865,
+   "fees": 0.21347174890462042,
+   "opened_at": 1794140096532,
    "source": "copy",
-   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.5)",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.2923920804)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 32.68155114526463,
+   "value": 2.1368543433895932,
    "status": null
   },
-  "64270481472599907589158791352494806491044194703723245875415499664444285832518": {
-   "token": "64270481472599907589158791352494806491044194703723245875415499664444285832518",
-   "market_id": "6255770",
-   "slug": "chi-sgr-qin-2026-11-08-spread-home-1pt5",
-   "question": "Spread: Shanghai Shenhua FC (-1.5)",
-   "outcome": "Shanghai Shenhua FC",
+  "77071277979653914675892126803201643919618093131366395234599642731563262706991": {
+   "token": "77071277979653914675892126803201643919618093131366395234599642731563262706991",
+   "market_id": "6817272",
+   "slug": "dota2-ic-z10-2026-11-08-game2",
+   "question": "Dota 2: Inner Circle vs Zero Tenacity - Game 2 Winner",
+   "outcome": "Zero Tenacity",
+   "idx": 1,
+   "shares": 4271.807656339649,
+   "cost_ex": 4.271807656339649,
+   "fees": 0.2133767924341655,
+   "opened_at": 1794140096884,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.5501091921)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.1359038281698246,
+   "status": null
+  },
+  "81318442048848422027071326378349077049284438177035371074133786848376997950459": {
+   "token": "81318442048848422027071326378349077049284438177035371074133786848376997950459",
+   "market_id": "6819707",
+   "slug": "dota2-ch1-angryb-2026-11-08-game2",
+   "question": "Dota 2: CyberHero vs angry birds - Game 2 Winner",
+   "outcome": "angry birds",
+   "idx": 1,
+   "shares": 4269.90747151618,
+   "cost_ex": 4.26990747151618,
+   "fees": 0.2132818782022332,
+   "opened_at": 1794140097358,
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.4366004497)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 2.13495373575809,
+   "status": null
+  },
+  "30161314877800300350040381900429491349978500249225200809689011334342771941154": {
+   "token": "30161314877800300350040381900429491349978500249225200809689011334342771941154",
+   "market_id": "6819651",
+   "slug": "dota2-pr1-playti-2026-11-08",
+   "question": "Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A",
+   "outcome": "Power Rangers",
    "idx": 0,
-   "shares": 5.9880179517276195,
-   "cost_ex": 1.6766450264837336,
-   "fees": 0.06035922095341441,
-   "opened_at": 1794125692292,
+   "shares": 35.389513985551574,
+   "cost_ex": 4.9545319579772205,
+   "fees": 0.2130448741930205,
+   "opened_at": 1794140098109,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.3)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 4.600636818121704,
+   "status": null
+  },
+  "91963033115499872899205236283189022638430217828571245799243905347037665153489": {
+   "token": "91963033115499872899205236283189022638430217828571245799243905347037665153489",
+   "market_id": "6819688",
+   "slug": "dota2-nemiga-synaps-2026-11-08-game2",
+   "question": "Dota 2: Nemiga Gaming vs Team Synapse - Game 2 Winner",
+   "outcome": "Team Synapse",
+   "idx": 1,
+   "shares": 4886.676199277239,
+   "cost_ex": 4.886676199277239,
+   "fees": 0.24408947615389812,
+   "opened_at": 1794140098586,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.6727624793)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 24.433380996386195,
+   "status": null
+  },
+  "16734056453702947312527444484300897630773310234903508481216242621503674465636": {
+   "token": "16734056453702947312527444484300897630773310234903508481216242621503674465636",
+   "market_id": "6819650",
+   "slug": "dota2-pr1-playti-2026-11-08-game2",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "PlayTime",
+   "idx": 1,
+   "shares": 17.159922922010203,
+   "cost_ex": 11.325549128526735,
+   "fees": 0.1925343351849545,
+   "opened_at": 1794140098903,
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.6847442446)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 11.325549128526733,
+   "status": null
+  },
+  "50384367867444353307197349323347196859596297106997564417457652238437893631500": {
+   "token": "50384367867444353307197349323347196859596297106997564417457652238437893631500",
+   "market_id": "6239142",
+   "slug": "fl1-rcl-olm-2026-11-08-total-2pt5",
+   "question": "Racing Club de Lens vs. Olympique de Marseille: O/U 2.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 6.917735814302046,
+   "cost_ex": 2.9054490420068593,
+   "fees": 0.08425802221819893,
+   "opened_at": 1794140100306,
    "source": "copy",
    "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)",
    "fee": {
     "rate": 0.05,
     "exp": 1
    },
-   "value": 5.982029933775892,
+   "value": 2.836271683863839,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794140097644,
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "Power Rangers",
+   "source": "copy",
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.3777711492)",
+   "shares": 13.52,
+   "avg": 0.35,
+   "final": null,
+   "cost": 4.88,
+   "payout": 4.44,
+   "pnl": -0.44,
+   "result": "sold"
+  },
+  {
+   "t": 1794140095466,
+   "question": "Spread: Shanghai Shenhua FC (-1.5)",
+   "outcome": "Shanghai Shenhua FC",
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)",
+   "shares": 5.99,
+   "avg": 0.28,
+   "final": 1,
+   "cost": 1.74,
+   "payout": 5.99,
+   "pnl": 4.25,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794140095345,
+   "question": "Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.5)",
+   "shares": 32.71,
+   "avg": 0.15,
+   "final": 1,
+   "cost": 5.12,
+   "payout": 32.71,
+   "pnl": 27.6,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1794125687998,
    "question": "Texas State vs. Oregon State",
@@ -3858,6 +4002,136 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794140100306,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Racing Club de Lens vs. Olympique de Marseille: O/U 2.5",
+   "outcome": "Under",
+   "shares": 6.92,
+   "price": 0.42,
+   "fee": 0.08,
+   "amount": -2.99,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)"
+  },
+  {
+   "t": 1794140098903,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "PlayTime",
+   "shares": 17.16,
+   "price": 0.66,
+   "fee": 0.19,
+   "amount": -11.52,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.6847442446)"
+  },
+  {
+   "t": 1794140098586,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Nemiga Gaming vs Team Synapse - Game 2 Winner",
+   "outcome": "Team Synapse",
+   "shares": 4886.68,
+   "price": 0.001,
+   "fee": 0.24,
+   "amount": -5.13,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.6727624793)"
+  },
+  {
+   "t": 1794140098109,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A",
+   "outcome": "Power Rangers",
+   "shares": 35.39,
+   "price": 0.14,
+   "fee": 0.21,
+   "amount": -5.17,
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.3)"
+  },
+  {
+   "t": 1794140097644,
+   "type": "SELL",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "Power Rangers",
+   "shares": 13.52,
+   "price": 0.34,
+   "fee": 0.15,
+   "amount": 4.44,
+   "reason": "Sisyphus- sold"
+  },
+  {
+   "t": 1794140097520,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "Power Rangers",
+   "shares": 13.52,
+   "price": 0.35,
+   "fee": 0.15,
+   "amount": -4.88,
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.3777711492)"
+  },
+  {
+   "t": 1794140097358,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: CyberHero vs angry birds - Game 2 Winner",
+   "outcome": "angry birds",
+   "shares": 4269.91,
+   "price": 0.001,
+   "fee": 0.21,
+   "amount": -4.48,
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.4366004497)"
+  },
+  {
+   "t": 1794140096884,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Inner Circle vs Zero Tenacity - Game 2 Winner",
+   "outcome": "Zero Tenacity",
+   "shares": 4271.81,
+   "price": 0.001,
+   "fee": 0.21,
+   "amount": -4.49,
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.5501091921)"
+  },
+  {
+   "t": 1794140096532,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 1 Winner",
+   "outcome": "Power Rangers",
+   "shares": 4273.71,
+   "price": 0.001,
+   "fee": 0.21,
+   "amount": -4.49,
+   "reason": "Copied Sisyphus- (edge score 6.4, they paid 0.2923920804)"
+  },
+  {
+   "t": 1794140095467,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Shanghai Shenhua FC (-1.5)",
+   "outcome": "Shanghai Shenhua FC",
+   "shares": 5.99,
+   "price": 1,
+   "fee": 0,
+   "amount": 5.99
+  },
+  {
+   "t": 1794140095345,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5",
+   "outcome": "Over",
+   "shares": 32.71,
+   "price": 1,
+   "fee": 0,
+   "amount": 32.71
+  },
   {
    "t": 1794125692292,
    "type": "BUY",
@@ -9566,6 +9840,11 @@
    "t": 1794132901183,
    "value": 479.02,
    "cash": 0
+  },
+  {
+   "t": 1794140107680,
+   "value": 490.81,
+   "cash": 0
   }
  ],
  "follows": {
@@ -9717,8 +9996,8 @@
  "last_seen_trade": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794121171,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794132868,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794132841,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794139777,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794139977,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1794006964,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794042981,
@@ -9729,10 +10008,62 @@
   "0x79ae097215202b5d01f98e4479fb219102469a4a": 1794081868,
   "0x31fb6a91f641ffb7c6fe71645975821def770ca6": 1794112819,
   "0x9c56304c8840621ef4c1e707b4c7d708d09878d1": 1794107805,
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": 1794132841,
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": 1794139966,
   "0x38337de21ff0bb0a11a40761507d51e318d633d1": 1794131893
  },
  "log": [
+  {
+   "t": 1794140102717,
+   "msg": "Skipped copying ferrariChampions2026 on \"SC Heerenveen vs. Feyenoord Rotterdam: O/U 3.5\": price moved from 0.5 to 0.88"
+  },
+  {
+   "t": 1794140100306,
+   "msg": "Copied ferrariChampions2026: bought 6.9 Under on \"Racing Club de Lens vs. Olympique de Marseille: O/U 2.5\" for $2.99"
+  },
+  {
+   "t": 1794140098903,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 17.2 PlayTime on \"Dota 2: Power Rangers vs PlayTime - Game 2 Winner\" for $11.52"
+  },
+  {
+   "t": 1794140098586,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 4886.7 Team Synapse on \"Dota 2: Nemiga Gaming vs Team Synapse - Game 2 Winner\" for $5.13"
+  },
+  {
+   "t": 1794140098426,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: CyberHero vs angry birds (BO3) - 1win Essence Play-in Group A\": price moved from 0.3289285102 to 0.5"
+  },
+  {
+   "t": 1794140098109,
+   "msg": "Copied 0xE16D3F2A...5e30: bought 35.4 Power Rangers on \"Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A\" for $5.17"
+  },
+  {
+   "t": 1794140097644,
+   "msg": "Copied a sell from Sisyphus-: Power Rangers on \"Dota 2: Power Rangers vs PlayTime - Game 2 Winner\""
+  },
+  {
+   "t": 1794140097520,
+   "msg": "Copied Sisyphus-: bought 13.5 Power Rangers on \"Dota 2: Power Rangers vs PlayTime - Game 2 Winner\" for $4.88"
+  },
+  {
+   "t": 1794140097358,
+   "msg": "Copied Sisyphus-: bought 4269.9 angry birds on \"Dota 2: CyberHero vs angry birds - Game 2 Winner\" for $4.48"
+  },
+  {
+   "t": 1794140096884,
+   "msg": "Copied Sisyphus-: bought 4271.8 Zero Tenacity on \"Dota 2: Inner Circle vs Zero Tenacity - Game 2 Winner\" for $4.49"
+  },
+  {
+   "t": 1794140096532,
+   "msg": "Copied Sisyphus-: bought 4273.7 Power Rangers on \"Dota 2: Power Rangers vs PlayTime - Game 1 Winner\" for $4.49"
+  },
+  {
+   "t": 1794140095467,
+   "msg": "Settled: Shanghai Shenhua FC on \"Spread: Shanghai Shenhua FC (-1.5)\" -> won (+4.25)"
+  },
+  {
+   "t": 1794140095345,
+   "msg": "Settled: Over on \"Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5\" -> won (+27.60)"
+  },
   {
    "t": 1794132894426,
    "msg": "Skipped copying Sisyphus- on \"Dota 2: Inner Circle vs Zero Tenacity - Game 1 Winner\": price moved from 0.609331867 to 0.65"
@@ -10880,58 +11211,6 @@
   {
    "t": 1793952954995,
    "msg": "Copied a sell from fantasy7788: PARIVISION on \"Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5)\""
-  },
-  {
-   "t": 1793945682966,
-   "msg": "Copied fantasy7788: bought 35.0 PARIVISION on \"Map Handicap: NAVI (-1.5) vs PARIVISION (+1.5)\" for $20.36"
-  },
-  {
-   "t": 1793945681245,
-   "msg": "Settled: Under on \"James Madison vs. Southern Miss: O/U 57.5\" -> lost (-4.01)"
-  },
-  {
-   "t": 1793945681205,
-   "msg": "Settled: Under on \"James Madison vs. Southern Miss: O/U 63.5\" -> lost (-4.41)"
-  },
-  {
-   "t": 1793945681162,
-   "msg": "Settled: Ravens on \"Spread: Jaguars (-17.5)\" -> lost (-4.01)"
-  },
-  {
-   "t": 1793945681117,
-   "msg": "Settled: Ravens on \"Spread: Jaguars (-16.5)\" -> lost (-4.01)"
-  },
-  {
-   "t": 1793945681073,
-   "msg": "Settled: Ravens on \"Spread: Jaguars (-13.5)\" -> lost (-4.01)"
-  },
-  {
-   "t": 1793945681022,
-   "msg": "Settled: Ravens on \"Spread: Jaguars (-20.5)\" -> lost (-4.01)"
-  },
-  {
-   "t": 1793945680965,
-   "msg": "Settled: Southern Miss on \"James Madison vs. Southern Miss\" -> lost (-4.02)"
-  },
-  {
-   "t": 1793945680926,
-   "msg": "Settled: Suns on \"Magic vs. Suns\" -> won (+16.11)"
-  },
-  {
-   "t": 1793945680883,
-   "msg": "Settled: Ravens on \"Spread: Jaguars (-6.5)\" -> lost (-4.52)"
-  },
-  {
-   "t": 1793945680839,
-   "msg": "Settled: Ravens on \"Spread: Jaguars (-5.5)\" -> lost (-4.37)"
-  },
-  {
-   "t": 1793945680795,
-   "msg": "Settled: James Madison on \"Spread: James Madison (-16.5)\" -> won (+6.31)"
-  },
-  {
-   "t": 1793945680661,
-   "msg": "Settled: James Madison on \"Spread: James Madison (-17.5)\" -> won (+6.98)"
   }
  ]
 }
