@@ -3,7 +3,7 @@
  "start_cash": 1000,
  "cash": 0,
  "created_at": 1793597589071,
- "last_run": 1794147304336,
+ "last_run": 1794154512521,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 4.4049324293831935,
+   "value": 4.371048333772553,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -42,7 +42,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 47.08604348440047,
+   "value": 47.23077517543859,
    "status": null
   },
   "16661917299889844562247566603559122251937209362630950418259738730496536105112": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.36537414129358,
+   "value": 34.96801038689702,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.5424848032036329,
+   "value": 0.6509817638443596,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.8549923535468981,
+   "value": 0.9327189311420707,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.13049001067241,
+   "value": 27.916453673634685,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 41.420191388176235,
+   "value": 41.08068162269938,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -262,7 +262,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.7257931017318046,
+   "value": 0.8640394068235768,
    "status": null
   },
   "103502498945612760857347547468692815475021002076650480255628165092951554808841": {
@@ -342,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 21.554584396087012,
+   "value": 21.522933023992906,
    "status": null
   },
   "109528281960787366259167519549419015523883006138549082473738768120949458572608": {
@@ -362,7 +362,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 8.049751830974678,
+   "value": 5.366501220649785,
    "status": null
   },
   "85331727967475315858376579110951571331195967356518101610672711081418221614210": {
@@ -382,7 +382,7 @@
     "rate": 0.03,
     "exp": 1
    },
-   "value": 7.378799609839648,
+   "value": 1.5811713449656382,
    "status": null
   },
   "67479561577928698492432732746636177314760732449162451363947936743822073737679": {
@@ -402,7 +402,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 5.126029884748448,
+   "value": 0.007538279242277129,
    "status": null
   },
   "87144593684511953134959198656162403511180055172755344578938189391494042982726": {
@@ -422,7 +422,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 8.347473080200336,
+   "value": 0.007729141740926236,
    "status": null
   },
   "24793802334610940157780095627302773038904558308364989634689940274088498751689": {
@@ -442,7 +442,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 11.027642541190197,
+   "value": 17.213460779139073,
    "status": null
   },
   "115649663583098891223148755855623790508315707911489609410070180901918407484740": {
@@ -462,27 +462,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 10.657366539919304,
-   "status": null
-  },
-  "90344126852796389253949460158034488493510038227915475660792340593046585698158": {
-   "token": "90344126852796389253949460158034488493510038227915475660792340593046585698158",
-   "market_id": "6240082",
-   "slug": "epl-cry-liv-2026-11-08-total-3pt5",
-   "question": "Crystal Palace FC vs. Liverpool FC: O/U 3.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 6.518199062748581,
-   "cost_ex": 2.8680075876093754,
-   "fees": 0.08030421245306253,
-   "opened_at": 1794118607967,
-   "source": "copy",
-   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 2.6072796250994323,
+   "value": 10.826531088171992,
    "status": null
   },
   "62241196634539949570048341292124216174258011682931937370528971320456917890081": {
@@ -502,27 +482,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 7.900686804220887,
-   "status": null
-  },
-  "59829537164838842479334141813702861148547911732039010889360111029913489232986": {
-   "token": "59829537164838842479334141813702861148547911732039010889360111029913489232986",
-   "market_id": "6240127",
-   "slug": "fl1-ren-lil-2026-11-08-total-2pt5",
-   "question": "Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 15.071362377494193,
-   "cost_ex": 8.590676555171688,
-   "fees": 0.18469954593619137,
-   "opened_at": 1794125691448,
-   "source": "copy",
-   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.57)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 6.782113069872387,
+   "value": 7.461759759541948,
    "status": null
   },
   "115293091276127585345878162491472834216767959640048736693752969353534605710476": {
@@ -542,7 +502,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 6.54787813405467,
+   "value": 6.984403342991649,
    "status": null
   },
   "28522360421981705944010083279882258195492679997443334825720974687261710025501": {
@@ -562,47 +522,7 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 5.98402316325999,
-   "status": null
-  },
-  "30161314877800300350040381900429491349978500249225200809689011334342771941154": {
-   "token": "30161314877800300350040381900429491349978500249225200809689011334342771941154",
-   "market_id": "6819651",
-   "slug": "dota2-pr1-playti-2026-11-08",
-   "question": "Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A",
-   "outcome": "Power Rangers",
-   "idx": 0,
-   "shares": 35.389513985551574,
-   "cost_ex": 4.9545319579772205,
-   "fees": 0.2130448741930205,
-   "opened_at": 1794140098109,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.3)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 0.017694756992775788,
-   "status": null
-  },
-  "16734056453702947312527444484300897630773310234903508481216242621503674465636": {
-   "token": "16734056453702947312527444484300897630773310234903508481216242621503674465636",
-   "market_id": "6819650",
-   "slug": "dota2-pr1-playti-2026-11-08-game2",
-   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
-   "outcome": "PlayTime",
-   "idx": 1,
-   "shares": 17.159922922010203,
-   "cost_ex": 11.325549128526735,
-   "fees": 0.1925343351849545,
-   "opened_at": 1794140098903,
-   "source": "copy",
-   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.6847442446)",
-   "fee": {
-    "rate": 0.05,
-    "exp": 1
-   },
-   "value": 17.142762999088195,
+   "value": 6.432824900504489,
    "status": null
   },
   "50384367867444353307197349323347196859596297106997564417457652238437893631500": {
@@ -624,9 +544,229 @@
    },
    "value": 2.836271683863839,
    "status": null
+  },
+  "36837675842868318404437587806509257735899236028945335514196526399030813839868": {
+   "token": "36837675842868318404437587806509257735899236028945335514196526399030813839868",
+   "market_id": "5972741",
+   "slug": "nfl-cin-atl-2026-11-08-spread-away-3pt5",
+   "question": "Spread: Bengals (-3.5)",
+   "outcome": "Falcons",
+   "idx": 1,
+   "shares": 21.003755014250334,
+   "cost_ex": 3.15056325213755,
+   "fees": 0.08033936292950752,
+   "opened_at": 1794154495610,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.63)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 2.7304881518525437,
+   "status": null
+  },
+  "45231410649751579602505353524749322392840523009285672602678481927180525825029": {
+   "token": "45231410649751579602505353524749322392840523009285672602678481927180525825029",
+   "market_id": "5972742",
+   "slug": "nfl-cin-atl-2026-11-08-spread-away-4pt5",
+   "question": "Spread: Bengals (-4.5)",
+   "outcome": "Falcons",
+   "idx": 1,
+   "shares": 17.722294313758827,
+   "cost_ex": 3.1900129764765888,
+   "fees": 0.0784743192213241,
+   "opened_at": 1794154495875,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.66)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 2.8355670902014127,
+   "status": null
+  },
+  "106453524973955086716222547452190008797572656966908285360559040386082915966610": {
+   "token": "106453524973955086716222547452190008797572656966908285360559040386082915966610",
+   "market_id": "5972935",
+   "slug": "nfl-cin-atl-2026-11-08-total-64pt5",
+   "question": "Bengals vs. Falcons: O/U 64.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 10.272818093585052,
+   "cost_ex": 3.6982145136906186,
+   "fees": 0.07100571866285987,
+   "opened_at": 1794154496131,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.47)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.6982145136906186,
+   "status": null
+  },
+  "98755400007403441339753945703224591459369800189557728169704036790777451198150": {
+   "token": "98755400007403441339753945703224591459369800189557728169704036790777451198150",
+   "market_id": "5920623",
+   "slug": "nfl-nyj-kc-2026-11-08",
+   "question": "Jets vs. Chiefs",
+   "outcome": "Chiefs",
+   "idx": 1,
+   "shares": 17.505261137165043,
+   "cost_ex": 14.179261521103685,
+   "fees": 0.08082179067029098,
+   "opened_at": 1794154496395,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.81)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 14.004208909732036,
+   "status": null
+  },
+  "108902180528622180361974374077866724986185806129897533926043823627829055780824": {
+   "token": "108902180528622180361974374077866724986185806129897533926043823627829055780824",
+   "market_id": "5977248",
+   "slug": "nfl-tb-chi-2026-11-09-total-48pt5",
+   "question": "Buccaneers vs. Bears: O/U 48.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 9.279287122528448,
+   "cost_ex": 4.54685069003894,
+   "fees": 0.06956681555759578,
+   "opened_at": 1794154496829,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.48)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 4.454057818813655,
+   "status": null
+  },
+  "114526227126218289492922156158688773183568146060275687313244435027608201123331": {
+   "token": "114526227126218289492922156158688773183568146060275687313244435027608201123331",
+   "market_id": "5977257",
+   "slug": "nfl-tb-chi-2026-11-09-total-58pt5",
+   "question": "Buccaneers vs. Bears: O/U 58.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 14.806485005972117,
+   "cost_ex": 3.257426701313866,
+   "fees": 0.07622378481074446,
+   "opened_at": 1794154497110,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.21)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.1093618512541443,
+   "status": null
+  },
+  "63024268212162109251917727887323548556675906682139340669960294917853116875028": {
+   "token": "63024268212162109251917727887323548556675906682139340669960294917853116875028",
+   "market_id": "5972927",
+   "slug": "nfl-cin-atl-2026-11-08-total-52pt5",
+   "question": "Bengals vs. Falcons: O/U 52.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 16.098203791547363,
+   "cost_ex": 3.2196407583094726,
+   "fees": 0.07727137819942735,
+   "opened_at": 1794154497641,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.18)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 3.058658720393998,
+   "status": null
+  },
+  "53716753617067632630438125072828182516059396182209000057833543416185485160950": {
+   "token": "53716753617067632630438125072828182516059396182209000057833543416185485160950",
+   "market_id": "5974639",
+   "slug": "nfl-det-mia-2026-11-08-spread-away-7pt5",
+   "question": "Spread: Lions (-7.5)",
+   "outcome": "Lions",
+   "idx": 0,
+   "shares": 6.646991406038797,
+   "cost_ex": 2.924676218657071,
+   "fees": 0.049134560473438796,
+   "opened_at": 1794154498106,
+   "source": "copy",
+   "reason": "Copied primm (edge score 3.9, they paid 0.43)",
+   "fee": {
+    "rate": 0.03,
+    "exp": 1
+   },
+   "value": 2.8582063045966826,
+   "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794154480654,
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "PlayTime",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.6847442446)",
+   "shares": 17.16,
+   "avg": 0.66,
+   "final": 1,
+   "cost": 11.52,
+   "payout": 17.16,
+   "pnl": 5.64,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794154480530,
+   "question": "Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A",
+   "outcome": "Power Rangers",
+   "source": "copy",
+   "reason": "Copied 0xE16D3F2A...5e30 (edge score 4.1, they paid 0.3)",
+   "shares": 35.39,
+   "avg": 0.14,
+   "final": 0,
+   "cost": 5.17,
+   "payout": 0,
+   "pnl": -5.17,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794154480327,
+   "question": "Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.57)",
+   "shares": 15.07,
+   "avg": 0.5699999999999998,
+   "final": 1,
+   "cost": 8.78,
+   "payout": 15.07,
+   "pnl": 6.3,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794154480170,
+   "question": "Crystal Palace FC vs. Liverpool FC: O/U 3.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)",
+   "shares": 6.52,
+   "avg": 0.44,
+   "final": 1,
+   "cost": 2.95,
+   "payout": 6.52,
+   "pnl": 3.57,
+   "result": "won",
+   "group": null
+  },
   {
    "t": 1794147288941,
    "question": "Dota 2: Nemiga Gaming vs Team Synapse - Game 2 Winner",
@@ -3982,6 +4122,146 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794154498106,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Lions (-7.5)",
+   "outcome": "Lions",
+   "shares": 6.65,
+   "price": 0.44000000000000006,
+   "fee": 0.05,
+   "amount": -2.97,
+   "reason": "Copied primm (edge score 3.9, they paid 0.43)"
+  },
+  {
+   "t": 1794154497641,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Bengals vs. Falcons: O/U 52.5",
+   "outcome": "Under",
+   "shares": 16.1,
+   "price": 0.2,
+   "fee": 0.08,
+   "amount": -3.3,
+   "reason": "Copied primm (edge score 3.9, they paid 0.18)"
+  },
+  {
+   "t": 1794154497110,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Buccaneers vs. Bears: O/U 58.5",
+   "outcome": "Over",
+   "shares": 14.81,
+   "price": 0.22,
+   "fee": 0.08,
+   "amount": -3.33,
+   "reason": "Copied primm (edge score 3.9, they paid 0.21)"
+  },
+  {
+   "t": 1794154496829,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Buccaneers vs. Bears: O/U 48.5",
+   "outcome": "Over",
+   "shares": 9.28,
+   "price": 0.49000000000000005,
+   "fee": 0.07,
+   "amount": -4.62,
+   "reason": "Copied primm (edge score 3.9, they paid 0.48)"
+  },
+  {
+   "t": 1794154496395,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Jets vs. Chiefs",
+   "outcome": "Chiefs",
+   "shares": 17.51,
+   "price": 0.81,
+   "fee": 0.08,
+   "amount": -14.26,
+   "reason": "Copied primm (edge score 3.9, they paid 0.81)"
+  },
+  {
+   "t": 1794154496131,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Bengals vs. Falcons: O/U 64.5",
+   "outcome": "Over",
+   "shares": 10.27,
+   "price": 0.36,
+   "fee": 0.07,
+   "amount": -3.77,
+   "reason": "Copied primm (edge score 3.9, they paid 0.47)"
+  },
+  {
+   "t": 1794154495875,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Bengals (-4.5)",
+   "outcome": "Falcons",
+   "shares": 17.72,
+   "price": 0.18,
+   "fee": 0.08,
+   "amount": -3.27,
+   "reason": "Copied primm (edge score 3.9, they paid 0.66)"
+  },
+  {
+   "t": 1794154495610,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Bengals (-3.5)",
+   "outcome": "Falcons",
+   "shares": 21,
+   "price": 0.15,
+   "fee": 0.08,
+   "amount": -3.23,
+   "reason": "Copied primm (edge score 3.9, they paid 0.63)"
+  },
+  {
+   "t": 1794154480654,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime - Game 2 Winner",
+   "outcome": "PlayTime",
+   "shares": 17.16,
+   "price": 1,
+   "fee": 0,
+   "amount": 17.16
+  },
+  {
+   "t": 1794154480530,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A",
+   "outcome": "Power Rangers",
+   "shares": 35.39,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794154480327,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5",
+   "outcome": "Over",
+   "shares": 15.07,
+   "price": 1,
+   "fee": 0,
+   "amount": 15.07
+  },
+  {
+   "t": 1794154480170,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Crystal Palace FC vs. Liverpool FC: O/U 3.5",
+   "outcome": "Over",
+   "shares": 6.52,
+   "price": 1,
+   "fee": 0,
+   "amount": 6.52
+  },
   {
    "t": 1794147288941,
    "type": "SETTLE",
@@ -9874,44 +10154,49 @@
    "t": 1794147304336,
    "value": 452.88,
    "cash": 0
+  },
+  {
+   "t": 1794154512521,
+   "value": 447.39,
+   "cash": 0
   }
  ],
  "follows": {
   "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": {
    "wallet": "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029",
    "name": "primm",
-   "clean_bets": 2994,
-   "win_rate": 0.5210420841683366,
-   "expected_win_rate": 0.4703204408817642,
-   "edge_score": 4.219069596438754,
-   "updated_at": 1794060932584
+   "clean_bets": 2992,
+   "win_rate": 0.5284090909090909,
+   "expected_win_rate": 0.47209037433155204,
+   "edge_score": 3.870429304341143,
+   "updated_at": 1794154483660
   },
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": {
    "wallet": "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3",
    "name": "hi774c",
-   "clean_bets": 2973,
-   "win_rate": 0.5573494786411033,
-   "expected_win_rate": 0.44888620921628064,
-   "edge_score": 7.384515249168108,
-   "updated_at": 1794060936594
+   "clean_bets": 2977,
+   "win_rate": 0.5582801477997985,
+   "expected_win_rate": 0.44949727914007565,
+   "edge_score": 7.023147538446183,
+   "updated_at": 1794154486964
   },
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": {
    "wallet": "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a",
    "name": "Sisyphus-",
-   "clean_bets": 1804,
-   "win_rate": 0.6241685144124168,
-   "expected_win_rate": 0.5493461751662977,
-   "edge_score": 6.398789956383192,
-   "updated_at": 1794060939168
+   "clean_bets": 1826,
+   "win_rate": 0.6237677984665937,
+   "expected_win_rate": 0.5502433734939766,
+   "edge_score": 6.1510396243243495,
+   "updated_at": 1794154489828
   },
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": {
    "wallet": "0xe16d3f2a5807999b358affd9445c3a09e45e5e30",
    "name": "0xE16D3F2A...5e30",
-   "clean_bets": 1664,
-   "win_rate": 0.6316105769230769,
-   "expected_win_rate": 0.5458400240384615,
-   "edge_score": 4.0803273594682885,
-   "updated_at": 1794060942110
+   "clean_bets": 1703,
+   "win_rate": 0.6318261890780975,
+   "expected_win_rate": 0.5471945977686431,
+   "edge_score": 4.143003116097028,
+   "updated_at": 1794154492156
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
@@ -9920,16 +10205,16 @@
    "win_rate": 0.5185873605947955,
    "expected_win_rate": 0.4071862453531598,
    "edge_score": 3.760546406647213,
-   "updated_at": 1794060943247
+   "updated_at": 1794154493474
   },
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": {
    "wallet": "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0",
    "name": "0xC9BFc798...81c0",
-   "clean_bets": 639,
-   "win_rate": 0.5571205007824727,
-   "expected_win_rate": 0.5432890453834113,
-   "edge_score": 2.320840667176637,
-   "updated_at": 1794060944049
+   "clean_bets": 666,
+   "win_rate": 0.5645645645645646,
+   "expected_win_rate": 0.5461178678678672,
+   "edge_score": 2.419865625752901,
+   "updated_at": 1794154494467
   },
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": {
    "wallet": "0xecaa8806a9a05049d7d5260a33dc924220e377a9",
@@ -10023,24 +10308,124 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794146518,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794153883,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
-  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794146239,
-  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794146977,
+  "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794154018,
+  "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794154389,
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": 1794006964,
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794042981,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794064806,
   "0xc8b9a30184244d427169cf62485dde6041b2b836": 1794124831,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
-  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1794145917,
+  "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1794154093,
   "0x79ae097215202b5d01f98e4479fb219102469a4a": 1794081868,
   "0x31fb6a91f641ffb7c6fe71645975821def770ca6": 1794112819,
   "0x9c56304c8840621ef4c1e707b4c7d708d09878d1": 1794107805,
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": 1794147156,
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": 1794154468,
   "0x38337de21ff0bb0a11a40761507d51e318d633d1": 1794131893
  },
  "log": [
+  {
+   "t": 1794154508046,
+   "msg": "Skipped copying ferrariChampions2026 on \"Celtic FC vs. Kilmarnock FC: O/U 3.5\": price moved from 0.4 to 0.52"
+  },
+  {
+   "t": 1794154506970,
+   "msg": "Skipped copying ferrariChampions2026 on \"SC Cambuur-Leeuwarden vs. PSV: O/U 3.5\": price moved from 0.5699999999 to 0.97"
+  },
+  {
+   "t": 1794154506510,
+   "msg": "Skipped copying ferrariChampions2026 on \"Spread: Trabzonspor (-1.5)\": price moved from 0.3699999999 to 0.91"
+  },
+  {
+   "t": 1794154503345,
+   "msg": "Skipped copying ferrariChampions2026 on \"Real Sociedad de Fútbol vs. Rayo Vallecano de Madrid: O/U 2.5\": price moved from 0.42 to 0.76"
+  },
+  {
+   "t": 1794154503060,
+   "msg": "Skipped copying ferrariChampions2026 on \"Bengals vs. Falcons: O/U 52.5\": price moved from 0.5 to 0.81"
+  },
+  {
+   "t": 1794154501071,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: PuckChamp vs Inner Circle - Game 1 Winner\": price moved from 0.334352311 to 0.4"
+  },
+  {
+   "t": 1794154500434,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Yakult Brothers vs Zero Tenacity - Game 1 Winner\": price moved from 0.4448011639 to 0.54"
+  },
+  {
+   "t": 1794154500169,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Yakult Brothers vs Zero Tenacity (BO3) - DreamLeague Division 2 Group B\": price moved from 0.4153746576 to 0.49"
+  },
+  {
+   "t": 1794154499914,
+   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Amaru Gaming vs CyberHero (BO3) - DreamLeague Division 2 Group B\": price moved from 0.7458446014 to 0.79"
+  },
+  {
+   "t": 1794154498106,
+   "msg": "Copied primm: bought 6.6 Lions on \"Spread: Lions (-7.5)\" for $2.97"
+  },
+  {
+   "t": 1794154497641,
+   "msg": "Copied primm: bought 16.1 Under on \"Bengals vs. Falcons: O/U 52.5\" for $3.30"
+  },
+  {
+   "t": 1794154497463,
+   "msg": "Skipped copying primm on \"Bengals vs. Falcons: O/U 64.5\": price moved from 0.55 to 0.65"
+  },
+  {
+   "t": 1794154497287,
+   "msg": "Skipped copying primm on \"Bengals vs. Falcons: O/U 58.5\": price moved from 0.36 to 0.45"
+  },
+  {
+   "t": 1794154497110,
+   "msg": "Copied primm: bought 14.8 Over on \"Buccaneers vs. Bears: O/U 58.5\" for $3.33"
+  },
+  {
+   "t": 1794154496829,
+   "msg": "Copied primm: bought 9.3 Over on \"Buccaneers vs. Bears: O/U 48.5\" for $4.62"
+  },
+  {
+   "t": 1794154496566,
+   "msg": "Skipped copying primm on \"Bengals vs. Falcons\": price moved from 0.7 to 0.94"
+  },
+  {
+   "t": 1794154496395,
+   "msg": "Copied primm: bought 17.5 Chiefs on \"Jets vs. Chiefs\" for $14.26"
+  },
+  {
+   "t": 1794154496131,
+   "msg": "Copied primm: bought 10.3 Over on \"Bengals vs. Falcons: O/U 64.5\" for $3.77"
+  },
+  {
+   "t": 1794154495875,
+   "msg": "Copied primm: bought 17.7 Falcons on \"Spread: Bengals (-4.5)\" for $3.27"
+  },
+  {
+   "t": 1794154495610,
+   "msg": "Copied primm: bought 21.0 Falcons on \"Spread: Bengals (-3.5)\" for $3.23"
+  },
+  {
+   "t": 1794154495435,
+   "msg": "Skipped copying primm on \"Bengals vs. Falcons: O/U 58.5\": price moved from 0.48 to 0.56"
+  },
+  {
+   "t": 1794154480654,
+   "msg": "Settled: PlayTime on \"Dota 2: Power Rangers vs PlayTime - Game 2 Winner\" -> won (+5.64)"
+  },
+  {
+   "t": 1794154480530,
+   "msg": "Settled: Power Rangers on \"Dota 2: Power Rangers vs PlayTime (BO3) - DreamLeague Division 2 Group A\" -> lost (-5.17)"
+  },
+  {
+   "t": 1794154480327,
+   "msg": "Settled: Over on \"Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5\" -> won (+6.30)"
+  },
+  {
+   "t": 1794154480170,
+   "msg": "Settled: Over on \"Crystal Palace FC vs. Liverpool FC: O/U 3.5\" -> won (+3.57)"
+  },
   {
    "t": 1794147300382,
    "msg": "Skipped copying ferrariChampions2026 on \"Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5\": price moved from 0.49 to 0.59"
@@ -11140,106 +11525,6 @@
   {
    "t": 1794017712257,
    "msg": "Skipped copying primm on \"Virginia Tech vs. SMU: O/U 55.5\": price moved from 0.5 to 0.92"
-  },
-  {
-   "t": 1794017711993,
-   "msg": "Skipped copying primm on \"Virginia Tech vs. SMU: O/U 57.5\": price moved from 0.46 to 0.88"
-  },
-  {
-   "t": 1794017711727,
-   "msg": "Skipped copying primm on \"Spread: SMU (-10.5)\": price moved from 0.54 to 0.6"
-  },
-  {
-   "t": 1794017711558,
-   "msg": "Copied primm: bought 35.2 Virginia Tech on \"Virginia Tech vs. SMU\" for $3.61"
-  },
-  {
-   "t": 1794017711395,
-   "msg": "Skipped copying primm on \"Virginia Tech vs. SMU\": price moved from 0.75 to 0.91"
-  },
-  {
-   "t": 1794017710301,
-   "msg": "Settled: Karmine Corp on \"LoL: Karmine Corp vs T1 - Game 2 Winner\" -> lost (-7.51)"
-  },
-  {
-   "t": 1794010487398,
-   "msg": "Copied Melody626: bought 16.9 Yes on \"Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?\" for $7.24"
-  },
-  {
-   "t": 1794010487020,
-   "msg": "Copied Melody626: bought 31.7 Yes on \"Will the Democratic Party win the popular vote in the 2026 U.S. House of Representatives midterm elections by between 14% and 16%?\" for $26.03"
-  },
-  {
-   "t": 1794010486454,
-   "msg": "Copied BrotherObama: bought 7153.3 Karmine Corp on \"LoL: Karmine Corp vs T1 - Game 2 Winner\" for $7.51"
-  },
-  {
-   "t": 1794010485560,
-   "msg": "Skipped copying primm on \"Spread: SMU (-4.5)\": price moved from 0.56 to 0.72"
-  },
-  {
-   "t": 1794010485176,
-   "msg": "Skipped copying primm on \"Spread: SMU (-7.5)\": price moved from 0.45 to 0.58"
-  },
-  {
-   "t": 1794010484848,
-   "msg": "Skipped copying primm on \"Spread: SMU (-6.5)\": price moved from 0.4625641026 to 0.69"
-  },
-  {
-   "t": 1794010484573,
-   "msg": "Skipped copying primm on \"Virginia Tech vs. SMU\": price moved from 0.66 to 0.77"
-  },
-  {
-   "t": 1794003278348,
-   "msg": "Copied primm: bought 10.8 Wisconsin on \"Spread: Wisconsin (-20.5)\" for $5.16"
-  },
-  {
-   "t": 1794003278084,
-   "msg": "Copied primm: bought 19.6 Houston on \"Cincinnati vs. Houston\" for $15.76"
-  },
-  {
-   "t": 1794003277827,
-   "msg": "Copied primm: bought 10.8 Under on \"Cincinnati vs. Houston: O/U 61.5\" for $5.71"
-  },
-  {
-   "t": 1794003277570,
-   "msg": "Copied primm: bought 13.5 Oklahoma State on \"Oklahoma State vs. Kansas State\" for $9.38"
-  },
-  {
-   "t": 1794003277312,
-   "msg": "Copied primm: bought 10.9 Under on \"Clemson vs. Syracuse: O/U 47.5\" for $4.99"
-  },
-  {
-   "t": 1794003277057,
-   "msg": "Copied primm: bought 10.8 Over on \"TCU vs. Arizona: O/U 47.5\" for $5.26"
-  },
-  {
-   "t": 1794003276795,
-   "msg": "Copied primm: bought 17.4 Nevada on \"New Mexico vs. Nevada\" for $3.91"
-  },
-  {
-   "t": 1794003275952,
-   "msg": "Settled: Xipto Esports on \"Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider\" -> won (+5.62)"
-  },
-  {
-   "t": 1793996179998,
-   "msg": "Skipped copying Melody626 on \"Will Labour Party win the most seats in the New Zealand House of Representatives in the 2026 New Zealand legislative election?\": price moved from 0.32 to 0.4"
-  },
-  {
-   "t": 1793996177801,
-   "msg": "Settled: Stray Team on \"Dota 2: rostikfacekid TEAM vs Stray Team - Game 2 Winner\" -> lost (-5.45)"
-  },
-  {
-   "t": 1793988879777,
-   "msg": "Copied 0xE16D3F2A...5e30: bought 34.5 Xipto Esports on \"Dota 2: Level Up Academy vs Xipto Esports (BO3) - Esports Pro Circuit  Decider\" for $28.87"
-  },
-  {
-   "t": 1793988879521,
-   "msg": "Skipped copying 0xE16D3F2A...5e30 on \"Dota 2: Level Up Academy vs Xipto Esports - Game 1 Winner\": price moved from 0.7599999848 to 0.82"
-  },
-  {
-   "t": 1793988879103,
-   "msg": "Copied Sisyphus-: bought 1927.1 Stray Team on \"Dota 2: rostikfacekid TEAM vs Stray Team - Game 2 Winner\" for $5.45"
   }
  ]
 }
