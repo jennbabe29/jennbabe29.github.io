@@ -1,9 +1,9 @@
 {
  "v": 1,
  "start_cash": 1000,
- "cash": 0,
+ "cash": -2.220446049250313e-16,
  "created_at": 1793597589071,
- "last_run": 1794118613634,
+ "last_run": 1794125696593,
  "positions": {
   "20573987323773543842507774435019884157528626331287167017000081213642708453675": {
    "token": "20573987323773543842507774435019884157528626331287167017000081213642708453675",
@@ -22,7 +22,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 4.133859664498074,
+   "value": 3.930555090834234,
    "status": null
   },
   "5257506632249107929978538981545694090990532334265786851869077458084416330759": {
@@ -82,7 +82,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 35.40149811896599,
+   "value": 35.07638231991426,
    "status": null
   },
   "13657829570112686942772887073735938550189108105291149479452313740274785506604": {
@@ -122,7 +122,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.5424848032036329,
+   "value": 0.43398784256290635,
    "status": null
   },
   "79484096963248498578517243733071571984223432387663163312687533493173144145268": {
@@ -162,7 +162,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 0.5959037615629896,
+   "value": 0.6218126207613804,
    "status": null
   },
   "31514667359619951245662039262872127473337613803714420759590287175144536772517": {
@@ -202,7 +202,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 28.925482119669674,
+   "value": 27.947030293211505,
    "status": null
   },
   "44156405057082132278379211326417632121877005350935113936638337010271320476603": {
@@ -222,7 +222,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 41.37775266749163,
+   "value": 41.50506882954545,
    "status": null
   },
   "47452675960837510635257230024047787670979224397619372242425968763636167923680": {
@@ -242,7 +242,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 37.831329354247664,
+   "value": 37.86985412955749,
    "status": null
   },
   "49056167266735883072571397929140933122755707874985754004430652519006754715180": {
@@ -342,7 +342,7 @@
     "rate": 0.04,
     "exp": 1
    },
-   "value": 24.181648279897907,
+   "value": 24.909629838062376,
    "status": null
   },
   "109528281960787366259167519549419015523883006138549082473738768120949458572608": {
@@ -363,326 +363,6 @@
     "exp": 1
    },
    "value": 6.899787283692581,
-   "status": null
-  },
-  "492921415206988627168524167880388311381737610216642474636848294756177473341": {
-   "token": "492921415206988627168524167880388311381737610216642474636848294756177473341",
-   "market_id": "6277278",
-   "slug": "cfb-wyom-unlv-2026-11-07-total-67pt5",
-   "question": "Wyoming vs. UNLV: O/U 67.5",
-   "outcome": "Under",
-   "idx": 1,
-   "shares": 35.1861855521448,
-   "cost_ex": 2.814894844171584,
-   "fees": 0.07769109769913571,
-   "opened_at": 1794118592545,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.72)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.4630329886501343,
-   "status": null
-  },
-  "92540770054850036215439095429649268807340772324271699248517767582320772173648": {
-   "token": "92540770054850036215439095429649268807340772324271699248517767582320772173648",
-   "market_id": "6277177",
-   "slug": "cfb-txst-oregst-2026-11-07-total-73pt5",
-   "question": "Texas State vs. Oregon State: O/U 73.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 70.33734629423641,
-   "cost_ex": 2.8134938517694565,
-   "fees": 0.08102862293096033,
-   "opened_at": 1794118594651,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.57)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.110120388827092,
-   "status": null
-  },
-  "44078574015381759408759597240099709042401406663358790240512693583727342445956": {
-   "token": "44078574015381759408759597240099709042401406663358790240512693583727342445956",
-   "market_id": "6277240",
-   "slug": "cfb-wyom-unlv-2026-11-07-spread-away-6pt5",
-   "question": "Spread: Wyoming (-6.5)",
-   "outcome": "UNLV",
-   "idx": 1,
-   "shares": 16.832285217808277,
-   "cost_ex": 2.8614884870274073,
-   "fees": 0.07125106332698243,
-   "opened_at": 1794118595332,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.53)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.6931656348493247,
-   "status": null
-  },
-  "75431072922536058857810095002897542380609106953916513218174288552075249789622": {
-   "token": "75431072922536058857810095002897542380609106953916513218174288552075249789622",
-   "market_id": "6277135",
-   "slug": "cfb-txst-oregst-2026-11-07-spread-away-7pt5",
-   "question": "Spread: Texas State (-7.5)",
-   "outcome": "Oregon State",
-   "idx": 1,
-   "shares": 15.949512423116468,
-   "cost_ex": 2.8709122361609642,
-   "fees": 0.07062444100955972,
-   "opened_at": 1794118595811,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.487010205)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.5519219876986354,
-   "status": null
-  },
-  "76186747758519945918990135805307106995543696077212614505198437764801317699704": {
-   "token": "76186747758519945918990135805307106995543696077212614505198437764801317699704",
-   "market_id": "6277138",
-   "slug": "cfb-txst-oregst-2026-11-07-spread-away-4pt5",
-   "question": "Spread: Texas State (-4.5)",
-   "outcome": "Oregon State",
-   "idx": 1,
-   "shares": 35.16312510830019,
-   "cost_ex": 2.8130500086640153,
-   "fees": 0.07764018023912682,
-   "opened_at": 1794118595984,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.35)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.1097875064980136,
-   "status": null
-  },
-  "36458728752652022830930521820896734388109393340739983419865997324097148629737": {
-   "token": "36458728752652022830930521820896734388109393340739983419865997324097148629737",
-   "market_id": "6272655",
-   "slug": "cfb-wvir-txtech-2026-11-07-spread-home-4pt5",
-   "question": "Spread: Texas Tech (-4.5)",
-   "outcome": "West Virginia",
-   "idx": 1,
-   "shares": 70.2912483612282,
-   "cost_ex": 2.811649934449128,
-   "fees": 0.08097551811213487,
-   "opened_at": 1794118596829,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.32)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 35.1456241806141,
-   "status": null
-  },
-  "83669724162460030813382052456664520668737498082317438974965485987594255717526": {
-   "token": "83669724162460030813382052456664520668737498082317438974965485987594255717526",
-   "market_id": "6277174",
-   "slug": "cfb-txst-oregst-2026-11-07-total-67pt5",
-   "question": "Texas State vs. Oregon State: O/U 67.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 31.267453937429348,
-   "cost_ex": 2.8140708543686412,
-   "fees": 0.07682413432426391,
-   "opened_at": 1794118597091,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.55)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.501396314994348,
-   "status": null
-  },
-  "76699899708344647076710339569023057500224637509673205494235579718869366439614": {
-   "token": "76699899708344647076710339569023057500224637509673205494235579718869366439614",
-   "market_id": "6277175",
-   "slug": "cfb-txst-oregst-2026-11-07-total-69pt5",
-   "question": "Texas State vs. Oregon State: O/U 69.5",
-   "outcome": "Over",
-   "idx": 0,
-   "shares": 13.932553519771275,
-   "cost_ex": 2.8544873095473937,
-   "fees": 0.06761865685054479,
-   "opened_at": 1794118598010,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.54)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.8359532111862765,
-   "status": null
-  },
-  "86405688845894479020137396887490584636805514445799906051949633249180464452971": {
-   "token": "86405688845894479020137396887490584636805514445799906051949633249180464452971",
-   "market_id": "6272652",
-   "slug": "cfb-wvir-txtech-2026-11-07-spread-home-1pt5",
-   "question": "Spread: Texas Tech (-1.5)",
-   "outcome": "West Virginia",
-   "idx": 1,
-   "shares": 140.68588941594774,
-   "cost_ex": 2.813717788318955,
-   "fees": 0.08272330297657728,
-   "opened_at": 1794118599022,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.62)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.4068588941594786,
-   "status": null
-  },
-  "56018461480428932183167707107755400430126397227076459174207795071161676493016": {
-   "token": "56018461480428932183167707107755400430126397227076459174207795071161676493016",
-   "market_id": "6277239",
-   "slug": "cfb-wyom-unlv-2026-11-07-spread-away-7pt5",
-   "question": "Spread: Wyoming (-7.5)",
-   "outcome": "UNLV",
-   "idx": 1,
-   "shares": 11.273116278346945,
-   "cost_ex": 2.952703720720614,
-   "fees": 0.06523138925134908,
-   "opened_at": 1794118599408,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.51)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.0145804650512247,
-   "status": null
-  },
-  "19774012957755265260176185260071173594177482585452378993792727919977743204721": {
-   "token": "19774012957755265260176185260071173594177482585452378993792727919977743204721",
-   "market_id": "6277243",
-   "slug": "cfb-wyom-unlv-2026-11-07-spread-away-3pt5",
-   "question": "Spread: Wyoming (-3.5)",
-   "outcome": "UNLV",
-   "idx": 1,
-   "shares": 20.243647652681506,
-   "cost_ex": 2.834110671375411,
-   "fees": 0.0731200553214856,
-   "opened_at": 1794118599572,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.35)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 1.2146188591608915,
-   "status": null
-  },
-  "59852729817733606640298932899124870655890488904921901729463137754193600984591": {
-   "token": "59852729817733606640298932899124870655890488904921901729463137754193600984591",
-   "market_id": "6277237",
-   "slug": "cfb-wyom-unlv-2026-11-07-spread-away-10pt5",
-   "question": "Spread: Wyoming (-10.5)",
-   "outcome": "UNLV",
-   "idx": 1,
-   "shares": 9.090496853242668,
-   "cost_ex": 3.2725788671673604,
-   "fees": 0.06283351424961331,
-   "opened_at": 1794118599751,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.6)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.18171924477824,
-   "status": null
-  },
-  "94793138117862522986545012397599807108141376846344380401492933676753730798107": {
-   "token": "94793138117862522986545012397599807108141376846344380401492933676753730798107",
-   "market_id": "6277241",
-   "slug": "cfb-wyom-unlv-2026-11-07-spread-away-5pt5",
-   "question": "Spread: Wyoming (-5.5)",
-   "outcome": "UNLV",
-   "idx": 1,
-   "shares": 11.140211285609201,
-   "cost_ex": 3.0078570471144843,
-   "fees": 0.0658720693318072,
-   "opened_at": 1794118599918,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.39)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 0.7798147899926435,
-   "status": null
-  },
-  "18626283064617819316974405801619261548580565293448070817789560493718997019931": {
-   "token": "18626283064617819316974405801619261548580565293448070817789560493718997019931",
-   "market_id": "6272635",
-   "slug": "cfb-wvir-txtech-2026-11-07",
-   "question": "West Virginia vs. Texas Tech",
-   "outcome": "West Virginia",
-   "idx": 0,
-   "shares": 147.98976230345306,
-   "cost_ex": 2.811805483765608,
-   "fees": 0.08275143538722185,
-   "opened_at": 1794118600637,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.46)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 25.454239116193925,
-   "status": null
-  },
-  "91819939495068175820813281546682353243972770905772755423515505252572058703440": {
-   "token": "91819939495068175820813281546682353243972770905772755423515505252572058703440",
-   "market_id": "6272653",
-   "slug": "cfb-wvir-txtech-2026-11-07-spread-home-2pt5",
-   "question": "Spread: Texas Tech (-2.5)",
-   "outcome": "West Virginia",
-   "idx": 1,
-   "shares": 93.63430267864717,
-   "cost_ex": 2.809029080359415,
-   "fees": 0.08174274623845897,
-   "opened_at": 1794118601330,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.36)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.8090290803594176,
-   "status": null
-  },
-  "23821271356853674982585492775697834737956934701867635432896182480117581109520": {
-   "token": "23821271356853674982585492775697834737956934701867635432896182480117581109520",
-   "market_id": "6277127",
-   "slug": "cfb-txst-oregst-2026-11-07",
-   "question": "Texas State vs. Oregon State",
-   "outcome": "Oregon State",
-   "idx": 1,
-   "shares": 70.1777931757346,
-   "cost_ex": 2.807111727029384,
-   "fees": 0.08084481773844625,
-   "opened_at": 1794118602027,
-   "source": "copy",
-   "reason": "Copied primm (edge score 4.2, they paid 0.04)",
-   "fee": {
-    "rate": 0.03,
-    "exp": 1
-   },
-   "value": 2.807111727029387,
    "status": null
   },
   "85331727967475315858376579110951571331195967356518101610672711081418221614210": {
@@ -802,11 +482,371 @@
     "rate": 0.05,
     "exp": 1
    },
-   "value": 2.8028255969818896,
+   "value": 2.737643606354404,
+   "status": null
+  },
+  "62241196634539949570048341292124216174258011682931937370528971320456917890081": {
+   "token": "62241196634539949570048341292124216174258011682931937370528971320456917890081",
+   "market_id": "6239548",
+   "slug": "fl1-sbr-lyo-2026-11-08-total-2pt5",
+   "question": "Stade Brestois 29 vs. Olympique Lyonnais: O/U 2.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 14.630901489297937,
+   "cost_ex": 7.608068774434927,
+   "fees": 0.18259365058643826,
+   "opened_at": 1794125691195,
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.5199999992)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 7.461759759541948,
+   "status": null
+  },
+  "59829537164838842479334141813702861148547911732039010889360111029913489232986": {
+   "token": "59829537164838842479334141813702861148547911732039010889360111029913489232986",
+   "market_id": "6240127",
+   "slug": "fl1-ren-lil-2026-11-08-total-2pt5",
+   "question": "Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 15.071362377494193,
+   "cost_ex": 8.590676555171688,
+   "fees": 0.18469954593619137,
+   "opened_at": 1794125691448,
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.57)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 8.43996293139675,
+   "status": null
+  },
+  "115293091276127585345878162491472834216767959640048736693752969353534605710476": {
+   "token": "115293091276127585345878162491472834216767959640048736693752969353534605710476",
+   "market_id": "6239548",
+   "slug": "fl1-sbr-lyo-2026-11-08-total-2pt5",
+   "question": "Stade Brestois 29 vs. Olympique Lyonnais: O/U 2.5",
+   "outcome": "Under",
+   "idx": 1,
+   "shares": 14.550840297899269,
+   "cost_ex": 7.129911745970642,
+   "fees": 0.18181274952225138,
+   "opened_at": 1794125691614,
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.48)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 6.984403342991649,
+   "status": null
+  },
+  "28522360421981705944010083279882258195492679997443334825720974687261710025501": {
+   "token": "28522360421981705944010083279882258195492679997443334825720974687261710025501",
+   "market_id": "6239534",
+   "slug": "sea-int-com-2026-11-08-total-3pt5",
+   "question": "FC Internazionale Milano vs. Como 1907: O/U 3.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 14.960057908149974,
+   "cost_ex": 6.283224321422988,
+   "fees": 0.1822135053212667,
+   "opened_at": 1794125691878,
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.4)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 6.133623742341489,
+   "status": null
+  },
+  "106463354885072584482084782595975826931106222903174345049968611616387211822019": {
+   "token": "106463354885072584482084782595975826931106222903174345049968611616387211822019",
+   "market_id": "6255799",
+   "slug": "chi-sgr-qin-2026-11-08-total-3pt5",
+   "question": "Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5",
+   "outcome": "Over",
+   "idx": 0,
+   "shares": 32.7142654106753,
+   "cost_ex": 4.907139811601295,
+   "fees": 0.20855344199305506,
+   "opened_at": 1794125692044,
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.5)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 4.907139811601295,
+   "status": null
+  },
+  "64270481472599907589158791352494806491044194703723245875415499664444285832518": {
+   "token": "64270481472599907589158791352494806491044194703723245875415499664444285832518",
+   "market_id": "6255770",
+   "slug": "chi-sgr-qin-2026-11-08-spread-home-1pt5",
+   "question": "Spread: Shanghai Shenhua FC (-1.5)",
+   "outcome": "Shanghai Shenhua FC",
+   "idx": 0,
+   "shares": 5.9880179517276195,
+   "cost_ex": 1.6766450264837336,
+   "fees": 0.06035922095341441,
+   "opened_at": 1794125692292,
+   "source": "copy",
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)",
+   "fee": {
+    "rate": 0.05,
+    "exp": 1
+   },
+   "value": 1.856285565035562,
    "status": null
   }
  },
  "closed": [
+  {
+   "t": 1794125687998,
+   "question": "Texas State vs. Oregon State",
+   "outcome": "Oregon State",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.04)",
+   "shares": 70.18,
+   "avg": 0.04,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687874,
+   "question": "Spread: Texas Tech (-2.5)",
+   "outcome": "West Virginia",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.36)",
+   "shares": 93.63,
+   "avg": 0.029999999999999995,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687836,
+   "question": "West Virginia vs. Texas Tech",
+   "outcome": "West Virginia",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.46)",
+   "shares": 147.99,
+   "avg": 0.019,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687797,
+   "question": "Spread: Wyoming (-5.5)",
+   "outcome": "UNLV",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.39)",
+   "shares": 11.14,
+   "avg": 0.27,
+   "final": 0,
+   "cost": 3.07,
+   "payout": 0,
+   "pnl": -3.07,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687669,
+   "question": "Spread: Wyoming (-10.5)",
+   "outcome": "UNLV",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.6)",
+   "shares": 9.09,
+   "avg": 0.36,
+   "final": 1,
+   "cost": 3.34,
+   "payout": 9.09,
+   "pnl": 5.76,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794125687543,
+   "question": "Spread: Wyoming (-3.5)",
+   "outcome": "UNLV",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.35)",
+   "shares": 20.24,
+   "avg": 0.14,
+   "final": 0,
+   "cost": 2.91,
+   "payout": 0,
+   "pnl": -2.91,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687418,
+   "question": "Spread: Wyoming (-7.5)",
+   "outcome": "UNLV",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.51)",
+   "shares": 11.27,
+   "avg": 0.2619243559469067,
+   "final": 1,
+   "cost": 3.02,
+   "payout": 11.27,
+   "pnl": 8.26,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794125687296,
+   "question": "Spread: Texas Tech (-1.5)",
+   "outcome": "West Virginia",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.62)",
+   "shares": 140.69,
+   "avg": 0.02,
+   "final": 0,
+   "cost": 2.9,
+   "payout": 0,
+   "pnl": -2.9,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687257,
+   "question": "Texas State vs. Oregon State: O/U 69.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.54)",
+   "shares": 13.93,
+   "avg": 0.20487897681474362,
+   "final": 0,
+   "cost": 2.92,
+   "payout": 0,
+   "pnl": -2.92,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687133,
+   "question": "Texas State vs. Oregon State: O/U 67.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.55)",
+   "shares": 31.27,
+   "avg": 0.09,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125687006,
+   "question": "Spread: Texas Tech (-4.5)",
+   "outcome": "West Virginia",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.32)",
+   "shares": 70.29,
+   "avg": 0.04,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125686868,
+   "question": "Spread: Texas State (-4.5)",
+   "outcome": "Oregon State",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.35)",
+   "shares": 35.16,
+   "avg": 0.08,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125686743,
+   "question": "Spread: Texas State (-7.5)",
+   "outcome": "Oregon State",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.487010205)",
+   "shares": 15.95,
+   "avg": 0.18,
+   "final": 0,
+   "cost": 2.94,
+   "payout": 0,
+   "pnl": -2.94,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125686619,
+   "question": "Spread: Wyoming (-6.5)",
+   "outcome": "UNLV",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.53)",
+   "shares": 16.83,
+   "avg": 0.17,
+   "final": 1,
+   "cost": 2.93,
+   "payout": 16.83,
+   "pnl": 13.9,
+   "result": "won",
+   "group": null
+  },
+  {
+   "t": 1794125686491,
+   "question": "Texas State vs. Oregon State: O/U 73.5",
+   "outcome": "Over",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.57)",
+   "shares": 70.34,
+   "avg": 0.04,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
+  {
+   "t": 1794125686362,
+   "question": "Wyoming vs. UNLV: O/U 67.5",
+   "outcome": "Under",
+   "source": "copy",
+   "reason": "Copied primm (edge score 4.2, they paid 0.72)",
+   "shares": 35.19,
+   "avg": 0.08,
+   "final": 0,
+   "cost": 2.89,
+   "payout": 0,
+   "pnl": -2.89,
+   "result": "lost",
+   "group": null
+  },
   {
    "t": 1794118573643,
    "question": "Spread: Auburn (-10.5)",
@@ -3818,6 +3858,254 @@
   }
  ],
  "trades": [
+  {
+   "t": 1794125692292,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Spread: Shanghai Shenhua FC (-1.5)",
+   "outcome": "Shanghai Shenhua FC",
+   "shares": 5.99,
+   "price": 0.28,
+   "fee": 0.06,
+   "amount": -1.74,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.42)"
+  },
+  {
+   "t": 1794125692044,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5",
+   "outcome": "Over",
+   "shares": 32.71,
+   "price": 0.15,
+   "fee": 0.21,
+   "amount": -5.12,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.5)"
+  },
+  {
+   "t": 1794125691878,
+   "type": "BUY",
+   "source": "copy",
+   "question": "FC Internazionale Milano vs. Como 1907: O/U 3.5",
+   "outcome": "Over",
+   "shares": 14.96,
+   "price": 0.42,
+   "fee": 0.18,
+   "amount": -6.47,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.4)"
+  },
+  {
+   "t": 1794125691614,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Stade Brestois 29 vs. Olympique Lyonnais: O/U 2.5",
+   "outcome": "Under",
+   "shares": 14.55,
+   "price": 0.49,
+   "fee": 0.18,
+   "amount": -7.31,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.48)"
+  },
+  {
+   "t": 1794125691448,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5",
+   "outcome": "Over",
+   "shares": 15.07,
+   "price": 0.5699999999999998,
+   "fee": 0.18,
+   "amount": -8.78,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.57)"
+  },
+  {
+   "t": 1794125691195,
+   "type": "BUY",
+   "source": "copy",
+   "question": "Stade Brestois 29 vs. Olympique Lyonnais: O/U 2.5",
+   "outcome": "Over",
+   "shares": 14.63,
+   "price": 0.52,
+   "fee": 0.18,
+   "amount": -7.79,
+   "reason": "Copied ferrariChampions2026 (edge score 3.1, they paid 0.5199999992)"
+  },
+  {
+   "t": 1794125687998,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Texas State vs. Oregon State",
+   "outcome": "Oregon State",
+   "shares": 70.18,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687874,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Texas Tech (-2.5)",
+   "outcome": "West Virginia",
+   "shares": 93.63,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687836,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "West Virginia vs. Texas Tech",
+   "outcome": "West Virginia",
+   "shares": 147.99,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687797,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Wyoming (-5.5)",
+   "outcome": "UNLV",
+   "shares": 11.14,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687669,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Wyoming (-10.5)",
+   "outcome": "UNLV",
+   "shares": 9.09,
+   "price": 1,
+   "fee": 0,
+   "amount": 9.09
+  },
+  {
+   "t": 1794125687543,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Wyoming (-3.5)",
+   "outcome": "UNLV",
+   "shares": 20.24,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687418,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Wyoming (-7.5)",
+   "outcome": "UNLV",
+   "shares": 11.27,
+   "price": 1,
+   "fee": 0,
+   "amount": 11.27
+  },
+  {
+   "t": 1794125687296,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Texas Tech (-1.5)",
+   "outcome": "West Virginia",
+   "shares": 140.69,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687257,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Texas State vs. Oregon State: O/U 69.5",
+   "outcome": "Over",
+   "shares": 13.93,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687133,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Texas State vs. Oregon State: O/U 67.5",
+   "outcome": "Over",
+   "shares": 31.27,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125687006,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Texas Tech (-4.5)",
+   "outcome": "West Virginia",
+   "shares": 70.29,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125686868,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Texas State (-4.5)",
+   "outcome": "Oregon State",
+   "shares": 35.16,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125686743,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Texas State (-7.5)",
+   "outcome": "Oregon State",
+   "shares": 15.95,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125686619,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Spread: Wyoming (-6.5)",
+   "outcome": "UNLV",
+   "shares": 16.83,
+   "price": 1,
+   "fee": 0,
+   "amount": 16.83
+  },
+  {
+   "t": 1794125686491,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Texas State vs. Oregon State: O/U 73.5",
+   "outcome": "Over",
+   "shares": 70.34,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
+  {
+   "t": 1794125686362,
+   "type": "SETTLE",
+   "source": "copy",
+   "question": "Wyoming vs. UNLV: O/U 67.5",
+   "outcome": "Under",
+   "shares": 35.19,
+   "price": 0,
+   "fee": 0,
+   "amount": 0
+  },
   {
    "t": 1794118607967,
    "type": "BUY",
@@ -9268,6 +9556,11 @@
    "t": 1794118613634,
    "value": 497.53,
    "cash": 0
+  },
+  {
+   "t": 1794125696593,
+   "value": 444.47,
+   "cash": 0
   }
  ],
  "follows": {
@@ -9417,7 +9710,7 @@
   }
  },
  "last_seen_trade": {
-  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794118519,
+  "0xd38b71f3e8ed1af71983e5c309eac3dfa9b35029": 1794121171,
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": 1793586811,
   "0xf3ce7f04dde4f8c5aed19a20e5ecd8520e5ca57a": 1794096445,
   "0xe16d3f2a5807999b358affd9445c3a09e45e5e30": 1794097200,
@@ -9425,16 +9718,124 @@
   "0xc9bfc7986767173b4f1c3fc9b2c6b255fc7381c0": 1793866914,
   "0xecaa8806a9a05049d7d5260a33dc924220e377a9": 1794042981,
   "0x0259b2054f046fe0ee8f3e075fdb85fc3ba9769e": 1794064806,
-  "0xc8b9a30184244d427169cf62485dde6041b2b836": 1794052054,
+  "0xc8b9a30184244d427169cf62485dde6041b2b836": 1794124831,
   "0x94c4fe3b18435aa92024c7c1589537fcda3f43ca": 1793834092,
   "0x5815db9fdf0e0ffdc1d1f759916b221339570ae7": 1794072204,
   "0x79ae097215202b5d01f98e4479fb219102469a4a": 1794081868,
   "0x31fb6a91f641ffb7c6fe71645975821def770ca6": 1794112819,
   "0x9c56304c8840621ef4c1e707b4c7d708d09878d1": 1794107805,
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": 1794118435,
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": 1794124797,
   "0x38337de21ff0bb0a11a40761507d51e318d633d1": 1794107809
  },
  "log": [
+  {
+   "t": 1794125694134,
+   "msg": "Skipped copying ferrariChampions2026 on \"Spread: Shanghai Shenhua FC (-1.5)\": price moved from 0.57 to 0.73"
+  },
+  {
+   "t": 1794125693469,
+   "msg": "Skipped copying ferrariChampions2026 on \"Spread: Zhejiang Zhiye FC (-1.5)\": price moved from 0.5099999999 to 0.81"
+  },
+  {
+   "t": 1794125693302,
+   "msg": "Skipped copying ferrariChampions2026 on \"Qingdao Hainiu FC vs. Shenzhen Xinpengcheng FC: O/U 3.5\": price moved from 0.41 to 0.6"
+  },
+  {
+   "t": 1794125692793,
+   "msg": "Skipped copying ferrariChampions2026 on \"Dalian Yingbo FC vs. Tianjin Jinmen Hu FC: O/U 2.5\": price moved from 0.4299999998 to 0.5"
+  },
+  {
+   "t": 1794125692533,
+   "msg": "Skipped copying ferrariChampions2026 on \"Shanghai Haigang FC vs. Liaoning Tieren FC: O/U 4.5\": price moved from 0.4799999997 to 0.69"
+  },
+  {
+   "t": 1794125692292,
+   "msg": "Copied ferrariChampions2026: bought 6.0 Shanghai Shenhua FC on \"Spread: Shanghai Shenhua FC (-1.5)\" for $1.74"
+  },
+  {
+   "t": 1794125692044,
+   "msg": "Copied ferrariChampions2026: bought 32.7 Over on \"Shanghai Shenhua FC vs. Qingdao Xihaian FC: O/U 3.5\" for $5.12"
+  },
+  {
+   "t": 1794125691878,
+   "msg": "Copied ferrariChampions2026: bought 15.0 Over on \"FC Internazionale Milano vs. Como 1907: O/U 3.5\" for $6.47"
+  },
+  {
+   "t": 1794125691614,
+   "msg": "Copied ferrariChampions2026: bought 14.6 Under on \"Stade Brestois 29 vs. Olympique Lyonnais: O/U 2.5\" for $7.31"
+  },
+  {
+   "t": 1794125691448,
+   "msg": "Copied ferrariChampions2026: bought 15.1 Over on \"Stade Rennais FC 1901 vs. Lille OSC: O/U 2.5\" for $8.78"
+  },
+  {
+   "t": 1794125691195,
+   "msg": "Copied ferrariChampions2026: bought 14.6 Over on \"Stade Brestois 29 vs. Olympique Lyonnais: O/U 2.5\" for $7.79"
+  },
+  {
+   "t": 1794125687998,
+   "msg": "Settled: Oregon State on \"Texas State vs. Oregon State\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125687874,
+   "msg": "Settled: West Virginia on \"Spread: Texas Tech (-2.5)\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125687836,
+   "msg": "Settled: West Virginia on \"West Virginia vs. Texas Tech\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125687797,
+   "msg": "Settled: UNLV on \"Spread: Wyoming (-5.5)\" -> lost (-3.07)"
+  },
+  {
+   "t": 1794125687669,
+   "msg": "Settled: UNLV on \"Spread: Wyoming (-10.5)\" -> won (+5.76)"
+  },
+  {
+   "t": 1794125687543,
+   "msg": "Settled: UNLV on \"Spread: Wyoming (-3.5)\" -> lost (-2.91)"
+  },
+  {
+   "t": 1794125687418,
+   "msg": "Settled: UNLV on \"Spread: Wyoming (-7.5)\" -> won (+8.26)"
+  },
+  {
+   "t": 1794125687296,
+   "msg": "Settled: West Virginia on \"Spread: Texas Tech (-1.5)\" -> lost (-2.90)"
+  },
+  {
+   "t": 1794125687257,
+   "msg": "Settled: Over on \"Texas State vs. Oregon State: O/U 69.5\" -> lost (-2.92)"
+  },
+  {
+   "t": 1794125687133,
+   "msg": "Settled: Over on \"Texas State vs. Oregon State: O/U 67.5\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125687006,
+   "msg": "Settled: West Virginia on \"Spread: Texas Tech (-4.5)\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125686868,
+   "msg": "Settled: Oregon State on \"Spread: Texas State (-4.5)\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125686743,
+   "msg": "Settled: Oregon State on \"Spread: Texas State (-7.5)\" -> lost (-2.94)"
+  },
+  {
+   "t": 1794125686619,
+   "msg": "Settled: UNLV on \"Spread: Wyoming (-6.5)\" -> won (+13.90)"
+  },
+  {
+   "t": 1794125686491,
+   "msg": "Settled: Over on \"Texas State vs. Oregon State: O/U 73.5\" -> lost (-2.89)"
+  },
+  {
+   "t": 1794125686362,
+   "msg": "Settled: Under on \"Wyoming vs. UNLV: O/U 67.5\" -> lost (-2.89)"
+  },
   {
    "t": 1794118607967,
    "msg": "Copied ferrariChampions2026: bought 6.5 Over on \"Crystal Palace FC vs. Liverpool FC: O/U 3.5\" for $2.95"
@@ -10526,114 +10927,6 @@
   {
    "t": 1793945680532,
    "msg": "Settled: James Madison on \"Spread: James Madison (-14.5)\" -> won (+6.03)"
-  },
-  {
-   "t": 1793945680404,
-   "msg": "Settled: Over on \"James Madison vs. Southern Miss: O/U 59.5\" -> won (+6.31)"
-  },
-  {
-   "t": 1793945680359,
-   "msg": "Settled: Over on \"James Madison vs. Southern Miss: O/U 57.5\" -> won (+5.45)"
-  },
-  {
-   "t": 1793938564319,
-   "msg": "Copied primm: bought 3769.3 Under on \"James Madison vs. Southern Miss: O/U 57.5\" for $4.01"
-  },
-  {
-   "t": 1793938564028,
-   "msg": "Copied primm: bought 14.4 Under on \"James Madison vs. Southern Miss: O/U 63.5\" for $4.41"
-  },
-  {
-   "t": 1793938563735,
-   "msg": "Copied primm: bought 3895.6 Ravens on \"Spread: Jaguars (-17.5)\" for $4.01"
-  },
-  {
-   "t": 1793938563437,
-   "msg": "Copied primm: bought 3896.3 Ravens on \"Spread: Jaguars (-16.5)\" for $4.01"
-  },
-  {
-   "t": 1793938563144,
-   "msg": "Copied primm: bought 3897.1 Ravens on \"Spread: Jaguars (-13.5)\" for $4.01"
-  },
-  {
-   "t": 1793938562837,
-   "msg": "Copied primm: bought 3897.9 Ravens on \"Spread: Jaguars (-20.5)\" for $4.01"
-  },
-  {
-   "t": 1793938562190,
-   "msg": "Copied primm: bought 3898.6 Southern Miss on \"James Madison vs. Southern Miss\" for $4.02"
-  },
-  {
-   "t": 1793938555455,
-   "msg": "Settled: Under on \"UTSA vs. Florida Atlantic: O/U 65.5\" -> lost (-3.86)"
-  },
-  {
-   "t": 1793938555331,
-   "msg": "Settled: Under on \"UTSA vs. Florida Atlantic: O/U 71.5\" -> lost (-3.87)"
-  },
-  {
-   "t": 1793938554648,
-   "msg": "Settled: No on \"Will Republicans hold ≤46 Senate seats and ≤192 House seats after the 2026 midterms?\" -> lost (-27.70)"
-  },
-  {
-   "t": 1793931282623,
-   "msg": "Copied fantasy7788: bought 33.7 Suns on \"Magic vs. Suns\" for $17.63"
-  },
-  {
-   "t": 1793931281431,
-   "msg": "Skipped copying primm on \"Jaguars vs. Ravens: O/U 36.5\": price moved from 0.35 to 0.49"
-  },
-  {
-   "t": 1793931281173,
-   "msg": "Copied primm: bought 12.3 Ravens on \"Spread: Jaguars (-6.5)\" for $4.52"
-  },
-  {
-   "t": 1793931280892,
-   "msg": "Copied primm: bought 13.0 Ravens on \"Spread: Jaguars (-5.5)\" for $4.37"
-  },
-  {
-   "t": 1793931280699,
-   "msg": "Skipped copying primm on \"James Madison vs. Southern Miss: O/U 57.5\": price moved from 0.44 to 0.53"
-  },
-  {
-   "t": 1793931280418,
-   "msg": "Skipped copying primm on \"Spread: UTSA (-3.5)\": price moved from 0.5199632893 to 0.74"
-  },
-  {
-   "t": 1793931280104,
-   "msg": "Skipped copying primm on \"Spread: UTSA (-1.5)\": price moved from 0.42 to 0.65"
-  },
-  {
-   "t": 1793931279826,
-   "msg": "Copied primm: bought 94.9 Under on \"UTSA vs. Florida Atlantic: O/U 65.5\" for $3.86"
-  },
-  {
-   "t": 1793931279527,
-   "msg": "Skipped copying primm on \"UTSA vs. Florida Atlantic\": price moved from 0.36 to 0.59"
-  },
-  {
-   "t": 1793931279338,
-   "msg": "Copied primm: bought 38.1 Under on \"UTSA vs. Florida Atlantic: O/U 71.5\" for $3.87"
-  },
-  {
-   "t": 1793931278412,
-   "msg": "Settled: Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner\" -> lost (-11.14)"
-  },
-  {
-   "t": 1793931278352,
-   "msg": "Settled: Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner\" -> lost (-8.47)"
-  },
-  {
-   "t": 1793931277521,
-   "msg": "Settled: No on \"Will the Democratic Party win the NJ-02 House seat?\" -> lost (-9.35)"
-  },
-  {
-   "t": 1793924081397,
-   "msg": "Copied fantasy7788: bought 97.0 Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 3 Winner\" for $11.14"
-  },
-  {
-   "t": 1793924080907,
-   "msg": "Copied BrotherObama: bought 8063.2 Dplus KIA on \"LoL: Dplus KIA vs Bilibili Gaming - Game 2 Winner\" for $8.47"
   }
  ]
 }
