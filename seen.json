@@ -60,6 +60,26 @@
       "name": "CORGII",
       "first_reported": "2026-11-06",
       "edge_score": 3
+    },
+    "0x31fb6a91f641ffb7c6fe71645975821def770ca6": {
+      "name": "marvelousmarvin",
+      "first_reported": "2026-11-07",
+      "edge_score": 3.5
+    },
+    "0x9c56304c8840621ef4c1e707b4c7d708d09878d1": {
+      "name": "GAMBLINGISCANCER69",
+      "first_reported": "2026-11-07",
+      "edge_score": 3.2
+    },
+    "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
+      "name": "ferrariChampions2026",
+      "first_reported": "2026-11-07",
+      "edge_score": 3.1
+    },
+    "0x38337de21ff0bb0a11a40761507d51e318d633d1": {
+      "name": "SineNooneEI",
+      "first_reported": "2026-11-07",
+      "edge_score": 3.1
     }
   }
 }
